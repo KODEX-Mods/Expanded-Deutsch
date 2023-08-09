@@ -1,0 +1,29 @@
+﻿l_german:
+ nick_batonian: "der Batonnier"
+ nick_unitor: "der Einiger"
+ nick_goth: "der Gotländer"
+ nick_dane: "der Däne"
+ nick_northman: "der Nordmann"
+ nick_swede: "der Schwede"
+ nick_jute: "der Jüte"
+ nick_the_heathen_ce: "der Heide"
+ 
+ new_neretljanian_noun: "Čakavier"
+ new_neretljanian_c_noun: "Čakavier"
+ new_neretljanian_prefix: "Čakavo"
+ 
+ servian_noun: "Servisch"
+ servian_c_noun: "Servianer"
+ servian_prefix: "Servo"
+ 
+ montenegrin_noun: "Zetaneisch"
+ montenegrin_c_noun: "Zetaner"
+ montenegrin_prefix: "Zeto"
+ 
+ slavene_noun: "Slavenisch"
+ slavene_c_noun: "Slavenen"
+ slavene_prefix: "Slaveno"
+ 
+ kajkavian_noun: "Kajkavianisch"
+ kajkavian_c_noun: "Kajkavianer"
+ kajkavian_prefix: "Kajkavo"

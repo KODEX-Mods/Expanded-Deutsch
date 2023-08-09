@@ -1,0 +1,64 @@
+﻿l_german:
+ game_concept_romanobrit: "Romano-Britonisch"
+ game_concept_romanobrittonic: "Romano-Britonisch"
+ game_concept_romano_briton: "Romano-Britonen"
+ game_concept_briton: "Britonisch"
+ game_concept_romano_briton_desc: "Die Romano-Britonen oder kurz Britonen waren die unterschiedlich romanisierten [oldbrit|E], die Britannien bis zum 5. Jahrhundert n. Chr. bewohnten, als die Provinz aufgrund von piktischen, irischen und sächsischen [raids|E] allmählich in eine kriegerische Anarchie fiel.\n\nAls Rom Britannien um das Jahr 440 n. Chr. endgültig aufgab, gründeten opportunistische britische Kriegsherren ihre eigenen [kingdoms|E] und bedienten sich dabei germanischer [mercenaries|E], die oft dazu neigten, die Führung an sich zu reißen. \nIn einigen Fällen scheint sich die herrschende Elite jedoch gehalten zu haben und wurde im Laufe der Jahrhunderte schlichtweg von ihren Gefolgsleuten assimiliert.\n\nBis zum 7. Jahrhundert wurden die Britonen entweder kulturell an neue [Concept('anglosaxon', 'Angelsächsische')|E] Gruppen angeglichen oder entwickelten sich allmählich zu den verschiedenen britannischen Völkern."
+
+ game_concept_oldbrit: "Pritanisch"
+ game_concept_old_briton: "Pritanier"
+ game_concept_old_briton_desc: "Die Pritanier (griech. Prettanoí) waren die ursprünglichen Bewohner der Insel Britannien vor der römischen Eroberung. \n\nNach der Invasion von Claudius wurde die Insel allmählich in die römische Welt integriert, was zu einer stetigen Romanisierung der Pritanier innerhalb der Provinz führte, während sich die Menschen jenseits der Mauern im Norden schließlich zu den Vorfahren der Pikten entwickelten. \n\nWährend die ursprünglichen Pritanier längst verschwunden sind, haben ihre Sprache sowie Aspekte ihrer Kultur in den späteren [Concept('romanobrit', 'Romano-Britonischen')|E] und Piktischen Traditionen überdauert."
+
+ game_concept_anglosaxon: "Angelsächsisch"
+ game_concept_anglo_saxon: "Angelsachsen"
+ game_concept_anglo_saxon_desc: "Die Angelsachsen waren eine Gruppe von Ænglisċ sprechenden Völkern, die seit der vorrömischen Zeit ab dem 5. Jahrhundert Britannien bevölkerten. \n\nDa sie von den assimilierten [romano_briton|E] und verschiedenen germanischen [mercenaries|E]-Gruppen abstammten, waren sie nie eine wirklich geeinte Kraft. Dank der Bemühungen von Schreibern wie Bede entwickelten die Ænglisċ sprechenden Bewohner der vielen germanischen [kingdoms|E] jedoch allmählich eine gemeinsame angelsächsische Identität, die sich von den Franken auf dem Festland und den britonisch sprechenden [romano_briton|E] von Wales und Cornwall unterschied."
+
+ game_concept_eastslavic: "Ostslawisch"
+ game_concept_east_slavs: "Ostslawen"
+ game_concept_east_slavs_desc: "Die Ostslawen, auch bekannt als Rus oder Ruthenen, sind die Nachkommen der [old_slavs|E], die wahrscheinlich aus ihrer angestammten Heimat Podlachien gen Osten gewandert sind.\n\nDiese Ostslawen, die sich in der pontischen Steppe und den ehemals baltischen und finno-ugrischen Gebieten im Norden niederließen, gerieten allmählich unter den Einfluss der nordgermanischen Waräger und der Byzantiner, die sich vom Schwarzen Meer her allmählich nach Norden ausbreiteten. Im 9. Jahrhundert waren die Ostslawen in verschiedene Stämme aufgeteilt, die in unterschiedlicher Weise von ihren zahlreichen Nachbarn beeinflusst wurden, bevor schließlich die Kiewer Rus entstand.\n\nGeprägt von der byzantinisch und nordgermanisch beeinflussten [culture|E] und ihrem ostslawischen [heritage|E], bilden die Ostslawen das Bindeglied zwischen den [west_slavs|E] und [south_slavs|E]."
+
+ game_concept_westslavic: "Westslawisch"
+ game_concept_west_slavs: "Westslawen"
+ game_concept_west_slavs_desc: "Die Westslawen, umgangssprachlich auch als Wenden oder Lechiten bezeichnet, sind Nachfahren der [old_slavs|E], die nach Westen in die ehemals germanischen Gebiete der Lugier, Gotonen und Warnen eingewandert sind.\n\nDie verschiedenen westslawischen Stämme ließen sich entlang der Weichsel, der Oder und der Elbe nieder und bevölkerten diese Gebiete nach und nach wieder, nachdem ihre früheren Bewohner abgewandert waren, während sie gleichzeitig die wenigen Gruppen assimilierten, die zurückgeblieben waren. Bis zum 9. Jahrhundert hatten sich die meisten dieser lechitischen Stämme im westlichen Teil der nordeuropäischen Tiefebene niedergelassen und verstrickten sich immer mehr mit den sie umgebenden fränkischen und bulgarischen Staaten, was zum Entstehen einheimischer Fürstentümer wie Mähren oder Polen beitrug.\n\nGeprägt von ihrer fränkisch beeinflussten [culture|E] und ihrem westslawischen [heritage|E], bilden die Westslawen die nördliche Verbindung zwischen den [east_slavs|E] und den [pannonian_slavs|E]."
+
+ game_concept_southslavic: "Südslawisch"
+ game_concept_south_slavs: "Südslawen"
+ game_concept_south_slavs_desc: "Die Südslawen, umgangssprachlich auch Sklavinen oder Illyrer bezeichnet, sind Nachfahren der [old_slavs|E], die vor dem Vormarsch der Awaren flohen und im Laufe des 6. und 7. Jahrhunderts in byzantinisches Gebiet eindrangen.\n\nDurch die rasche Besiedlung der Gebiete, die sich vom Schwarzen Meer bis zu den Dinarischen Alpen erstreckten, wurden die Südslawen im 9. Jahrhundert zur dominierenden ethnisch-linguistischen Gruppe auf dem Balkan, nachdem sie die meisten der dort ansässigen griechischen, romanischen und alt-illyrischen Völker assimiliert hatten.\n\nGeprägt von ihrer byzantinisch und fränkisch beeinflussten [culture|E] und ihrem südslawischen [heritage|E], bilden die Südslawen die südliche Verbindung zwischen den [east_slavs|E] und den [Concept('pannonian_slavs', 'Pannonischen Slawen')|E]."
+
+ game_concept_pannonianslavic: "Pannonisch-Slawisch"
+ game_concept_pannonian_slavs: "Pannonische Slawen"
+ game_concept_pannonian_slavs_desc: "Die Pannonischen Slawen sind Nachfahren der [old_slavs|E], die vom 6. bis 9. Jahrhundert unter der Herrschaft der Awaren lebten.\n\nNach dem Zerfall des Awaren-Khaganats im späten 8. Jahrhundert nutzten die Pannonischen Slawen das zurückgelassene Machtvakuum, um eine Reihe eigener Fürstentümer wie Savien, Balaton und Karantanien zu gründen, die alle im Laufe des 9. Jahrhunderts in unterschiedlichem Maße in den fränkischen Machtbereich fallen sollten.\n\nGeprägt durch ihre fränkisch geprägte [culture|E] und ihr gemischtes süd- und westslawisches [heritage|E], bilden die Pannonischen Slawen das Bindeglied zwischen den [south_slavs|E] und [west_slavs|E]."
+
+ game_concept_oldslavic: "Slawisch"
+ game_concept_old_slavs: "Slawen"
+ game_concept_old_slavs_desc: "Die Slawen sind die Vorfahren der vielen slawischen Völker, die ab dem 6. Jahrhundert n. Chr. einen Großteil Osteuropas besiedelten.\n\nWährend die genaue Herkunft und Ethnogenese der Slawen bis heute ein Rätsel bleibt, liegt die wahrscheinlichste Heimat dieser Altslawen in der Region Podlachien zwischen der Ukraine und Weißrussland, von wo aus sie nach Osten, Süden und Westen nach Ruthenien, Polen, Ostdeutschland, Pannonien und auf den Balkan zogen. Obwohl es sehr wahrscheinlich ist, dass viele slawische Völker ihren Ursprung in bereits bestehenden Völkern haben, die im Zuge dieser slawischen Wanderungen assimiliert wurden, betrachteten sie sich selbst und ihre Nachbarn bis in die frühe Neuzeit hinein mehr oder weniger als ein einziges Volk.\n\nIn diesem Spiel sind die Slawen die angestammte Kultur der verschiedenen ost-, west-, süd- und pannonischen Slawen."
+
+ game_concept_iranian: "Ērānisch"
+ game_concept_iranians: "Ērānier"
+ game_concept_iranianized: "Ērānianisiert"
+ game_concept_iranians_desc: "Die Ērānier, umgangssprachlich auch als Sassaniden oder bisweilen vereinfacht und irrtümlich als "Perser" bezeichnet, waren die Bevölkerung des Sassanidenreiches, dessen Eigenbezeichnung Eranschahr lautete, das den Iran vom 3. bis zum 7. Jahrhundert beherrschte.\n\nDas Haus von Sāsān, die Dynastie der Sāsāniden, stammte aus der historischen Provinz Pars und stürzte im 3. Jahrhundert n. Chr. die arsakidischen Parther, die den Iran bis dahin beherrscht hatten, und begründete damit das Sassanidenreich, das in den nächsten vier Jahrhunderten die Hochebene beherrschen sollte. Das Sassanidenreich, das sich selbst als wiederhergestelltes Achämenidenreich, das Altpersische Reich, darstellte und während des letzten sassanidisch-byzantinischen Krieges sogar beinahe die historischen Grenzen wiederhergestellt hätte, war nach jahrzehntelangem Krieg letztlich geschwächt und wurde so zu einem leichten Ziel für das junge Islamische Kalifat.\n\nNach der islamischen Eroberung des Irans begannen die vielen Völker des ehemaligen Reiches allmählich zur neuen Religion zu konvertieren, wodurch neue einheimische iranische Dynastien wie die Saffāriden oder Sāmāniden während des iranischen Intermezzos entstanden. Diese Dynastien waren nicht nur die treibende Kraft hinter der Integration von Choresmien und Sogdien in die Ērānische Sphäre, sondern auch Förderer der Kultur und der Künste, aus denen die islamisch-persische kulturelle Fusion hervorging.\n\nGeprägt durch ihr iranisches [heritage|E] und verschiedene iranische [languages|E] wie Persisch, Choresmisch oder Kaspisch, bilden die vielen Nachfahren der Ērānier immer noch die dominierende Gruppe auf der iranischen Hochebene und in Zentralasien."
+
+ game_concept_scytho_sarmatian: "Ostiranisch"
+ game_concept_scytho_sarmatians: "Ostiraner"
+ game_concept_scythian: "Skythisch"
+ game_concept_scythians: "Skythen"
+ game_concept_sarmatian: "Sarmatisch"
+ game_concept_sarmatians: "Sarmaten"
+ game_concept_chorasmian: "Choresmisch"
+ game_concept_chorasmians: "Chorasmier"
+ game_concept_pactyran: "Pactyanisch" 
+ game_concept_pactyrans: "Pactyans" #scheint laut https://de.wikipedia.org/wiki/Paschtunen die richtige Übersetzung zu sein
+ game_concept_saka: "Sakisch"
+ game_concept_sakas: "Saken"
+ game_concept_parni: "Parni"
+ game_concept_scytho_sarmatians_desc: "Die Ostiraner, auch bekannt als Skythen, Sarmaten oder Saken, sind ein antikes Volk, das einst die Steppen Eurasiens besiedelte und im Westen bis nach Pannonien und im Osten bis nach Schetissu, dem Siebenstromland, vordrang. Während der Zeit der Völkerwanderung zogen viele Stämme wie die Taifalen oder Alanen in das Römische Reich ein und gründeten gemeinsam mit germanischen Stämmen wie den Vandalen in Nordafrika ihre eigenen Königreiche.\n\nIn der Folge dieser Migrationen assimilierten sich die verbliebenen Ostiraner allmählich in neu entstehenden Gruppen wie den verschiedenen Turk- oder [Concept('oldslavic', 'Altslawischen')|E] Völkern, auch wenn einige wie die Alanen des Kaukasus oder die Saken des Tarimbeckens übrig blieben.\n\nGeprägt durch ihr serindisches und sarmatisches [heritage|E] sowie ihre verschiedenen iranischen [languages|E] wie Alanisch, Sogdisch oder Sakisch, sind die Ostiraner vor allem in Alanien, Kashgar, Khotan sowie in verschiedenen Regionen Indiens zu finden."
+
+ game_concept_aramean: "Aramäisch"
+ game_concept_chaldean: "Chaldäisch"
+ game_concept_athoraya: "Assyrisch"
+ game_concept_arameans: "Aramäer"
+ game_concept_arameans_desc: "Die Aramäer, auch bekannt als Syrer oder Chaldäer, waren ein antikes Volk aus Aram in der Levante. Während der Zeit des Assyrischen Reiches verbreitete sich die aramäische Sprache allmählich in Mesopotamien und ersetzte die alten akkadischen Sprachen, die dort einst gesprochen wurden.\n\nIn der postassyrischen Zeit gerieten die verschiedenen aramäisch sprechenden Völker schrittweise unter den Einfluss benachbarter Reiche, insbesondere der Iraner und Römer, wodurch sich ihre Kultur zunehmend voneinander entfernte.\n\nGeprägt durch ihr aramäisches [heritage|E] und die gemeinsame aramäische [language|E], leben die Nachkommen der Aramäer als Syrer, Assyrer und in der mandäischen Gemeinschaft weiter."
+
+ game_concept_aryan: "Arisch"
+ game_concept_aryans: "Arier"
+ game_concept_sakans: "Saken"

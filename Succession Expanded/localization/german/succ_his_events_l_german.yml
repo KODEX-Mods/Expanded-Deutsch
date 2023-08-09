@@ -1,0 +1,17 @@
+﻿l_german:
+ k_alemania:0 "Alemannien"
+ k_alemania_adj:0 "Alemannisch"
+ k_alemania_pre:0 "Alemanno"
+
+ louis_no_children_modifier:0 "Dieser Charakter wünscht sich keine Kinder mehr."
+
+ historicsucc.001.t:"Divisio Regni"
+
+ historicsucc.001.a:"Verstanden!"
+ historicsucc.001.a.tt: "Das von König Ludwig gehaltene Territorium innerhalb der karolingischen Grenzen wird aufgeteilt:\nKarlmann im Süden,\nLudwig im Norden\nund Karl im Westen."
+
+ historicsucc.001.desc:0 "Nach einer Reihe von Rebellionen seiner Söhne teilte Ludwig der Deutsche im Jahr 865 seine Ländereien unter seinen drei Erben auf, um Frieden und Stabilität in seinem Reich zu fördern. Sein ältester Sohn, Karlmann, erhielt Bayern, sein zweiter Sohn, Ludwig der Jüngere, Franken und Sachsen, und sein dritter Sohn, Karl, Alemannien. Erst nach dem Tod ihres Vaters sollten die Prinzen Herrscher über die ihnen zugewiesenen Gebiete werden. Keiner von ihnen durfte zu Lebzeiten seines Vaters einen Königstitel erhalten, und ihre Stellung in den Staatsgeschäften war genau geregelt. Ludwig der Deutsche behielt alle Vorrechte der königlichen Macht, während seine Söhne darauf warteten, dass sie an der Reihe waren, König zu werden..."
+
+ historicsucc.004.t:"Mein eigenes Königreich"
+ historicsucc.004.desc:"Mein Vater ist tot. Das [mr_left.GetPrimaryTitle.GetName] gehört nun kraft Gesetzes mir. Die Macht, die mein Vater einst vor uns bewahrte, kann ich nun ergreifen. Das Reich muss schnell stabilisiert werden, wenn meine Pläne umgesetzt und meine Ziele erreicht werden sollen. Die Prüfung des Königtums ist nun die meine..."
+ historicsucc.004.a:"Was ist jetzt zu tun?"

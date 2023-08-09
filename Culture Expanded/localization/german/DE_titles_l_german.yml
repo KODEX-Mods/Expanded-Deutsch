@@ -1,0 +1,177 @@
+﻿l_german:
+ 
+ e_bulgarian_empire: "Das Bulgarische Reich"
+
+ # e_seljuk: "Das Große Seldschukenreich"
+
+ e_transcaucasia: "Transkaukasien "
+ e_transcaucasia_adj: "Kaukasisch"
+
+ e_avar_khaganate: "Das Awaren-Khaganat"
+
+ k_grand_saxony: "Sachsen"
+
+ k_grand_franconia: "Franken"
+
+ k_grand_swabia: "Alemannien"
+
+ k_oman: "Oman"
+ 
+ k_fake_egypt: "Ptolemäisches Königreich"
+
+ k_illyria: "Illyrien"
+ k_illyria_adj: "Illyrisch"
+
+ k_balaton: "Balaton"
+ k_balaton_adj: "Balatonisch"
+
+ k_poland_lechia: "Lechland"
+ k_poland_lechia_adj: "Lechitisch"
+
+ k_poland_original: "Polen"
+ k_poland_original_adj: "Polnisch"
+
+ k_poland_vistuland: "Weichselland"
+ k_poland_vistuland_adj: "Vistulanisch"
+
+ k_poland_lendia: "Lendien"
+ k_poland_lendia_adj: "Lendizisch"
+
+ d_mazovia_masuria: "Masurien"
+ d_mazovia_masuria_adj: "Masurisch"
+
+ d_masuria_galindia: "Galindien"
+ d_masuria_galindia_adj: "Galindisch"
+
+ k_poland_masovia: "Masowien"
+ k_poland_masovia_adj: "Masowisch"
+
+ k_sorbia_polabia: "Polabien"
+ k_sorbia_polabia_adj: "Polabisch"
+
+  e_west_slavia_lechia: "Lechenreich"
+  e_west_slavia_lechia_adj: "Lechitisch"
+
+  e_west_slavia_wendia: "Wendenreich"
+  e_west_slavia_wendia_adj: "Wendisch"
+
+  #Kyvian Rus
+  e_russia_rus: "Kiewer Rus"
+  e_russia_rus_adj: "Rus'"
+  e_russia_rus_pre: "Rus'"
+
+  #Eastern Rome
+  e_eastern_roman_empire: "Oströmisches Reich"
+  e_eastern_roman_empire_adj: "Oströmisch"
+
+  #Cumania
+  e_cumania: "Kumanien"
+  e_cumania_adj: "Kumanisch"
+  e_cumania_pre: "Kumanisch"
+
+ k_wendia: "Lutizien"
+ k_wendia_adj: "Lutizisch"
+
+ k_balaton_pannoniae: "Panonnien"
+ k_balaton_pannoniae_adj: "Pannonisch"
+
+ k_balaton_dunavia: "Dunabien"
+ k_balaton_dunavia_adj: "Dunabisch"
+
+ k_balaton_dudlebia: "Dulebien"
+ k_balaton_dudlebia_adj: "Dulebisch"
+
+ k_hungary_carpathia: "Karpatien"
+ k_hungary_carpathia_adj: "Karpatisch"
+
+ d_szekesfehervar: "Besprim"
+ d_szekesfehervar_adj: "Besprimian"
+
+ d_slavonia_savia: "Savien"
+ d_slavonia_savia_adj: "Savisch"
+
+ d_slavonia_original: "Slawonien"
+ d_slavonia_original_adj: "Slavonian"
+
+ d_galloway_alt_clut: "Alt Clut"
+ d_galloway_alt_clut_adj: "Alt Clutisch"
+
+ d_galloway_original: "Strathclyde"
+ d_galloway_original_adj: "Strathclydisch"
+
+ c_lennox_gwvan: "Gwovan"
+ c_lennox_gwvan_adj: "Gwovanisch"
+
+  b_dumbarton_gwvan: "Din Gwovan"
+  b_dumbarton_gwvan_adj: "Gwvanisch"
+
+ d_cumbria: "Cumbria"
+ d_cumbria_adj: "Cumbrisch"
+
+ k_cumbria: "Cumbria"
+ k_cumbria_adj: "Cumbrisch"
+
+ custom_core_franconia: "Franken"
+
+ custom_core_portucale: "Portucale"
+
+ custom_core_swabia: "Alemannien"
+
+ ce_custom_england: "England"
+
+ custom_grand_saxony: "Sachsen"
+
+ custom_saxony: "Sachsen"
+
+ custom_avaria: "Awarien"
+
+ custom_yemen: "Jemen"
+
+ custom_persian_gulf: "Persischer Golf"
+
+ custom_persian_caucasus: "Persischer Kaukasus"
+
+ custom_egypt: "Ägypten"
+
+ ce_strathclyde: "Cumbria"
+
+ wendish_empire: "Wendenreich"
+
+ custom_samos_empire: "Samos Reich"
+
+ custom_aquitaine_full: "Aquitanien"
+
+ custom_aquitaine: "Aquitanien"
+
+ custom_frisia01: "Friesland"
+ 
+ ce_custom_wallachia: "Wallachei"
+ 
+ ce_custom_moldavia: "Moldawien"
+
+ ce_custom_toledo: "Toledo"
+ 
+ ce_custom_damascus: "Damaskus"
+ 
+ ce_nile_river: "Nil"
+ 
+ ce_dzukija: "Dzukija"
+ 
+ ce_byzantine_frontier: "Byzantinische Grenze"
+ 
+ ce_southern_andalusia: "Süd-Andalusien"
+ 
+ ce_northern_iberia: "Nord-Iberien"
+
+  #k_frisian_kingdom: "Friesisches Königreich"
+
+ k_axum: "Axum"
+ k_axum_adj: "Axumitisch"
+
+ k_khwarazm: "Choresmien"
+ k_khwarazm_adj: "Choresmisch"
+
+ k_shirvan: "Shirwan"
+ k_shirvan_adj: "Shirwanisch"
+
+ custom_transcaucasia: "Transkaukasien"

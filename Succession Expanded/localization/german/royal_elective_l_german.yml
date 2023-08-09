@@ -1,0 +1,8 @@
+﻿l_german:
+ royal_elective_candidates:0 "Anspruchssteller, enge Familie und erweiterte Familie"
+ royal_elective_candidates_tooltip:0 "Um ein gültiger Kandidat für die Königswahl zu sein, muss ein Charakter eine der folgenden Bedingungen erfüllen:\n$EFFECT_LIST_BULLET$Ein legitimes Mitglied der [close_family|E] sein\n$EFFECT_LIST_BULLET$Ein legitimes Mitglied der [extended_family|E] des Herrschers sein\n$EFFECT_LIST_BULLET$Ein gültiger [claimant|E] sein"
+ royal_elective_electors:0 "Magnaten"
+ royal_elective_electors_tooltip:0 "Um ein gültiger [elector|E] im Rahmen der Königswahl zu sein, muss ein Vasall alle folgenden Bedingungen erfüllen:\n$EFFECT_LIST_BULLET$Ein [de_jure|E]-[vassal|E]-Vasall des Titels sein\n$EFFECT_LIST_BULLET$Ein [direct_vassal|E] des Titels sein\n$EFFECT_LIST_BULLET$Nur einen oder zwei [ranks|E] unterhalb des [title|E]s sein"
+ royal_elective_succession_law:1 "Königswahl"
+ royal_elective_succession_law_subname:0 "Rat"
+ royal_elective_succession_law_effects:0 "Der [ruler|E] und alle direkten [de_jure|E]-[vassals|E] ein oder zwei [ranks|E] unter dem [title|E] können einen [title_heir|E] aus der [close_family|E] des Herrschers, [extended_family|E], oder [claimants|E] nominieren. [powerful_vassals|E] werden mehr Einfluss auf die Wahl haben."

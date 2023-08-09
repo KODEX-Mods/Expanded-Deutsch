@@ -1,0 +1,36 @@
+﻿l_english:
+ #GetSmallFood
+ #GetSmallFoodIndef
+ food_word_apple:0 "apple"
+ food_word_apple_indef:0 "an apple"
+ food_word_biscuit:0 "biscuit"
+ food_word_biscuit_indef:0 "a biscuit"
+ food_word_banana:0 "banana"
+ food_word_banana_indef:0 "a banana"
+ food_word_orange:0 "orange"
+ food_word_orange_indef:0 "an orange"
+ food_word_pawpaw:0 "pawpaw"
+ food_word_pawpaw_indef:0 "a pawpaw"
+ #GetClothingArticle
+ clothing_word_buba:0 "buba"
+ clothing_word_iro:0 "iro"
+ clothing_word_awotele:0 "awotele"
+ clothing_word_agbada:0 "agbada"
+ clothing_word_sokoto:0 "sokoto"
+ clothing_word_iborun:0 "iborun"
+ clothing_word_bante:0 "bante"
+ #GetFoodDetail
+ food_detail_cilantro:0 "coriander"
+ food_detail_lemon:0 "lemon"
+ food_detail_almond:0 "almond"
+ food_detail_walnut:0 "walnut"
+ food_detail_kolanut:0 "kola nut"
+ food_detail_peanut:0 "peanut"
+ food_detail_cassava:0 "cassava"
+ #GetExpensiveMeal
+ expensive_food_pounded_yam_egusi:0 "pounded yam with egusi"
+ expensive_food_pounded_yam_efo:0 "pounded yam with efo"
+ expensive_food_amala:0 "amala"
+ expensive_food_moi_moi:0 "moi moi"
+ expensive_dessert_akara:0 "akàrà"
+ expensive_drink_kolanut_bitters:0 "kola nut bitters"

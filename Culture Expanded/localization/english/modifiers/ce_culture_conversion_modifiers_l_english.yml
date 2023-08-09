@@ -1,0 +1,10 @@
+﻿l_english:
+  CE_patronize_pannonians: "Castei Patronage"
+  CE_patronize_pannonians_desc: "The Roman artisans around Lake Balaton are actively being funded by the crown."
+  CE_exterminated_pannonians: "The Devastation of Castei"
+  CE_exterminated_pannonians_desc: "This county is dealing with the aftermath of a devastating sack of its most valuable towns."
+  
+  # Polish Consolidation
+  polish_consolidation: "Polish Consolidation"
+  polish_consolidation_desc: "As a result of our recent conquest, the Slavs of Wendia are currently being integrated into the emerging Polish State"
+  STEWARD_PROMOTE_CULTURE_POLISH_CONSOLIDATION: "Polish Consolidation"

@@ -1,0 +1,53 @@
+﻿l_german:
+
+#BAP Traditions
+ tradition_gbeto_name: "Gbeto-Kriegerinnen"
+ tradition_gbeto_desc:1 "Die Vorläufer der furchterregenden Mino von Dahomey oder Dahomey-Amazonen, die [gbeto|E], sind ein Kader von Jägerinnen, die sich auf die Jagd auf das wertvollste und am schwierigsten zu tötende Tier, den Elefanten, spezialisiert haben. Besonders wilde, mutige oder geschickte [gbeto|E] können auch in der Armee dienen – als Soldaten oder sogar Generäle."
+ culture_parameter_can_designate_gbeto:1 "[characters|E] können geeignete Frauen als [gbeto|E]-Kriegerinnen ernennen. Frauen, die in die Reihen der [gbeto|E] eintreten, können als [knights|E] oder [marshal|E] dienen, unabhängig von [gender_doctrines|E]." 
+ culture_parameter_unlock_chief_gbeto_title: "Ermöglicht das Hofamt der Obersten Gbeto."
+ court_position_gbeto_trait: "[GetTrait('shieldmaiden').GetName( ROOT.Char )]"
+ 
+ tradition_savanna_raiders_name: "Trockenland-Plünderer"
+ tradition_savanna_raiders_desc:1 "Diese Kultur beherrscht den Einsatz von leicht gepanzerter Kavallerie, um den Feind hart zu treffen und dann mit der Beute im Schlepptau über die offenen Graslandschaften zurückzufallen."
+ culture_parameter_savanna_raider: "Ermöglicht die Fähigkeit zum [raid|E] unabhängig vom [government|E]styp oder [religion|E]"
+ 
+ tradition_eldership_name: "Gerontokratie"
+ tradition_eldership_desc: "Diese Kultur verehrt die Stellung der Ältesten in der Gemeinschaft und betont vor allem die Bedeutsamkeit von Alter und Erfahrung bei der Ernennung von Führern und Entscheidungsträgern. In Kulturen, die Gerontokratie praktizieren, gibt es oft Ältestenräte, die als Schiedsrichter oder als Wähler für die lokale Landbevölkerung fungieren können."
+ culture_parameter_mz_eldership_powerful_vassal_adjustment: "[powerful_vassals|E] fordern keine [council|E]sposten mehr, wenn sie unter 50 Jahre alt sind"
+ culture_parameter_mz_eldership_increase_skills: "Chance, ab dem 50. Lebensjahr an jedem Geburtstag [skills|E] zu verbessern"
+ culture_parameter_mz_eldership_councilor_bonus: "[rulers|E] erhalten #P 4%#! monatlich [piety|E] für jeden [councillor|E], der 50 Jahre oder älter ist"
+ mz_eldership_increase_skill_toast: "Weisheit der Alten"
+ mz_eldership_councilor_bonus_modifier: "Ältestenrat"
+ 
+ tradition_bush_schools_name: "Buschschulen"
+ tradition_bush_schools_desc:1 "Diese Kultur erzieht ihre Kinder in nach Geschlechtern getrennten, altersmäßig abgestuften Verbänden, die sich auf traditionelle Buschfertigkeiten, Medizin, Sexualkunde und traditionelle kulturelle Werte konzentrieren. Je älter die Kinder werden, desto mehr werden sie in Geheimbünde aufgenommen, die sich auf die Unterweisung in traditionellen Überlieferungen und Religion konzentrieren."
+ 
+ tradition_culture_conversion_name: "Kulturelle Adoption"
+ tradition_culture_conversion_desc:1 "Diese Kultur praktiziert eine ritualisierte kulturelle Adoption, bei der bereitwillige Außenseiter entweder als Kinder oder als Erwachsene als vollwertige Mitglieder der Mutterkultur aufgenommen und in die soziokulturellen Strukturen und Traditionen der Mutterkultur assimiliert werden."
+ culture_parameter_cultural_adoption_acceptance: "[charaktere|E] dieser [culture|E] können [courtiers|E] anderer Kultur in ihre Familie und Kultur aufnehmen."
+ culture_parameter_easier_adult_cultural_conversion: "[characters|E] dieser [culture|E] werden es leichter haben, Vasallen kulturell zu konvertieren."
+ #tradition_gadaa_name: "Gadaa"
+ #tradition_gadaa_desc:1 "Diese Kultur ist stolz auf ihre egalitären Prinzipien und ist bestrebt, Machtkämpfe zwischen ihren Clans zu minimieren. Sie regelt ihre politischen, wirtschaftlichen, sozialen und religiösen Aktivitäten durch gewählte Versammlungen in einem System, das unter dem Namen Gadaa bekannt ist."
+ 
+ tradition_sacred_rulership_name: "Priesterkönige"
+ tradition_sacred_rulership_desc: "In dieser Kultur gibt es ein System des Heiligen Königtums, in dem der Herrscher und seine Nachkommen als eng mit dem Göttlichen verbunden angesehen werden, in einigen Fällen sogar als Nachkommen der Götter selbst. In dieser Tradition ist die Rolle des Königs nicht nur das Oberhaupt des Reiches, sondern auch eine höchst zeremonielle religiöse Figur, in gewissem Sinne selbst ein heiliges Objekt."
+ 
+ tradition_way_of_the_thiedo_name: "Weg des Thiédo"
+ tradition_way_of_the_thiedo_desc:1 "Als unverzichtbare Mitglieder der Kriegerklasse in der traditionellen Wolof-Gesellschaft legen die Thiédo großen Wert auf kriegerische Traditionen wie Ehre und Tapferkeit und verteidigen die traditionelle Wolof-Kultur und -Religion bisweilen rücksichtslos. Ein Thiédo würde lieber bis zum Tod kämpfen, als einen Mitstreiter zurückzulassen."
+
+ tradition_griots_name: "Griots"
+ tradition_griots_desc:1 "Griots sind in ganz Westafrika unter verschiedenen Namen bekannt, darunter Jeli in den nördlichen Mande-Gebieten, Jali in den südlichen Mande-Gebieten, Guewel in Wolof, Gawlo in Pulaar, Arokin in Yorùbá und Gesere in Soninke. Der Griot, der in der Regel einer niedrigeren Kaste angehört, ist in der westafrikanischen Gesellschaft eine Kombination aus Historiker, Geschichtenerzähler, Lobliedsänger, Dichter und Musiker."
+ culture_parameter_can_appoint_court_griots:1 "Kann einen [courtier|E] zum #high $court_griot_court_position$#! [court_position|E] ernennen"
+ culture_parameter_characters_are_better_court_griots: "[characters|E] dieser [culture|E] leisten bessere Arbeit, wenn sie zum #high $court_griot_court_position$# [court_position|E] ernannt werden! "
+ culture_parameter_invite_griot_active: "Erhält eine [decision|E], einen begabten [griot|E] zu rekrutieren"
+ culture_parameter_griot_trait_more_common: "Die [GetTrait('griot').GetName( GetNullCharacter )]-[trait|E] kommt häufiger vor"
+ 
+ tradition_laawol_pulaaku_name: "Laawol Pulaaku"
+ tradition_laawol_pulaaku_desc:1 "Im Mittelpunkt des Lebensstils der Fulbe steht ein Verhaltenskodex, der als Laawol Pulaaku bekannt ist, was wörtlich übersetzt "der Pfad des Pullo" bedeutet. Dieser Kodex wird von jeder Generation als hohe moralische Werte der Fulbe weitergegeben und ermöglicht es dieser Kultur, ihre Identität über Grenzen und Veränderungen der Lebensweise hinweg zu bewahren."
+ culture_parameter_semteende_traits_less_valued: "Die [traits|E] [GetTrait('wrathful').GetName( GetNullCharacter )], [GetTrait('arrogant').GetName( GetNullCharacter )], und [GetTrait('impatient').GetName( GetNullCharacter )] gelten als semteende, also schändlich."
+ culture_parameter_pulaaku_trait_bonuses: "Die [traits|E] [GetTrait('brave').GetName( GetNullCharacter )] und [GetTrait('humble').GetName( GetNullCharacter )] gelten als [prestige_i][prestigious|E] und gewähren mehr [culture|E] [opinion|E]."
+ #Land des Bogens
+ culture_parameter_nile_hill_forts:1 "Für [counties|E] dieser [culture|E] werden $building_type_hill_forts_01$#! $building_type_watchtowers_01$ ersetzen, wenn sie in Auen [terrain|E] liegen."
+
+ #Parameters
+ requires_tribal_government_trigger:1 "Ihr habt nicht [tribal_government|E]"

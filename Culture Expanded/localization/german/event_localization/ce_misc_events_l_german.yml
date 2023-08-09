@@ -1,0 +1,10 @@
+﻿l_german:
+
+  # Found the Kingdom of Oman
+  ce_host_a_bride_show.0001.t: "Die Brautschau"
+  ce_host_a_bride_show.0001.desc: "Ich warte gespannt darauf, wie die Frau, die bald meine Gattin sein könnte, durch die Türen in einen der vielen prächtigen Säle des kaiserlichen Palastes tritt. In den letzten Tagen haben meine engsten Familienmitglieder und Berater eine Auswahl an jungen Frauen getroffen, nachdem sie ihre Dienstboten losgeschickt hatten, um die schönsten und wohlgeborensten Frauen aus den Provinzen zu sammeln. Mein Kanzler, [imperial_chancellor.GetTitledFirstName], gibt jede Kandidatin mit ihrem Namen, ihrer Familie, ihrem Stand und ihren bemerkenswerten Eigenschaften bekannt. Aber ganz gleich, was meine Nächsten von den Frauen dort denken, die ich vor mir habe, die endgültige Entscheidung liegt bei mir.\n\nIn meinen Händen ruht der traditionelle goldene Apfel. Wie einst Paris in seinem unrühmlichen Urteil, muss ich nun entscheiden, wer den Apfel erhält und zur Kaiserin avanciert..."
+  ce_host_a_bride_show.0001.a: "[bride_1.GetTitledFirstName] soll meine Ehefrau sein"
+  ce_host_a_bride_show.0001.b: "[bride_2.GetTitledFirstName] ist meine Wahl"
+  ce_host_a_bride_show.0001.c: "[bride_3.GetTitledFirstName] ist die Richtige für mich"
+  ce_host_a_bride_show.0001.d: "Keiner dieser Kandidatinnen ist geeignet!"
+  ce_refuse_to_marry_any_option_tt: "Ihr weigert Euch, eine der Optionen zu heiraten, die Ihr vor Euch habt"

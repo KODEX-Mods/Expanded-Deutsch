@@ -1,0 +1,10 @@
+﻿l_english:
+ heritage_sahelian_name: "West Sahelian"
+ heritage_sahelian_collective_noun: "West Sahelians"
+ heritage_central_african_name: "Central Sahelian"
+ heritage_central_african_collective_noun: "Central Sahelians"
+ heritage_yoruba_name:1 "Lower Niger"
+ heritage_yoruba_collective_noun:1 "Lower Nigerian"
+ heritage_generic_label_desc: "Each [heritage|E] defines a common origin for related [cultures|E]' customs and mannerisms, either as something they descend from or have wholesale adopted."
+ heritage_gur_name: "Gur"
+ heritage_gur_collective_noun: "Gur"

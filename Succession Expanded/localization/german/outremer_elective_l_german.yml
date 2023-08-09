@@ -1,0 +1,15 @@
+﻿l_german:
+ outremer_elective_candidates:0 "Erweiterte Familie, Anspruchsteller und Vasallen"
+ outremer_elective_candidates_tooltip:0 "Um ein gültiger Kandidat im Rahmen der Outremer-Wahl zu sein, muss ein Charakter eine der folgenden Bedingungen erfüllen:\n$EFFECT_LIST_BULLET$Ein legitimes Mitglied der [extended_family|E] des derzeitigen Herrschers sein\n$EFFECT_LIST_BULLET$Ein [claimant|E] auf den Titel sein\n$EFFECT_LIST_BULLET$Ein gültiger feudaler oder theokraktischer [vassal|E] auf den Titel sein"
+ outremer_elective_electors:0 "Curia Generalis"
+ outremer_elective_electors_tooltip:0 "Um ein gültiger [elector|E] im Rahmen der Outremer-Wahl zu sein, muss ein Herrscher ein [vassal|E] des Königreichs des Herrschers sein."
+ outremer_elective_succession_law:1 "Curia Generalis"
+ outremer_elective_succession_law_subname:0 "Haute Cour"
+ outremer_elective_succession_law_effects:2 "Der [ruler|E] und alle [de_jure|E]-[vassals|E] direkten [vassals|E] (außer Barone) können einen [title_heir|E] aus der [extended_family|E] des Herrschers, alle vorhandenen [claimants|E], und [vassals|E] des selben Glaubens nominieren. [voting_power|E] in diesem [succession_law|E] wird beeinflusst von dem Vasallenrang des [elector|E]s gegenüber dem Herrscher."
+#  tooltip_outremer_elective_vote_strength_high_court: "Direkter Vasall: $VALUE|=+0$"
+#  tooltip_outremer_elector_proximity_by_blood: "[candidate.GetSheHe|U] hat Blutsverwandschaft: $VALUE|=+0$"
+
+ tradition_crusader_states: "Kreuzfahrer-Herkunft"
+ tradition_crusader_states_name: "Kreuzfahrer-Herkunft"
+ tradition_crusader_states_desc: "Wir sind Fremde, die gekommen sind, um unseren Glauben zu bringen, wenn nötig mit Gewalt."
+ culture_parameter_outremer_elective_successionn_enabled: "Schaltet #TOOLTIP:GAME_CONCEPT,succession_law Outremer-Wahl#!frei."

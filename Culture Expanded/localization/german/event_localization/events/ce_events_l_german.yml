@@ -1,0 +1,48 @@
+﻿l_german:
+ british_culture.0002.t: "Der Aufstieg der Anglecynn"
+ british_culture.0002.desc: "Nach dem Untergang des Weströmischen Reiches begannen verschiedene germanische Stämme auf die Britischen Inseln zu migrieren, darunter die Jüten, die Angeln und die Sachsen, die in weiten Teilen des von ihnen besiedelten Landes ihre eigenen kleinen Königreiche gründeten. Nach einer langen Zeit der Expansion gegen die einheimischen Britonen und der Konsolidierung der umliegenden Stämme begannen Königreiche wie Kent, Mercia und Northumbria allmählich, neue, für die Insel einzigartige regionale Kulturen mit eigenen Dialekten und Identitäten zu bilden. Dies änderte sich langsam mit der Invasion der Wikinger, die viele dieser alten Königreiche in rascher Folge zu Fall brachten, während die übrigen nach und nach in das spätere England eingegliedert wurden. So begann sich eine neue Kultur herauszubilden, die durch den gemeinsamen Glauben, die Herkunft und die Sprache dieser germanischen Ureinwohner Großbritanniens geprägt ist und im Gegensatz zu denen von jenseits des Meeres steht. Endlich begannen diese Menschen, sich nicht mehr als Merzen, Westsachsen oder Kenten zu sehen, sondern als ein gemeinsames englisches Volk."
+ british_culture.0002.a: "Dies wird den Lauf der Geschichte verändern."
+ 
+ british_culture.0011.t: "Die Divergenz des Britonischen"
+ british_culture.0011.desc: "Seit dem Fall von Caergloui an die Angelsachsen haben sich die Britonen in Britannien und der Bretagne langsam aber stetig voneinander entfernt. Nach Jahrhunderten der relativen Isolation haben sich aus den Dialekten von Dumnonien bzw. Kambrien zwei einzigartige bretonische Varietäten herausgebildet: Während sich beide weiterhin als Britonisch bezeichnen, ist die Varietät jedes Gebiets für das andere weitgehend unverständlich geworden."
+ british_culture.0011.a: "Brythonwyr o hyd!"
+ 
+ balkan_culture.0002.t: "Ein bosnisches Volk"
+ balkan_culture.0002.desc: "Als das Königreich Bosnien gegründet wurde, konnten nicht viele ahnen, welche Renaissance es mit sich bringen würde. Unabhängig von Serbien und Kroatien haben die Menschen in den zentralen dindarischen Alpen und entlang des Flusses Bosna begonnen, sich weder als Serben noch als Kroaten zu sehen, sondern als ein neues und eigenständiges bosnisches Volk mit einer eigenen Kultur und einem eigenen Erbe, die beide in unserem Königreich begründet sind. "
+ balkan_culture.0002.a: "Živjela slobodna Bosna!"
+ 
+ balkan_culture.0004.t: "Das Volk der Illyrer"
+ balkan_culture.0004.desc: "Als die Slawen im 6. Jahrhundert erstmals in den Balkan zogen, setzten sie sich aus vielen verschiedenen Stämmen zusammen, die vor den eindringenden Awaren flohen. Von den Byzantinern in der ehemaligen Provinz Illyricum angesiedelt, erlangten diese Slawen allmählich ihre Unabhängigkeit und gründeten ihre eigenen Staatswesen wie Duklija, Raška oder Kroatien, blieben aber letztlich gespalten und unterlagen immer wieder äußeren Mächten. Doch damit ist nun endlich Schluss - wir haben es nicht nur geschafft, unsere eigene Heimat zu vereinen, sondern auch weit darüber hinaus zu expandieren und große Teile des ehemaligen Illyricum in unser Reich einzugliedern. Jetzt, da alle slawischen Stämme endlich unter einem einzigen Herrscher vereint sind, ist die Zeit gekommen, unser Volk wahrhaftig zusammenzuschweißen und das illyrische Erbe zu übernehmen."
+ balkan_culture.0004.a: "Slava Iliriji!"
+ 
+ balkan_culture.0005.t: "Das Volk der Illyrer"
+ balkan_culture.0005.desc: "Als die Slawen im 6. Jahrhundert erstmals in den Balkan zogen, setzten sie sich aus vielen verschiedenen Stämmen zusammen, die vor den eindringenden Awaren flohen. Von den Byzantinern in der ehemaligen Provinz Illyricum angesiedelt, erlangten diese Slawen allmählich ihre Unabhängigkeit und gründeten eigene Gemeinwesen wie Duklija, Raška oder Kroatien, blieben aber letztlich gespalten und unterlagen immer wieder äußeren Mächten. Doch damit ist nun endlich Schluss - unter der Führung eines hiesigen Herrschers sind die Illyrer endlich geeint worden."
+ balkan_culture.0005.a: "Schön für sie."
+ 
+ balkan_culture.0006.t: "Die Pannonischen Lande"
+ balkan_culture.0006.desc: "Vor vielen Jahrhunderten wurde [GetTitleByKey('k_balaton').GetNameNoTier] von den niederträchtigen Horden der Hunnen überrannt, die das Land plünderten und verwüsteten. Nach ihrem Untergang wurde das Land von Völkern wie den Goten, Langobarden, Awaren und schließlich von unserem [pannonian_founder.GetCulture.GetNameNoTooltip]en Volk besetzt.  \n\nDoch nun, nach unzähligen Jahrhunderten, ist es mir gelungen, diese Länder unter einem einzigen Banner zu vereinen. Meine Autorität reicht von den wichtigen Festungen [GetTitleByKey('b_sisak').GetNameNoTier] und [GetTitleByKey('b_vakovo').GetNameNoTier] an der Save bis zur alten Stadt [GetTitleByKey('b_gyor').GetNameNoTier] an der Donau. Endlich ist Pannonien wieder vollkommen. \n\nEs ist an der Zeit, ein neues Schicksal für diese Länder zu schmieden, das die Jahrhunderte überdauern wird!"
+ balkan_culture.0006.a: "Wir sind die wahren Erben Pannoniens, jetzt und für immer!"
+ balkan_culture.0006.b: "Die Zeit der Dulebovs ist gekommen!"
+ balkan_culture.0006.c: "Dunabien wird die Prüfung der Zeit triumphierend bestehen!"
+ 
+ balkan_culture.0007.t: "Der Aufstieg eines neuen Volkes"
+ balkan_culture.0007.desc: "Angesichts der ständigen Bedrohung von außen durch Franken, Bulgaren, Magyaren und selbst Slawen haben die Menschen in meinem Reich zunehmend ein neues Band geknüpft, das über die trennenden Stammeslinien von einst hinausgewachsen ist."
+ balkan_culture.0007.a: "Faszinierend."
+ 
+ establish_pannonian_culture_effect.tta: "Ihr nehmt die neue Kultur an."
+ 
+ establish_pannonian_culture_decision_effect.tta: "Eine neue slawisch-pannonische Kultur wird sich nach einer gewissen Zeit herausbilden"
+ establish_pannonian_culture_decision_effect.ttb: "Dulebisch wird sich in Transdanubien ausbreiten"
+ establish_pannonian_culture_decision_effect.ttc: "Dunabisch wird sich in Transdanubien ausbreiten"
+ establish_pannonian_culture_decision_effect.ttd: "[GetTitleByKey('k_balaton').GetNameNoTier] wird als Pannonien bekannt sein"
+ establish_pannonian_culture_decision_effect.tte: "[GetTitleByKey('k_balaton').GetNameNoTier] wird als Dulebien bekannt sein"
+ establish_pannonian_culture_decision_effect.ttf: "[GetTitleByKey('k_balaton').GetNameNoTier] will be known as Dunabien"
+ 
+ ce_custom_kingdom_event.0001.t: "Die Wiederherstellung Illyriens"
+ ce_custom_kingdom_event.0001.desc: "Heute feiern wir, dass das illyrische Königreich wieder auferstanden ist. Seit seinem Fall an die Römische Republik im 2. Jahrhundert v. Chr. blieb Illyrien unter dem Joch der Fremdherrschaft und wechselte den Besitzer zwischen verschiedenen römischen Usurpatoren, germanischen Invasoren und schließlich slawischen Häuptlingen und Fürsten.\n\nDoch endlich habe ich geschafft, wovon nicht einmal Pleuratus zu träumen gewagt hätte: Ich habe Illyrien unter einer einzigen Krone vereint, seine vielen Stämme unter einem gemeinsamen Banner zusammengeführt. Nicht länger soll sich dieses uralte Land fremden Tyrannen beugen, sondern als geeintes Reich unter meiner gnädigen Herrschaft gedeihen!"
+ ce_custom_kingdom_event.0001.a: "Die Batonier wurden gerächt "
+ 
+ rus_culture.0002.t: "Das Volk der Rus"
+ rus_culture.0002.desc: "Viele Jahrzehnte sind vergangen, seit die Nordmänner in das Land der Ostslawen eindrangen. Doch im Laufe der Zeit haben die Nordmänner mehr und mehr die Sprache und die Bräuche der Einheimischen übernommen. Gleichzeitig haben die Nordmänner ihr Wissen über Regierung und Kriegsführung an die Slawen weitergegeben, über die sie herrschen, und so eine neue Identität geschaffen, die über die alte hinauswächst."
+ rus_culture.0002.a: "Wir sollten diese Veränderungen in unserem Reich willkommen heißen!"
+ rus_culture.0002.b: "Wir sollten die alten Traditionen aufrechterhalten..."

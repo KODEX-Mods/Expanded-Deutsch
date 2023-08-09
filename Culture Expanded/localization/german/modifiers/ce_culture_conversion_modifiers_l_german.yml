@@ -1,0 +1,10 @@
+﻿l_german:
+  CE_patronize_pannonians: "Patronat von Castei"
+  CE_patronize_pannonians_desc: "Die römischen Kunsthandwerker am Balaton werden von der Krone aktiv gefördert."
+  CE_exterminated_pannonians: "Die Zerstörung von Castei"
+  CE_exterminated_pannonians_desc: "Diese Grafschaft hat mit den Folgen einer verheerenden Plünderung ihrer wertvollsten Orte zu kämpfen."
+  
+  # Polish Consolidation
+  polish_consolidation: "Polnische Konsolidierung"
+  polish_consolidation_desc: "Als Ergebnis unserer jüngsten Eroberungen werden die wendischen Slawen derzeit in das aufstrebende Polen integriert."
+  STEWARD_PROMOTE_CULTURE_POLISH_CONSOLIDATION: "Polnische Konsolidierung"

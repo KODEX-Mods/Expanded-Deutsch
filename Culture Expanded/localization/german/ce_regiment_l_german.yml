@@ -1,0 +1,346 @@
+﻿l_german:
+
+ #     :0 ""
+ #     _flavor:0 "#F .#!"
+
+## Byzantine
+ byzantine_peltast:0 "Peltasten"
+ byzantine_peltast_flavor:0 "#F Die Peltasten waren eine Art leichter Infanteristen, die ursprünglich aus Thrakien und Päonien stammten und nach der Art ihres Schildes benannt waren, den sie trugen. Die Peltasten dienten oft als Plänkler, relativ leicht ausgerüstete Soldaten, die auf dem Schlachtfeld sehr beweglich waren. Die byzantinischen Peltasten wurden jedoch manchmal als "Sturmtruppen" bezeichnet, die auch zum Nahkampf fähig waren.#!"
+ 
+ byzantine_apelatai:0 "Apelatai"
+ byzantine_apelatai_flavor:0 "#F Die Apelatai fungierten als Plünderer, Späher und Grenzwächter in den immer wiederkehrenden Grenzkriegen zwischen Byzanz und seinen östlichen Nachbarn, die durch Scharmützel und Überfälle gekennzeichnet waren.#!"
+ 
+ byzantine_toxotai:0 "Toxotai"
+ byzantine_toxotai_flavor:0 "#F Toxotai waren antike griechische und byzantinische Bogenschützen. Zu ihrer Ausrüstung gehörten ein Kompositbogen, eine 'weiche Rüstung' aus gesteppten und gepolsterten Textilien und ein Spathion (gerades, zweischneidiges Schwert) oder Tzikourion (kleine Axt) zur Selbstverteidigung.#!"
+ 
+ byzantine_psiloi:0 "Psiloi"
+ byzantine_psiloi_flavor:0 "#F Diese in der Kunst des Bogenschießens bestens ausgebildeten Soldaten waren hervorragende Bogenschützen und äußerst mobile Einheiten. Die meisten kaiserlichen Bogenschützen kamen aus Kleinasien, insbesondere aus der Region um Trebizond am Schwarzen Meer, wo sie aufgezogen, ausgebildet und ausgerüstet wurden.#!"
+ 
+ byzantine_akontistai:0 "Akontistai"
+ byzantine_akontistai_flavor:0 "#F Bedeutet 'Wurfspeerträger'. Akontistai sind nichts anderes als Bauern, die vom örtlichen Herrscher bewaffnet werden. Ihre Hauptwaffe ist eine Handvoll leichter Jagdspeere, aber sie sind auch mit einem hölzernen Buckler und einer kleinen Axt bewaffnet, wenn sie gezwungen sind, in den Nahkampf zu gehen.#!"
+ 
+ byzantine_koursores:0 "Koursores"
+ byzantine_koursores_flavor:0 "#F Die Koursores waren eine mobile Kavallerie für den Nahkampf und können als Nachfolger der leichter ausgerüsteten Kataphraktoi angesehen werden. Die Koursores sollten in erster Linie die gegnerische Kavallerie bekämpfen und wurden in der Regel an den Flanken der Hauptkampflinie aufgestellt.#!"
+ 
+ byzantine_trapezitai:0 "Trapezitai"
+ byzantine_trapezitai_flavor:0 "#F Die Trapezitai waren die leichte Kavallerie, die die Apelatai ergänzte, die leichte Infanterie, die die östlichen Grenzen des Reiches bewachte. Im Falle eines größeren arabischen Überfalls sollten sie (zusammen mit den Apelatai) Alarm schlagen, bei der Evakuierung der örtlichen Bevölkerung in die verschiedenen Festungen helfen und die feindlichen Truppen beschatten und bedrängen, bis Verstärkung eintreffen konnte.#!"
+ 
+ byzantine_hippotoxotai:0 "Hippotoxotai"
+ byzantine_hippotoxotai_flavor:0 "#FDiese berittenen Bogenschützen, die an der Spitze der Kavallerie ritten, waren schwerere, oft gepanzerte und mit Bogen bewaffnete Kavalleristen, die aus geordneten Reihen schossen. Sie schossen Pfeile auf Kommando und boten eine mobile Konzentration von Pfeilgeschossen auf dem Schlachtfeld.#!"
+ 
+ byzantine_skythikon:0 "Skythae"
+ byzantine_skythikon_flavor:0 "#F Skythae ist die byzantinische Bezeichnung für die hauptsächlich kumanischen, asiatischen Nomaden, die dem Byzantinischen Reich ausschließlich als berittene Bogenschützen dienen. Diese Kavalleristen, die es gewohnt sind, in den Ebenen und Steppen Osteuropas sowie in der Schwarzmeerregion zu reiten, tragen kaum Rüstung und sind mit einem Kompositbogen und einem kleinen Schwert bewaffnet.#!"
+ 
+ byzantine_vardariotai:0 "Vardariotai"
+ byzantine_vardariotai_flavor:0 "#F Die Vardariotai stammen hauptsächlich von den Magyaren ab, die im Vardar-Tal siedelten, sowie von deren Nachkommen. Die disziplinierten und gut ausgebildeten Vardariotai sind erstklassige Bogenschützen zu Pferd. Sie tragen leichte Panzer oder Brigantenrüstungen und schießen vom Pferd aus mit einem starken Kompositbogen. Sie sind in der Lage, ihre Feinde unerbittlich mit Pfeilen zu beschießen und nutzen ihre Mobilität, um sich aus Schwierigkeiten herauszuhalten.#!"
+ 
+ byzantine_menaulatoi:0 "Menaulatoi"
+ byzantine_menaulatoi_flavor:0 "#F Die Menaulatoi waren eine spezialisierte Elite-Infanterieeinheit, die im Umgang mit dem 'Menaulion', einem schweren, etwa drei bis vier Meter langen Speer, ausgebildet war. Die Menaulatoi wurden häufig zur Verstärkung von Plänklern eingesetzt, um Lücken zwischen den Infanterierängen zu schließen oder um herannahende Kavallerie anzugreifen.#!"
+
+ byzantine_skoutatoi:0 "Skoutatoi"
+ byzantine_skoutatoi_flavor:0 "#F Der Großteil der byzantinischen Infanterie - benannt nach dem Skouton, einem großen ovalen, runden oder drachenförmigen Schild, den sie trugen. Jede Einheit hatte eine andere Schildverzierung, die häufig hellenistische oder christliche Motive darstellte. Zusätzlich zu ihrem Schild waren sie mit langen Speeren und/oder Schwertern bewaffnet.#!"
+
+ byzantine_kontophoros:0 "Kontophoros"
+ byzantine_kontophoros_flavor:0 "#F Die schwere Infanterie der Komnenen war mit einem langen Speer bewaffnet, trug große Schilde und war so gut gepanzert, wie es möglich war. Die Rolle dieser Truppen, die in Reih und Glied aufgestellt waren, war weitgehend defensiv. Sie bildeten ein Bollwerk, das den Angriffen der gegnerischen schweren Kavallerie widerstehen konnte, eine bewegliche Basis, von der aus die Kavallerie Angriffe starten konnte, und hinter der sie sich sammeln konnte.#!"
+
+ byzantine_klibanophoroi:0 "Klibanophoroi"
+ byzantine_klibanophoroi_flavor:0 "#F Die Klibanophoroi waren eine byzantinische Militäreinheit der gepanzerten schweren Kavallerie. Wie die Cataphracti waren die Reiter und ihre Reittiere vollständig gepanzert. Der Name kommt von der Menge an Rüstung, die sie trugen und die dazu führte, dass sie sich im Kampf sehr schnell aufheizten.#!"
+
+ byzantine_latinkon:0 "Latinkon"
+ byzantine_latinkon_flavor:0 "#F Latinkon ist der Sammelbegriff für die schwere lateinische 'ritterliche' Kavallerie in der byzantinischen Armee. Mit ihrem schweren Kettenhemd und ihren Lanzen wurde der Angriff des westlichen Ritters von den Byzantinern mit großer Ehrfurcht betrachtet.#!"
+
+ byzantine_trebuchet:0 "Helepolis"
+ byzantine_trebuchet_flavor:0 "#F Das byzantinische Heer verfügte über eine gewaltige Artillerie, die von den östlichen Feinden besonders gefürchtet war. In den zeitgenössischen Berichten waren die auffälligsten Kriegsmaschinen die steinschleudernden Trebuchets, die als 'helepolis' bezeichnet wurden, was so viel wie 'Stadtbezwinger' bedeutet.#!"
+
+## BULGARIAN
+ bulgarian_voynik:0 "Voynik"
+ bulgarian_voynik_flavor:0 "#F Die Infanterie der Bulgaren bestand hauptsächlich aus Slawen, die im Allgemeinen leicht bewaffnete Soldaten waren. Die slawischen Fußsoldaten waren mit Schwertern, Speeren, Bögen und Holz- oder Lederschilden ausgerüstet. Sie waren jedoch weniger diszipliniert und weniger effektiv als die bulgarische Kavallerie.#!"
+
+ bulgarian_ciobani:0 "Ciobani"
+ bulgarian_ciobani_flavor:0 "#F Diese irregulären Soldaten, die ein Leben als Hirten und Räuber führen und hoch in den Bergen leben, sind härter als ein einfacher Bauer, aber immer noch nicht mehr als eine leichte Miliz, die Speere und andere Stangenwaffen, wie Schnabelhaken, ähnlich wie ihre Hirtenstangen, trägt.#!"
+
+ bulgarian_oklopnitsi:0 "Oklopnitsi"
+ bulgarian_oklopnitsi_flavor:0 "#F Jeder angesehene und reiche Adlige, einschließlich der großen Bolyaren und des Zaren selbst, unterhält eine professionelle und regelmäßige Einheit von persönlichen Kriegern. Wie der Name "oklopnik" schon andeutet (was so viel bedeutet wie 'Soldat, der in Eisen gekleidet ist'), sind diese Männer schwer gepanzert und können in einer Schlacht länger durchhalten als fast alle anderen...#!"
+
+ bulgarisch_konnik:0 "Konnik"
+ bulgarian_konnik_flavor:0 "#F Die Konnik, bulgarisch für 'Reiter', sind die berühmte schwere Kavallerie, die den Kern der bulgarischen Armee bildete. In ihrer Blütezeit im 9. und 10. Jahrhundert war sie eine der stärksten Streitkräfte in Europa und wurde von ihren Feinden sehr gefürchtet.#!"
+ 
+ bulgarian_testudos:0 "Testudos"
+ bulgarian_testudos_flavor:0 "#F Testudos sind Rammböcke mit Metallplatten auf der Oberseite, die zur Verteidigung gegen feindliche Geschosse dienen.#!"
+ 
+## TURKISH
+ turkish_azabs:0 "Azabs"
+ turkish_azabs_flavor:0 "#F Schlecht bewaffnete leichte Truppen, die Brücken und Straßen bewachen und die schwereren Truppen unterstützen sollen."
+
+ sipahis:0 "Sipahis"
+ sipahis_flavor:0 "#F Mittelschwer bewaffnete Pferdebogenschützen, die zwar weniger mobil sind als andere Pferdebogenschützen, sich aber besser für den Nahkampf eignen.#!"
+
+ sipahi_lancers:0 "Sipahi-Lanzenreiter"
+ sipahi_lancers_flavor:0 "#F "Eine bessere Klasse von Sipahis, die sich besser für den Nahkampf eignet als ihre Bogenschützenkameraden.#!"
+ 
+ janissaries_archer:0 "Janitscharen-Bogenschützen"
+ janissaries_archer_flavor:0 "#F Janitscharen sind erfahrene Bogenschützen, die mit mächtigen Bögen ausgerüstet sind. Janitscharen-Bogenschützen überschütten den Feind mit Pfeilen und schwächen und brechen Formationen, bevor die Infanterie nachrückt. Unter ihren Gewändern tragen sie in der Regel eine Rüstung.#!"
+ 
+ janissaries_infantry:0 "Janitscharen-Infanterie"
+ janissaries_infantry_flavor:0 "#F Ausgebildet an vielen Waffen, kämpfen diese Janitscharen mit einer Hellebarde und sind durch einen Kettenpanzer geschützt. Von ihnen wird erwartet, dass sie die Infanterie mit Mut und Ehre in die Schlacht führen.#!"
+ 
+ turkish_qapukulu:0 "Qapukulu"
+ turkish_qapukulu_flavor:0 "#F Die gut gepanzerten und mit Streitkolben ausgerüsteten Qapukulu sind ausgezeichnete Krieger, die im Nahkampf einen harten Gegner darstellen.#!"
+ 
+ islamic_ahdath:0 "Ahdath"
+ islamic_ahdath_flavor:0 "#F Mit Langspeeren bewaffnete Miliz.#!"
+ 
+ islamic_iqtadar:0 "Iqta'dar"
+ islamic_iqtadar_flavor:0 "#F Diese Truppen erhalten von ihrem Amir Landbesitz im Tausch gegen Militärdienst. Hart schlagende, gut geschützte Raketenkavallerie.#!"
+ 
+ islamic_hasham:0 "Hasham"
+ islamic_hasham_flavor:0 "#F Elitekrieger, die aus den Reihen der Mamelucken ausgewählt werden, um das persönliche Regiment und die Leibwache des Sultans zu bilden!#!"
+ 
+## ISLAMIC
+ islamic_rijal:0 "Rijal"
+ islamic_rijal_flavor:0 "#F Die stehenden Infanterielinien bildeten den Großteil der rashidunischen Armee. Sie führten wiederholte Angriffe und Rückzüge durch, die als karr wa farr bekannt sind, wobei sie Speere und Schwerter in Kombination mit Pfeilsalven einsetzten, um die Feinde zu schwächen und zu zermürben.#!"
+ 
+ islamic_rumat:0 "Rumat"
+ islamic_rumat_flavor:0 "#F Raschidun-Bogenschützen sind bekannt für ihre Fähigkeit, die Augen des Feindes zu treffen, und sind typischerweise präzise und kraftvolle Schützen, ähnlich wie die byzantinischen Bogenschützen.#!"
+ 
+ islamisch_fursan:0 "Fursan"
+ islamic_fursan_flavor:0 "#F Klassische Chronisten weisen darauf hin, dass es sich bei der arabischen Kavallerie ab dem 5. Jahrhundert um gut gepanzerte schwere berittene Truppen handelt, die mit den Kataphrakten vergleichbar sind. Die Araber bedeckten ihre Rüstungen in der Regel mit matt gefärbten Mänteln, um den durch das heiße Wüstenklima verursachten Sonnenbrand auf ihren metallischen Rüstungen zu verhindern...#!"
+
+ barbary_corsairs:0 "Barbaresken-Korsaren"
+ barbary_corsairs_flavor:0 "#F Die Barbaresken-Korsaren waren muslimische Piraten und Freibeuter, die von Nordafrika aus operierten und sich hauptsächlich in den Häfen von Salé, Rabat, Algier, Tunis und Tripolis aufhielten. Dieses Gebiet war in Europa in Anlehnung an die Berber als Barbareskenküste bekannt. Ihr Raubzug erstreckte sich über den gesamten Mittelmeerraum, südlich entlang der Atlantikküste Westafrikas und in den Nordatlantik bis nach Island, aber sie operierten hauptsächlich im westlichen Mittelmeerraum.#!"
+
+ islamic_naffatun:0 "Naffatun"
+ islamic_naffatun_flavor:0 "islamic_naffatun_flavor:0 "#F Diese Männer werfen tödliche Gefäße mit flammendem Naphtha, das durch jede Rüstung sickern kann.#!"
+
+ abbasid_trebuchet:0 "Manjaniq"
+ abbasid_trebuchet_flavor:0 "#F Katapulte sind aus der Geschichte der frühen Kalifate nicht wegzudenken und wurden bei Belagerungsoperationen in großem Umfang eingesetzt, wenn die muslimischen Armeen für längere Zeit in einem Gebiet verschanzt bleiben sollten. Christides hob die hohe Lernkurve der Araber während der frühen Kalifate hervor, da sie bei der Herstellung komplexer Kriegsmaschinen wie dem Manjaniq-Katapult mit etablierteren Zivilisationen wie den Byzantinern mithalten konnten.#!"
+
+## EGYPTIAN
+ islamic_khasseki_infantry:0 "Khasseki-Infanterie"
+ islamic_khasseki_infantry_flavor:0 "#F Die Khasseki bestehen aus nomadischen Kurden und Beduinen, die sich als Söldner verdingt haben. Diese Truppen, die in ganz Ägypten als Hilfstruppen eingesetzt werden, sind mit einer Axt und einem Schild ausgerüstet und tragen eine einfache Rüstung.#!"
+ 
+ abid_alshira:0 "Abid al-Shira"
+ abid_alshira_flavor:0 "#F Die Abid al-Shira, 'gekaufte Sklaven', sind Einheiten, die aus sudanesischen Sklaven bestehen. Diese Truppen sind mit einem Kompositbogen bewaffnet und haben nur ein Messer, mit dem sie kämpfen. Dies und ihre leichte Rüstung machen sie für den Nahkampf ungeeignet.#!"
+ 
+ islamic_alashair_infantry:0 "Al-'Ashair Speerträger"
+ islamic_alashair_infantry_flavor:0 "#F Die al-Ashair sind nomadische Syro-Palästinenser und libanesische Stammesangehörige, die hauptsächlich als Infanteristen angeheuert werden. Ursprünglich als Söldner in Kriegszeiten angeworben, wurden sie zu regulären Soldaten, als sie sich an der Seite ihrer Häuptlinge niederließen, denen sie Land überlassen hatten. Diese Stammesangehörigen sind mit einem Speer und einem Schild ausgerüstet und tragen wenig bis gar keine Rüstung.#!"
+
+ mamluk_cavalry:0 "Mamlukische Kavallerie"
+ mamluk_cavalry_flavor:0 "Mamluk waren militärische Sklavensoldaten, die gekauft, ausgebildet und ausgerüstet wurden, um im Auftrag des Herrschers als erfahrene Kavalleristen zu kämpfen.#!"
+
+ ghilman_nubians:0 "Zanj Ghilman"
+ ghilman_nubians_flavor:0 "Der Einsatz von Soldaten aus dem Sudan und dem Süden ist in Ägypten seit langem üblich, erst recht seit den Tuluniden. Diese Soldaten dienen als Infanterie und sind die Hauptstütze der Armee des Herrschers.#!"
+ 
+ sibyan_alkhass:0 "Sibyan al-Khass"
+ sibyan_alkhass_flavor:0 "#F Die Sibyan al-Khass sind eine Elitetruppe innerhalb der königlichen Mamelucken, die mit Kompositbögen, Schwertern und Plattenpanzern bewaffnet sind.#!"
+
+ egyptian_tabardariyya:0 "Tabardariyya"
+ egyptian_tabardariyya_flavor:0 "#F Normalerweise bewachen diese axtschwingenden Krieger den Palast des Sultans und sind ausgezeichnete Kämpfer.#!"
+ 
+ egyptian_khassaki:0 "Khassaki"
+ egyptian_khassaki_flavor:0 "#F Diese Elitetruppen sind die Leibwache des Sultans, die mit den besten Pferden, Rüstungen und Waffen ausgestattet sind.#!"
+
+## PERSIAN
+ persian_paighan:0 "Paighan"
+ persian_paighan_flavor:0 "#F Die Paighan waren die leichte Infanterieeinheit der sasanidischen Armee und bildeten den Großteil der Infanterie. Die Paighan wurden manchmal auch als "Kanonenfutter" bezeichnet.#!"
+
+ persisch_kamandaran:0 "Kamandaran"
+ persian_kamandaran_flavor:0 "#F Diese Bogenschützen, wörtlich übersetzt als 'Bogenträger', bildeten die Elite der persischen Infanterie. Sie waren darauf trainiert, ihre Pfeile mit extremer Schnelligkeit und einer nahezu unfehlbaren Treffsicherheit abzugeben. Riesige geflochtene Schilde bildeten eine Art Mauer mit Schlaufen, hinter der die sasanischen Bogenschützen ihre Waffen mit großer Wirkung abfeuerten.#!"
+
+ persisch_neyzedaran:0 "Neyze-daran"
+ persian_neyzedaran_flavor:0 "#F Wörtlich übersetzt als 'Speerträger', waren die Neyze-daran eine mit Speeren und großen Korbschilden bewaffnete mittlere Infanterie, die möglicherweise eine Untergruppe der Paighan-Einheiten war.#!"
+
+ persian_war_elephant:0 "Persische Kriegselefanten"
+ persian_war_elephant_flavor:0 "#F Kriegselefanten sind zwar zahlenmäßig klein, aber sie sind seit langem integraler Bestandteil der persischen Armeen. Allein ihre Anwesenheit auf dem Schlachtfeld zerstreut Männer und Pferde gleichermaßen und zertrampelt alle, die mutig, töricht oder unglücklich genug sind, sich ihnen in den Weg zu stellen.#!"
+
+ persian_cataphract:0 "Aswārān"
+ persian_cataphract_flavor:0 "#F Die Aswārān, auch Asbārān und Savaran geschrieben, waren eine Kavallerietruppe, die das Rückgrat der Armee des Sasanischen Reiches bildete. Sie wurden von der Aristokratie gestellt, waren schwer gepanzert und reichten von Bogenschützen bis hin zu Kataphrakten.#!"
+ 
+ gondi_shahanshah:0 "Gond-i Shahanshah"
+ gondi_shahanshah_flavor:0 "#F Benannt nach der berühmten Daylamiten-Eliteeinheit des sasanischen Shahanshah, sind diese Männer auffallend zäh, geschickt im Nahkampf und fähig, schreckliche Entbehrungen zu ertragen. Sie sind mit Wurfspeeren und Streitäxten bewaffnet und tragen hohe Schilde in grauer Farbe. Im Kampf bilden sie mit ihren Schilden gewöhnlich eine Mauer gegen die Angreifer.#!"
+ 
+ ## NUBIAN
+ nubian_archers:0 "Nubische Bogenschützen"
+ nubian_archers_flavor:0 "#F Das Herzstück der nubischen Armeen waren ihre berühmten Bogenschützen, die Daumenringe verwendeten, um die Kraft und Genauigkeit ihrer Schüsse zu erhöhen. Fast 600 Jahre lang bildeten die mächtigen Bogenschützen der Region eine Barriere für die muslimische Expansion in den Nordosten des afrikanischen Kontinents und wehrten zahlreiche Invasionen und Angriffe mit stechenden Pfeilschwärmen ab.#!"
+ 
+ ## ETHIOPIAN
+ shotel_warriors:0 "Shotelai"
+ shotel_warriors_flavor:0 "#F Ein Krieger, der im Gebrauch des Shotels und seiner Techniken ausgebildet ist. Durch die gebogene Natur des Shotels sind diese Krieger in der Lage, den Gegner zu haken, indem sie um einen Schild oder ein anderes Verteidigungsgerät oder eine Waffe herum greifen.#!"
+ 
+ ## MONGOL
+ mongol_cataphract:0 "Mongolische Lanzenreiter"
+ mongol_cataphract_flavor:0 "#F Diese Eliteschocktruppen tauschen ihre Beweglichkeit gegen schwerere Rüstung bei Reiter und Pferd. Sie sind äußerst erfahrene Krieger, die sich im bewaffneten Kampf und beim Reiten auszeichnen. Sie sind mit einer Lanze und einem Streitkolben bewaffnet, die als 'Gulda' bekannt sind, und mit einem Lamellenpanzer gepanzert, der 'Khuyad' genannt wird.#!"
+ 
+ ## IBERIA
+ iberian_raiders:0 "Almogávares"
+ iberian_raiders_flavor:0 "#F Infanterie-Schocktruppen und Plünderer, die zu Fuß kämpften, mit leichter Bewaffnung und Gepäck, im Allgemeinen mit einem Paar Speere, einem kurzen Speer und einem Falchion.#!"
+ 
+ spanish_jinete:0 "Jinete"
+ spanish_jinete_flavor:0 "#F Ein spanischer leichter Reiter, der eine Lederrüstung trug und mit Speeren, einem Speer, einem Schwert und einem Schild bewaffnet war.#!"
+ 
+ muslim_jinete:0 "Granadische Jinetes"
+ muslim_jinete_flavor:0 "#F Leicht gepanzerte Plänkler, die mit einem Speer bewaffnet waren und eine Kreisformation bilden konnten, um den Feind unter Dauerfeuer zu nehmen.#!"
+ 
+ portugal_crossbowmen:0 "Besteiros do conto"
+ portugal_crossbowmen_flavor:0 "#F Portugiesische Miliz, bestehend aus Bogenschützen mit einer Armbrust, die sich im Allgemeinen aus Handwerkern rekrutieren, die mit der Jagd vertraut sind.#!"
+ 
+ iberian_coseletes:0 "Coseleten"
+ iberian_coseletes_flavor:0 "iberian_coseletes_flavor:0 "#F Benannt nach der grundlegenden Verteidigungsrüstung, die sie trugen, dienten die coseletes als die Elite in den iberischen Hechtformationen.#!"
+ 
+ iberian_picas_secas:0 "Picas secas"
+ iberian_picas_secas_flavor:0 "#F Die am schlechtesten bezahlten Soldaten in ihren Kompanien, die picas secas ('Trockenhechte'), waren normalerweise Anfänger, die automatisch in diesen Positionen dienten, bis sie die notwendige Ausrüstung kauften, um in anderen Rollen dienen zu können.#!"
+ 
+ portugal_aventuros:0 "Aventuros"
+ portugal_aventuros_flavor:0 "#F Ungestümer und heißblütiger Adel, bewaffnet mit Piken und exzellenter Rüstung, ist diese Eliteeinheit eine der besten verfügbaren Pikeniere.#!"
+ 
+ ## GAELIC
+ gaelic_ceathairne:0 "Ceathairne"
+ gaelic_ceathairne_flavor:0 "#F Eine Gruppe von Kämpfern aus einem schottischen Hochlandclan.#!"
+ 
+ ## IRISH
+ irish_ceithern:0 "Ceithern"
+ irish_ceithern_flavor:0 "#F Die ceithern begleiteten Gruppen der Söldner gall óglaigh als deren leichte Infanterie. Die ceithern trugen einfache Rüstungen und setzten auf Schnelligkeit und Mobilität, wobei sie oft Blitzschlagtaktiken als Kraftverstärker einsetzten, um weitaus größere Formationen anzugreifen.#!"
+ 
+ irish_ostmen:0 "Ostmänner"
+ irish_ostmen_flavor:0 "#F Soldaten wikingerzeitlicher Herkunft, die im Umgang mit Schwert und Schild geübt sind.#!"
+ 
+ irish_ridire:0 "Ridire"
+ irish_ridire_flavor:0 "#F Diese Ritter stammen aus adligen Familien, sind gut ausgebildet und mit Lanze und Streitkolben ausgerüstet.#!"
+ 
+ irish_cliathairi:0 "Cliathairi"
+ irish_cliathairi_flavor:0 "#F Gut ausgebildete Berufssoldaten, geübt im Umgang mit dem langen Speer.#!"
+ 
+irish_horseboys:0 "Pferdeburschen"
+ irish_horseboys_flavor:0 "#F Diese jungen Knappen sind ausgezeichnete Reiter, sie tragen nur wenig Rüstung und sind schnell und sehr treffsicher mit dem Speer.#!"
+ 
+ irish_muire:0 "Muire"
+ irish_muire_flavor:0 "#F Von ihren Herren gut ausgerüstet, schützen und bewachen diese Schwertkämpfer im Gegenzug ihre Herren#!"
+ 
+ irish_galloglaigh:0 "Gall óglaigh"
+ irish_galloglaigh_flavor:0 "#F Die Gallóglaigh führten eine massive zweihändige Spartanaxt und ein Breitschwert oder Claymore. Als Rüstung trugen die Gallóglaigh ein Kettenhemd über einer gepolsterten Jacke und einen Eisenhelm. Oft wurden sie von zwei Knaben begleitet, von denen einer die Wurfspeere und der andere den Proviant trug.#!"
+ 
+ ## WELSH
+ welsh_helwyr:0 "Helwyr"
+ welsh_helwyr_flavor:0 "#F Einheimische Jäger, die zwar ungeschult und schlecht für die Kriegsführung ausgerüstet sind, aber wilde und entschlossene Kämpfer sind.#!"
+ 
+ welsh_saethwyr:0 "Saethwyr"
+ welsh_saethwyr_flavor:0 "#F Die ersten Träger des Langbogens. Da sie völlig ungepanzert sind, müssen sie sich aus dem Nahkampf heraushalten.#!"
+ 
+ welsh_rhyfelwyr:0 "Rhyfelwyr"
+ welsh_rhyfelwyr_flavor:0 "#F Schwer gepanzerte, stark angreifende Infanterie, geübt im Umgang mit der doppelhändigen Axt#!"
+ 
+ welsh_teulu:0 "Teulu"
+ welsh_teulu_flavor:0 "#F Beinahe familiär, sind diese Reiter die engsten Gefolgsleute ihres Lehnsherren#!"
+ 
+ ## POLISH
+ woodsmen:0 "Waldmänner"
+ woodsmen_flavor:0 "#Ein hartes Volk aus den Wäldern Nordosteuropas, bewaffnet mit einer großen Axt#!"
+ 
+ polnisch_strzelcy:0 "Strzelcy"
+ polish_strzelcy_flavor:0 "#F Strzelcy, was auf Polnisch "Schützen" bedeutet, sind leichte Pferdetruppen, die durch eine leichte Rüstung geschützt sind und eine kleine Armbrust benutzen.#!"
+ 
+ ## LITHUANIAN 
+ giltines_chosen:0 "Die Auserwählten Giltines"
+ giltines_chosen_flavor:0 "#F Gut ausgerüstet sind diese Männer eine solide Infanterie, und ihre Stangenwaffen machen sie sowohl gegen Fußgänger als auch gegen berittene Feinde effektiv.#!"
+ 
+ dzukijan_horsemen:0 "Dzukijanische Reiter"
+ dzukijan_horsemen_flavor:0 "#F Diese bogenschwingenden Reiter suchen den Nahkampf zu vermeiden, da sie meist ungepanzert kämpfen.#!"
+ 
+ dievas_guard:0 "Dievas Garde"
+ dievas_guard_flavor:0 "#F Mächtige Kavallerie, die auf starken Rössern in die Schlacht reitet und brutale Kriegsgabeln schwingt.#!"
+ 
+ lithuanian_bajorija:0 "Bajorija"
+ lithuanian_bajorija_flavor:0 "#F Diese Adligen bevorzugen es, in der Schlacht eine Axt zu schwingen und eine Rüstung zu tragen, die der ihrer westlichen Gegenstücke ähnelt.#!"
+ 
+ ## HUNGARIAN
+ pavise_spearmen:0 "Pavise-Speerträger"
+ pavise_spearmen_flavor:0 "#F Unterer Adel im Militärdienst. Sie tragen eine gute Rüstung und sind mit einem Speer ausgerüstet, mit dem sie einen Verteidigungsring aus Speeren bilden können.#!"
+ 
+ ungarisch_hussar:0 "Husaren"
+ hungarian_hussar_flavor:0 "#F Die Husaren sind bekannt für ihre schnelle Stoßtrupp-Taktik und sind mit leichtem Kettenhemd, Schild, Lanze und Schwert ausgerüstet.#!"
+ 
+ hungarian_tizlandzsasok:0 "Tízlándzsások"
+ hungarian_tizlandzsasok_flavor:0 "#F Die Tízlándzsások, d.h. die zehnspännigen Adligen, waren eine Gruppe von bedingten Adligen, die in der Region Szepes im Königreich Ungarn lebten. Diese Adligen waren früher Teil des Kontingents, das mit Grenzschutzaufgaben an der Peripherie der eroberten Gebiete in der Region betraut war. Sie waren verpflichtet, zehn Ritter oder Lanzenreiter für das ungarische Heer auszurüsten.#!"
+ 
+ hungarian_banderium:0 "Königliche Banderien"
+ hungarian_banderium_flavor:0 "#F Bewaffnet mit Lanzen und in Plattenpanzern fungieren diese loyalen Krieger als Gefolge und Leibwächter des Königshauses.#!"
+ 
+ ## RUSSIAN
+ berdiche_axemen:0 "Berdiche-Axtkämpfer"
+ berdiche_axemen_flavor:0 "#F Zweihändige Axtkämpfer, die als Stoßtruppen eingesetzt werden. Kann von Post bis Brigandine gepanzert werden#!"
+ 
+ druzhina_cavalry:0 "Druschina-Kavallerie"
+ druzhina_cavalry_flavor:0 "#F Kräftige Kavalleriekrieger in Kettenpanzer und bewaffnet mit Speer und Axt, die als Leibwächter der Häuptlinge fungieren.#!"
+ 
+ dvor_kavallerie:0 "Dvorer-Kavallerie"
+ dvor_cavalry_flavor:0 "#F Im Dienste des örtlichen Fürsten oder eines hochrangigen Bojaren gehören die Dvors zur besten verfügbaren Raketenkavallerie.#!"
+ 
+ kosaken_kavallerie:0 "Kosaken-Kavallerie"
+ cossack_cavalry_flavor:0 "#F Kräftig und widerstandsfähig, wenn auch ohne Rüstung, sind die Kosaken mit einem Schwert und einem Kompositbogen ausgerüstet, die sie vom Pferd aus benutzen.#!"
+ 
+ ## ITALIAN
+ genoese_crossbowmen:0 "Balestrieri Genovesi"
+ genoese_crossbowmen_flavor:0 "#F Die genuesischen Armbrustschützen (italienisch: Balestrieri genovesi) waren ein berühmtes Militärkorps des Mittelalters, das sowohl zur Verteidigung der Republik Genua als auch als Söldnertruppe für andere italienische oder europäische Mächte tätig war.#!"
+ 
+ milan_famiglia_ducale:0 "Famiglia Ducale"
+ milan_famiglia_ducale_flavor:0 "#F In Platten gekleidet und mit Lanzen bewaffnet, verteidigen diese erstklassigen Ritter die Ehre ihres Herzogs.#!"
+ 
+ lanze_spezzate:0 "Lanze Spezzate"
+ lanze_spezzate_flavor:0 "#F Die Lanze Spezzate sind gut ausgebildete und erfahrene Berufssoldaten, die durch Plattenpanzer geschützt und mit Lanzen und Schwertern bewaffnet sind.#!"
+ 
+ ## SICILIAN
+ sicilian_archers:0 "Luceranische Bogenschützen"
+ sicilian_archers_flavor:0 "#F Truppen, bestehend aus sizilianischen Muslimen, die für ihre Stadt kämpfen, ausgerüstet mit Bogen und leichter Rüstung.#!"
+ 
+ ## ENGLISH
+ yeoman_archers:0 "Yeoman-Bogenschützen"
+ yeoman_archers_flavor:0 "#F Englische Grundbesitzer sind vom König verpflichtet, in der Kriegsführung ausgebildet zu werden, Yeoman Bogenschützen sind hochqualifizierte Fernkampftruppen.#!"
+ 
+ sherwood_archers:0 "Sherwood-Bogenschützen"
+ sherwood_archers_flavor:0 "#F Mit einem Langbogen aus Eibenholz und der Fähigkeit, sich in jedem Gelände zu verstecken, sind diese Männer hervorragend für Hinterhalte geeignet und sind hervorragende Schützen.#!"
+ 
+ english_billmen:0 "Hippenträger"
+ english_billmen_flavor:0 "#F Ein ausgebildeter Billmen kann seine Feinde erstechen, zerhacken und zu Boden schleifen, sowohl Infanterie als auch Kavallerie.#!"
+ 
+ english_hobilar:0 "Hobilare"
+ english_hobilar_flavor:0 "#F Leichte Kavallerie mit Speeren. Nützlich, um leichte Infanterie zu jagen und fliehende Feinde zu verfolgen.#!"
+ 
+ ## FRANKISH
+ french_aventurier:0 "Aventurier"
+ french_aventurier_flavor:0 "#F Gut ausgebildete Truppen, die mit Armbrust und Schwert bewaffnet und gepanzert sind!"#!"
+ 
+ french_voulgier:0 "Voulgiere"
+ french_voulgier_flavor:0 "#F Diese gut ausgerüsteten Männer bilden eine solide Infanterie, und ihre Stangenwaffen machen sie sowohl gegen Fußgänger als auch gegen berittene Feinde effektiv#!"
+ 
+ french_caballarii:0 "Kavalliere"
+ french_caballarii_flavor:0 "#F Ein voll bewaffneter Caballarius sollte einen Helm, einen Körperpanzer, ein Schwert und einen Speer haben. Letzterer war 8-10 Fuß lang und hatte einen verlängerten und geschärften Eisenkopf. Die caballarii Karls des Großen benutzten den Speer mit der Hand oder mit der Unterhand als Stichwaffe oder warfen ihn aus nächster Nähe.#!"
+ 
+ ## NORMAN
+ norman_knights:0 "Normannische Ritter"
+ norman_knights_flavor:0 "#F Von allen Rittern Europas sind die Normannen die berühmtesten. Ihr Wikingererbe und ihre Kampfeslust brachten viele von ihnen dazu, ihr Glück im Ausland zu suchen, insbesondere in Süditalien. Die außergewöhnliche Wildheit des normannischen Ritters und seine schwere Rüstung macht ihn auf jedem Schlachtfeld zu einem gefürchteten Gegner.#!"
+ 
+ ## CENTRAL GERMANIC
+ germanic_verlorene_haufe:0 "Verlorener Haufen"
+ germanic_verlorene_haufe_flavor:0 "#F Diese unerschrockenen Männer sind mit einem massiven Zweihandschwert und einer dicken Rüstung bewaffnet.#!"
+ 
+ ## DANISH
+ danish_obudshaer:0 "Obudshaer"
+ danish_obudshaer_flavor:0 "#F Geschickte dänische Hellebardeneinheit in Plattenpanzerung.#!"
+ 
+ danish_svenner:0 "Svenner"
+ danish_svenner_flavor:0 "#F Eine preiswerte Kavallerieeinheit, die als Ergänzung zu teureren Rittern nützlich ist.#!"
+ 
+ ## OUTREMER
+ outremer_bowmen:0 "Sodeer-Bogenschützen"
+ outremer_bowmen_flavor:0 "#F Sodeer, also Soldaten, sind Söldner, die für langfristige Aufgaben in Outremer angeheuert werden. Söldner spielen in den Kreuzfahrerstaaten eine wichtige Rolle, da sie den Mangel an feudalen Truppen teilweise kompensieren. Diese Einheit erfahrener und gut ausgebildeter Bogenschützen trägt wenig bis gar keine Rüstung und ist mit einem Bogen und einem Messer bewaffnet.#!"
+ 
+ outremer_turcopoles:0 "Turcopolen"
+outremer_turcopoles_flavor:0 "#F Während der Zeit der Kreuzzüge waren Turcopolen ('Söhne der Türken') lokal rekrutierte berittene Bogenschützen und leichte Kavallerie, die von den Kreuzfahrerstaaten eingesetzt wurden. Im Heiligen Land waren die Turcopolen leichter ausgerüstet als die Ritter und Sergeanten (berittene Männer zu den Waffen). Sie waren mit Lanzen und Bögen bewaffnet, um die mobileren muslimischen Streitkräfte zu bekämpfen. Sie waren mit Lanzen und Bögen bewaffnet, um die mobileren muslimischen Truppen zu bekämpfen. Die Turkopolen dienten als leichte Kavallerie, die Plänkler, Späher und berittene Bogenschützen stellte und manchmal als zweite Linie bei einem Angriff ritt, um den fränkischen Rittern und Unteroffizieren den Rücken zu stärken. Turcopolen hatten leichtere und schnellere Pferde als die westlichen berittenen Truppen und trugen viel leichtere Rüstungen.#!"
+ 
+ outremer_heavy_cavalry:0 "Ritter von Jerusalem"
+outremer_heavy_cavalry_flavor:0 "#F Lehnsritter, die dem Königreich Jerusalem zu Diensten sind, mit Lanze und Axt ausgerüstet und in Kettenpanzer gekleidet.#!"
+ 
+ ## MALINKE
+ sofa:0 "Sofas"
+ sofa_flavor:0 "#F Sofas waren mit zwei Köchern ausgestattet, und ihr Bogen war für europäische Verhältnisse klein. Er konnte nicht sehr weit und auch nicht sehr stark schießen, so dass die Sofas tödliche Gifte einsetzten und in Bögen schossen, um den Pfeilen Kraft zu verleihen. Sofas setzten auch brennende Pfeile ein, vor allem gegen Befestigungen, die oft nicht viel mehr als Stroh oder Holzpalisaden waren.#!"
+ 

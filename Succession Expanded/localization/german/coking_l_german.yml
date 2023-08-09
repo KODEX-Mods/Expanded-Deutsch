@@ -1,0 +1,28 @@
+﻿l_german:
+ adopt_co_kingship: "Mitkönigtum einführen"
+ adopt_co_kingship_selection_tooltip: "Untergrabt das Wahlsystem, indem Ihr einen Kandidaten wählt, der Euer Königreich als Juniorherrscher regieren soll. Vasallen können immer noch einen Anspruchsteller wählen."
+ adopt_co_kingship_desc: "Mit dem Wachstum unserer Dynastie können die lästigen Wahlgesetze unser Haus entmachten. Wir werden uns nicht mehr aufhalten lassen, indem wir nun die Wahl mit unserer Kür unterminieren. Sie haben ihre Regeln, wir haben unsere."
+ adopt_co_kingship_confirm_text: "Ruft ein Mitkönigtum aus"
+
+ tooltip_feudal_elective_co_king: "Kann Juniorherrscher auswählen: $VALUE|=+0$"
+
+ cokingship_doesnt_exist: "Einer Eurer Titel ist ein feudales Wahlrecht ohne deklarierte Mitregentschaft"
+
+ cokingship_effect_title: "Einer Eurer Titel ist ein feudales Wahlrecht ohne erklärtes Mitkönigtum"
+ cokingship_effect_vassal: "Eure De-jure-Vasallen des Mitkönigtums werden mit dieser Entscheidung unzufrieden sein."
+
+ subverted_election: "Hat unsere Wahl unterwandert"
+
+ feudal_elective_diet: "Beruft einen Reichstag zur Nachfolge ein"
+ feudal_elective_diet_selection_tooltip: "Wechselt zur Feudalwahl, um Eure Vasallen zu besänftigen."
+ feudal_elective_diet_tooltip: "Wechselt zur Feudalwahl, um Eure Vasallen zu besänftigen."
+ feudal_elective_diet_desc: "Mit der fortschreitenden Zersplitterung des karolingischen Reiches wächst die Unzufriedenheit meiner Vasallen mit meiner Herrschaft. Ich werde die Botschaft aussenden, einen Reichstag einzuberufen, um eine stabilere und vorteilhaftere Nachfolge zu schaffen."
+ feudal_elective_diet_confirm: "Die Fürsten werden eine Wahlnachfolge beschließen."
+
+ favorable_succession: "Begünstigte Nachfolge"
+
+ has_convene_diet: "Hat den Reichstag zur Nachfolge einberufen oder hat bereits ein feudales Wahlrecht"
+ powerfull_vassl_has_neg_opin: "Jeder mächtige Vasall hat eine Meinung weniger als #high 0#!"
+ no_special_succ: "Hält noch keinen Wahltitel"
+
+ coking_ai_restrictions: "Prüfen, ob der Dev eine AI ist... Bitte warten"

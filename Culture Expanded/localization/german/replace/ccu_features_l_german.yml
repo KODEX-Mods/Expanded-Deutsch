@@ -1,0 +1,109 @@
+﻿l_german:
+ #Heritages
+ ## Heritage Families
+ ## Heritage Groups
+
+ # Languages
+ ## Language Families
+ ## Language Branches
+ ## Language Groups
+ ## Language Unions
+ ## Language Creoles
+ ## Dialect Continua
+
+ # Game Concepts
+ game_concept_heritages: "Herkunft"
+
+ game_concept_heritage_family: "Kulturfamilie"
+ game_concept_heritage_families: "Kulturfamilien"
+ game_concept_heritage_family_desc: "Kulturfamilien sind Gruppierungen von verwandten [heritages|E]. Eine gemeinsame Kulturfamilie erhöht die [cultural_acceptance|E]-Grundlage."
+
+ game_concept_heritage_group: "Kulturgruppe"
+ game_concept_heritage_groups: "Kulturgruppen"
+ game_concept_heritage_group_desc: "Kulturgruppen sind Gruppierungen von verwandten [heritages|E]. Eine gemeinsame Kulturgruppe erhöht die [cultural_acceptance|E]-Grundlage."
+
+ game_concept_heritage_kulturbund: "Kulturbund"
+ game_concept_kulturbund: "$game_concept_heritage_kulturbund$"
+ game_concept_heritage_kulturbunds: "Kulturbünde"
+ game_concept_heritage_kulturbund_desc: "Ein #italic Kulturbund#! ist ein Zusammenschluss von Kulturen, die sich zwar unterscheiden, aber auch sehr viele Gemeinsamkeiten aufweisen (z.B. die türkisch-mongolischen Kulturen). Ein gemeinsamer #italic Kulturbund#! erhöht die [cultural_acceptance|E]-Grundlage."
+
+ game_concept_language_group: "Sprachgruppe"
+ game_concept_language_groups: "Sprachgruppen"
+ game_concept_language_group_desc: "Sprachgruppen sind Gruppierungen von verwandten [languages|E]. Eine gemeinsame Sprachgruppe erhöht die [cultural_acceptance|E]-Grundlage, und es ist einfacher, eine Sprache zu lernen, die zur gleichen Gruppe gehört wie die eigene [culture|E]."
+
+ game_concept_language_branch: "Sprachzweig"
+ game_concept_language_branches: "LSprachzweige"
+ game_concept_language_branch_desc: "Sprachzweige sind Gruppierungen von verwandten [languages|E]. Eine gemeinsamer Sprachzweig erhöht die [cultural_acceptance|E]-Grundlage, und es ist einfacher, eine Sprache zu lernen, die zum gleichen Zweig gehört wie die eigene [culture|E]."
+
+ game_concept_language_family: "Sprachfamilie"
+ game_concept_language_families: "Sprachfamilien"
+ game_concept_language_family_desc: "Sprachfamilien sind Gruppierungen von verwandten [language_groups|E]. Eine gemeinsame Sprachfamilie erhöht die [kulturelle_Akzeptanz|E]-Grundlage, und es ist einfacher, eine Sprache zu lernen, die zur gleichen Familie gehört wie die eigene [culture|E]."
+
+ game_concept_language_union: "Sprachgemeinschaft"
+ game_concept_language_unions: "Sprachgemeinschaften"
+ game_concept_language_union_desc: "Sprachgemeinschaften sind Sprachbünde von genealogisch nicht verwandten [languages|E]. Eine gemeinsame Sprachgemeinschaft erhöht die [cultural_acceptance|E]-Grundlage, und es ist einfacher, eine Sprache zu lernen, die derselben Gemeinschaft angehört wie die eigene [culture|E]."
+
+ game_concept_language_dialect_continuum: "Dialektkontinuum"
+ game_concept_language_dialect_continuum_desc: "Dialektkontinua repräsentieren Sprachen, die miteinander verwandt und gegenseitig verständlich sind, aber möglicherweise nicht mit anderen Sprachen innerhalb desselben [language_branch|E] verständlich sind."
+ game_concept_dialect_continuum: "Dialektkontinuum"
+
+ game_concept_language_creole: "Kreol"
+ game_concept_language_creole_desc: "Kreolsprachen sind beständige natürliche Sprachen, die sich aus der Vereinfachung und Vermischung zweier verschiedener Sprachen zu einer neuen Sprache innerhalb eines relativ kurzen Zeitraums entwickeln. Als solche bleiben sie mit einigen genetisch nicht verwandten Sprachen einigermaßen verständlich."
+ game_concept_creole: "Kreol"
+
+ #Script Breakdown
+ ACCEPTANCE_BASELINE_HERITAGE_KULTURBUND: "[cultures|E] teilen [kulturbund|E]"
+ ACCEPTANCE_BASELINE_HERITAGE_GROUP: "[cultures|E] teilen [heritage_group|E]"
+ ACCEPTANCE_BASELINE_HERITAGE_FAMILY: "[cultures|E] teilen [heritage_family|E]"
+ ACCEPTANCE_BASELINE_LANGUAGE_GROUP: "[cultures|E] teilen [language_group|E]"
+ ACCEPTANCE_BASELINE_LANGUAGE_BRANCH: "[cultures|E] teilen [language_branch|E]"
+ ACCEPTANCE_BASELINE_LANGUAGE_FAMILY: "[cultures|E] teilen [language_family|E]"
+ ACCEPTANCE_BASELINE_LANGUAGE_UNION: "[cultures|E] teilen [language_union|E]"
+ ACCEPTANCE_BASELINE_LANGUAGE_DIALECT_CONTINUUM: "[cultures|E] teilen [dialect_continuum|E]"
+ ACCEPTANCE_BASELINE_LANGUAGE_CREOLE: "Spricht ein [creole|E] mit einigen Merkmalen Eurer [language|E]"
+ ACCEPTANCE_BASELINE_MARTIAL_TRADITION: "[cultures|E] haben verschiedene [martial_custom|E]"
+ ACCEPTANCE_BASELINE_FAITH_RIGHTEOUS: "Mehrheits-[faiths|E] der [cultures|E] betrachten einander als [faith_righteous|E]"
+ ACCEPTANCE_BASELINE_FAITH_HOSTILE: "Mehrheits-[faiths|E] der [cultures|E] betrachten einander als [faith_hostile|E]"
+ ACCEPTANCE_BASELINE_FAITH_EVIL: "Mehrheits-[faiths|E] der [cultures|E] betrachten einander als [faith_evil|E]"
+
+ SCHEME_SAME_LANGUAGE_BRANCH_AS_NATIVE_LANGUAGE: "Derselbe [language_branch|E] wie Eure [Concept('language', 'Muttersprache')|E]: $VALUE|+0=$"
+ SCHEME_SAME_LANGUAGE_GROUP_AS_NATIVE_LANGUAGE: "Dieselbe [language_group|E] wie Eure [Concept('language', 'Muttersprache')|E]: $VALUE|+0=$"
+ SCHEME_SAME_LANGUAGE_FAMILY_AS_NATIVE_LANGUAGE: "Dieselbe [language_family|E] wie Eure [Concept('language', 'Muttersprache')|E]: $VALUE|+0=$"
+ SCHEME_SAME_LANGUAGE_UNION_AS_NATIVE_LANGUAGE: "Dieselbe [language_union|E] wie Eure [Concept('language', 'Muttersprache')|E]: $VALUE|+0=$"
+ SCHEME_SAME_LANGUAGE_DIALECT_CONTINUUM_AS_NATIVE_LANGUAGE: "Dasselbe [dialect_continuum|E] wie Eure [Concept('language', 'Muttersprache')|E]: $VALUE|+0=$"
+ SCHEME_CREOLE_WITH_NATIVE_LANGUAGE: "Spricht ein [creole|E] mit einigen Merkmalen Eurer [language|E]: $VALUE|+0=$"
+
+ ASK_FOR_CONVERSION_SENDER_VIGOR: "[vigor|E]-Unterschied"
+ ASK_FOR_CONVERSION_VERY_LOW_ACCEPTANCE: "Sehr niedrige [cultural_acceptance|E]"
+ ASK_FOR_CONVERSION_LOW_ACCEPTANCE: "Niedrige [cultural_acceptance|E]"
+ ASK_FOR_CONVERSION_HIGH_ACCEPTANCE: "Hohe [cultural_acceptance|E]"
+ ASK_FOR_CONVERSION_VERY_HIGH_ACCEPTANCE: "Sehr hohe [cultural_acceptance|E]"
+ ASK_FOR_CONVERSION_DIFFERENT_HERITAGE_GROUP: "Andere [heritage_group|E]"
+ ASK_FOR_CONVERSION_DIFFERENT_HERITAGE_GROUP: "Andere [heritage|E]"
+ ASK_FOR_CONVERSION_TRADITIONS: "[culture_tradition|E]"
+
+ acceptance_change_war: "[war.GetName]"
+ acceptance_change_marriage: "Heirat zwischen [primary_spouse.GetTitledFirstName] und [spouse.GetTitledFirstName]"
+ acceptance_change_divorce: "Scheidung von [primary_spouse.GetTitledFirstName] und [spouse.GetTitledFirstName]"
+
+ # Debug Messages
+ ccu_debug_culture_heritage_group: "CCU-Warnung" 
+ ccu_debug_culture_heritage_group_desc: "[problem_culture.GetAdjective]e [culture|E] hat keine [heritage_group|E]!"
+
+ ccu_debug_culture_heritage_family: "CCU-Warnung" 
+ ccu_debug_culture_heritage_family_desc: "[problem_culture.GetAdjective]e [culture|E] hat keine [heritage_family|E]!"
+
+ ccu_debug_culture_language_group: "CCU-Warnung"
+ ccu_debug_culture_language_group_desc: "[problem_culture.GetAdjective]e [culture|E] hat keine [language_group|E]!"
+
+ ccu_debug_culture_language_branch: "CCU-Warnung"
+ ccu_debug_culture_language_branch_desc: "[problem_culture.GetAdjective]e [culture|E] hat keinen [language_branch|E]!"
+
+ ccu_debug_culture_language_family: "CCU-Warnung"
+ ccu_debug_culture_language_family_desc: "[problem_culture.GetAdjective]e [culture|E] hat keine [language_family|E]!"
+
+ ccu_debug_culture_language_union: "CCU-Warnung"
+ ccu_debug_culture_language_union_desc: "[problem_culture.GetAdjective]e [culture|E] hat keine [language_union|E]!"
+
+ ccu_debug_culture_language_creole: "CCU-Warnung"
+ ccu_debug_culture_language_creole_desc: "[problem_culture.GetAdjective]e [culture|E] hat kein [language_creole|E]!"

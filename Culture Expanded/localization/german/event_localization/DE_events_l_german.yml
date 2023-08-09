@@ -1,0 +1,115 @@
+﻿l_german:
+
+  # Found the Kingdom of Oman
+  DE_decision_event.0001.t: "Das Königreich Oman"
+  DE_decision_event.0001.desc: "Die Ibaditen haben jahrhundertelang kein Reich für ihr eigenes Volk gehabt, während die Perser im Norden und die Kalifen im Westen unsere Länder fremdem Einfluss und falschen Führern unterworfen haben und die fernen Länder unsere Stämme verhöhnt haben, aber das ist vorbei. Die zerstrittenen Stämme knien nun gemeinsam vor dem Sultan von Oman.\n\nMit meiner Krönung zum [founder.GetTitleAsNameNoTooltip] werde ich ein goldenes Zeitalter des Wohlstands für alle Gläubigen in unserem Reich einläuten."
+  DE_decision_event.0001.a: "Endlich!"
+
+  # Restore the Kingdom of Old Saxony
+  DE_decision_event.0002.t: "Die alten Sachsen"
+  DE_decision_event.0002.desc: "Das sächsische Volk war einst eine mächtige Kraft, die sich den Mächten Karls des Großen widersetzte, bis wir uns nicht mehr beugen konnten. Seit dieser schicksalhaften Zeit waren die Sachsen der Herrschaft anderer unterworfen und nicht in der Lage, ihr eigenes Schicksal zu bestimmen. Nun, da meine Feinde besiegt sind und die Unabhängigkeit erreicht wurde, ist es an der Zeit, das Königreich Sachsen wiederherzustellen! Als [founder.GetTitleAsNameNoTooltip] werde ich mein Volk in eine glorreiche Zukunft führen!"
+  DE_decision_event.0002.a: "Wieder einmal aufgerichtet!"
+
+  #Form the Grand Duchy of Saxony
+  DE_decision_event.0003.t: "Das Großherzogtum Sachsen"
+  DE_decision_event.0003.desc: "Dank meiner glanzvollen Leistungen bei der Konsolidierung der sächsischen Kernlande und des enormen Einflusses, den meine Dynastie im Heiligen Römischen Reich erlangt hat, hat [scoped_emperor.GetTitledFirstName] endlich die traditionelle Vormachtstellung Sachsens über die vielen kleinen Herzöge Deutschlands anerkannt.\n\nVon diesem Tag an werden alle meine Nachfolger den angesehenen Titel #EMP-Großherzog#! tragen, der jedem König gleichgestellt ist, um sich von den weniger bedeutenden Fürsten des Reiches abzusetzen."
+  DE_decision_event.0003.a: "Saxonia erit in orbe ultima!"
+
+  # Form the Grand Duchy of Franconia
+  DE_decision_event.0004.t: "Das Großherzogtum Franken"
+  DE_decision_event.0004.desc: "Dank meiner glanzvollen Leistungen bei der Konsolidierung der fränkischen Ländereien und des enormen Einflusses, den meine Dynastie im Heiligen Römischen Reich erlangt hat, hat [scoped_emperor.GetTitledFirstName] endlich Franken als höchsten Sitz der Macht über die vielen kleinlichen Herzöge Deutschlands anerkannt.\n\nVon diesem Tag an werden alle meine Nachfolger den angesehenen Titel #EMP-Großherzog#! tragen, der jedem König gleichgestellt ist, um sich von den weniger bedeutenden Fürsten abzusetzen."
+  DE_decision_event.0004.a: "Franconia erit in orbe ultima!"
+
+  # Form the Grand Duchy of Swabia
+  DE_decision_event.0005.t: "Das Großherzogtum Alemannien"
+  DE_decision_event.0005.desc: "Dank meiner glanzvollen Leistungen bei der Konsolidierung der badischen und schwäbischen Kernlande und des enormen Einflusses, den meine Dynastie im Heiligen Römischen Reich erlangt hat, hat [scoped_emperor.GetTitledFirstName] die traditionellen Ländereien Alemanniens endlich als über den vielen kleinen Herzögen Deutschlands stehend anerkannt.\n\nVon diesem Tag an werden alle meine Nachfolger den angesehenen Titel #EMP-Großherzog#! tragen, der jedem König ebenbürtig ist, um sich von den geringeren Fürsten des Reiches abzusetzen."
+  DE_decision_event.0005.a: "Alemannia erit in orbe ultima!"
+
+  # Forming Bulgarian Empire
+  DE_decision_event.0006.t: "Ein neues Rom erhebt sich"
+  DE_decision_event.0006.desc: "Seit der Zeit von Asparuh hat unser Volk versucht, die Vormachtstellung des Oströmischen Reiches herauszufordern. Durch unsere Macht haben die Griechen ihren Einfluss auf dem Balkan verloren, und unser Reich ist an ihre Stelle getreten. Jetzt wagen wir es sogar in ganz Europa, uns mit dem alten Römischen Reich zu vergleichen, während der oströmische Kaiser und der Patriarch von Konstantinopel vor unserer Macht nur in Ehrfurcht niederknien können. Meine Familie und ich sind zur unangefochtenen Hegemonie auf der Balkanhalbinsel aufgestiegen.\n\nDie Zeit ist reif, dass ich mich als Zar der Bulgaren und als wahrer Basileus der Römer ausrufen lasse, mit all der damit verbundenen Würde und Macht. Unsere Hauptstadt wird als das Dritte Rom bekannt sein, und unser Reich wird als das wahre Römische Reich bekannt sein - ein Reich über Bulgaren und Römer!"
+  DE_decision_event.0006.a: "Ich erhebe mich nunmehr als Imperator über Bulgaren und Römer."
+
+  # Reform the Avar Khaganate 
+  DE_decision_event.0007.t: "Das Khaganat der Awaren"
+  DE_decision_event.0007.desc: "Die Awaren herrschten einst über ein riesiges Reich, das sich von der pontischen Steppe bis zu den Grenzen der Germanen erstreckte. Unfähig, den boshaften Kräften der Franken zu widerstehen, zerfiel unser Reich vor unseren Augen. Unser Kampf ums Überleben war ein harter Weg, doch heute kämpfen wir nicht mehr. Das Awaren-Khaganat ist nun wiederhergestellt und bereit, unseren Völkern eine Ära des Ruhmes und des Gedeihens zu bringen!"
+  DE_decision_event.0007.a: "Auf das neue Khaganat!"
+
+  # Integrate Aquitaine
+  DE_decision_event.0008.t: "Verbunden als Eins"
+  DE_decision_event.0008.desc: "dSeit der Eroberung Aquitaniens durch die Karolinger im Jahr 769 waren die Ländereien Aquitaniens das Zentrum von Streitigkeiten und Konflikten zwischen dem Adel und seinen Herrschern. Das Königreich Aquitanien hat nur dazu gedient, unser Volk zu spalten, aber damit ist jetzt Schluss. Von nun an sollen alle diesseits des Rheins lebenden Franken unter der Krone des Westfrankenreichs regiert werden."
+  DE_decision_event.0008.a: "Lasst uns nie wieder gespalten sein."
+
+  # Restore the Kingdom of Aquitaine
+  DE_decision_event.0009.t: "Nicht mehr unterwürfig"
+  DE_decision_event.0009.desc: "Zu lange war das Volk Aquitaniens der Herrschaft der abwesenden Könige im Norden Franziens unterworfen. Die jahrhundertelange Fremdbestimmung hat dazu geführt, dass die Idee eines unabhängigen Reiches wie ein ferner Traum erscheint. Doch damit ist jetzt Schluss. Unter meiner Führung ist ein freies und unabhängiges Aquitanien nicht länger ein Traum! Unser Volk ist nun frei und bereit, sein Schicksal inmitten der anderen Großmächte Europas zu suchen!"
+  DE_decision_event.0009.a: "Wir allein bestimmen unser Schicksal."
+
+  # Reform Samo's Empire
+  DE_decision_event.0010.t: "Samos Reich"
+  DE_decision_event.0010.desc: "Unser Volk war einst unter der Führung von Samo vereint, der ein Reich besaß, das viele der Westslawen verband. Mit Stolz und Freude kann ich verkünden, dass Samos Reich, der "Berg der Wenden", wiedergeboren wurde! Unser Reich wird das alte Imperium übertreffen und uns in eine glorreiche Zukunft führen!"
+  DE_decision_event.0010.a: "Wir werden uns wieder vereinen"
+
+  # Restore the Frisian Kingdom
+  DE_decision_event.0011.t: "Ein wiedergeborenes Königreich"
+  DE_decision_event.0011.desc: "Den Friesen gelang es in der Vergangenheit, ihre Unabhängigkeit vom fränkischen Joch zu bewahren, bis sie es nicht mehr aushielten. Jahrhunderte der Fremdherrschaft haben die Idee eines unabhängigen Reiches wie einen fernen Traum erscheinen lassen. Unter meiner Führung ist das Reich Friesland kein Traum mehr! Unser Volk ist nun frei und bereit, sein Schicksal inmitten der anderen Großmächte Europas zu suchen!"
+  DE_decision_event.0011.a: "Wir sind Herr unseres Schicksals."
+  
+  # Unifying Italy, by Flavio Verna (From Base Game)
+  DE_decision_event.0012.t: "Das Italienische Reich"
+  DE_decision_event.0012.desc: "Seit dem Untergang des Weströmischen Reiches ist die italienische Halbinsel zwischen rebellischen Stadtstaaten, gierigen Bischöfen und barbarischen Eroberern zersplittert. Doch unter der Herrschaft meiner Dynastie hat Italien die kleinlichen Machtkämpfe hinter sich gelassen, sich wieder zusammengerauft und ist zu einer dominierenden Macht im Westen aufgestiegen. Wir werden nicht länger eine Beute sein, um die sich Franken und Griechen streiten, oder die von Piraten und barbarischen Heuchlern brutalisiert wird. Von diesem Tag an nehmen wir unseren Platz als wahre Erben des Römischen Reiches wieder ein!"
+  DE_decision_event.0012.a: "Labor omnia vincit!"
+  
+  # Reforming the Carolingian Empire, by Flavio Verna (From Base Game)
+  DE_decision_event.0013.t: "Der Traum Karls des Großen"
+  DE_decision_event.0013.desc: "Europa ist wieder eins. Alle Nachkommen der Franken wurden unter ein einziges Banner gebracht und stehen vereint gegen die Ungläubigen im Westen und die Heiden im Osten. Durch die Gnade von [scoped_ruler.GetFaith.HighGodName] wurde meiner Familie das Privileg zuteil, die Krone dieses wiederhergestellten Karolingerreiches zu tragen. Und im Gegensatz zu denen, die vor uns kamen, werden wir nicht zulassen, dass dynastische Zwistigkeiten dieses große Reich auseinanderreißen."
+  DE_decision_event.0013.a: "Gelobt sei [scoped_ruler.GetFaith.HighGodName]!"
+  DE_decision_event.0014.desc: "[scoped_ruler.GetTitledFirstName] und [scoped_ruler.GetHerHis]e Armee von Franken hat so viele Länder Europas erobert, dass [scoped_ruler.GetSheHe] zu behaupten begonnen hat, dass [scoped_ruler.GetSheHe] der wahre Erbe Karls des Großen und des Weströmischen Reiches ist.\n\nDa alle ursprünglichen Provinzen und ein großer Teil Westeuropas unter seiner Kontrolle stehen, ist es für jeden schwierig geworden, diesen Anspruch zu bestreiten."
+  DE_decision_event.0014.a: "Wie kann [scoped_ruler.GetSheHe] es wagen!"
+  DE_decision_event.0014.b: "Wird dieses Reich länger bestehen, frage ich mich?"
+
+  # Establish the Kingdom of Wallachia
+  DE_decision_event.0015.t: "Das Königreich der Walachei"
+  DE_decision_event.0015.desc: "Das Volk der Walachen hat jahrhundertelang kein Reich für sein eigenes Volk gehabt, während die Magyaren im Norden und die Bulgaren im Süden unsere Länder einem fremden Einfluss, unerwünschten Anführern und grundloser Zerstörung ausgesetzt haben. Unsere Stimmen wurden an ihren ausländischen Höfen missachtet und ungehört, doch damit ist jetzt Schluss.\n\nMit meinem Volk im Rücken und meiner Krönung zum [founder.GetTitleAsNameNoTooltip] werde ich ein goldenes Zeitalter des Wohlstands für alle Walachen innerhalb unseres Reiches einleiten."
+  DE_decision_event.0015.a: "Wir allein bestimmen unser Schicksal."
+
+  # Establish the Kingdom of Moldavia
+  DE_decision_event.0016.t: "Das Königreich Moldawien"
+  DE_decision_event.0016.desc: "Das Volk der Walachen hat jahrhundertelang kein Reich für sein eigenes Volk gehabt, während die Steppenstämme im Osten und die Magyaren im Westen unsere Länder fremdem Einfluss, unerwünschten Herrschern und unprovozierten Plünderungen ausgesetzt haben. Doch damit ist jetzt Schluss.\n\nMit meinem Volk im Rücken und meiner Krönung zum [founder.GetTitleAsNameNoTooltip] werde ich ein goldenes Zeitalter des Wohlstands für alle Walachen in unserem Reich einläuten."
+  DE_decision_event.0016.a: "Wir allein bestimmen unser Schicksal."
+
+  # Establish Cairo
+  DE_decision_event.0020.t: "Die Gründung von Kairo"
+  DE_decision_event.0020.desc: "Seit Menschengedenken gilt Ägypten als Wiege der Zivilisation. Das Land war Schauplatz einiger der frühesten Entwicklungen der Schrift, der Landwirtschaft, der Urbanisierung und der Zentralregierung. Daher ist es nur recht und billig, dass ich es zum Zentrum meines Reiches mache.\n\nUm die Geburt einer neuen Ära in Ägyptens langer Geschichte einzuläuten, habe ich den Bau einer neuen Hauptstadt im Herzen des Landes in Auftrag gegeben. Ich bin zuversichtlich, dass meine neue Hauptstadt zu gegebener Zeit Alexandria selbst in den Schatten stellen wird!"
+  DE_decision_event.0020.a: "Eine neue Hauptstadt für ein neues Zeitalter"
+  DE_decision_event.0020.b: "Dies wird meine wichtigste Errungenschaft sein."
+
+  # Sicilian Muslim Event
+  DE_decision_event.0023.t: "Der Dukat"
+  DE_decision_event.0023.desc: "Als Zentrum des Mittelmeers spielt Sizilien seit langem eine entscheidende Rolle im Handel, der um das große Meer stattfindet. Und jetzt scheint es so, als habe [king_of_sicily.GetTitledFirstName] beschlossen, dies auszunutzen, um eine neue Währung einzuführen.\n\nSie wird Dukat genannt und ist der byzantinischen Trachea nachempfunden. Es könnte nützlich sein, wenn wir diese Währung als gültiges Zahlungsmittel in unserem Reich anerkennen würden. Vielleicht könnte sie sogar als Vorbild für eine eigene Münze dienen..."
+  DE_decision_event.0023.a: "Das kann unseren Taschen nur gut tun"
+  DE_decision_event.0023.b: "Unsere alten Münzen sind genauso gut"
+
+  # Sicilian Muslim Event
+  DE_decision_event.0024.t: "Eine Glaubensfrage"
+  DE_decision_event.0024.desc: "Als Zentrum des Mittelmeers und seines Handels beherbergt mein Reich nicht nur eine große Anzahl von Christen, sondern auch viele Griechen, Juden und Muslime. Auch wenn sie vielleicht nicht die Mehrheit in ihren Gemeinschaften bilden, so gibt es doch viele unter diesen Gruppen, die Sizilien ihre Heimat nennen.\n\nMeine Thronbesteigung brachte jedoch keinen vollständigen gesellschaftlichen und religiösen Frieden auf Sizilien. Ich habe mir sagen lassen, dass es auch jetzt noch Gruppen gibt, die hoffen, die Herrschaft des Islam auf der Insel wiederherstellen zu können.\n\nViele meiner Berater haben mich gedrängt, etwas zu unternehmen, aber ich habe bisher gezögert, dies zu tun. Doch nun habe ich das Gefühl, dass ich handeln muss."
+  DE_decision_event.0024.a: "Sie dürfen in meinem Reich bleiben, aber nicht in Sizilien selbst."
+  DE_decision_event.0024.b: "Wir sind alle Gottes Schöpfung, und als solche werde ich sie so akzeptieren, wie sie sind."
+  DE_decision_event.0024.c: "Der Islam gehört nicht in mein Reich"
+  DE_decision_event.0024.d: "Nur ein toter Moslem ist ein guter Moslem!"
+
+  relocate_sicilian_muslims_decision_tooltip: "Ihr siedelt die sizilianische muslimische Bevölkerung auf das italienische Festland um. In diesem geregelten Umfeld sollten sie nicht in der Lage sein, die königliche Autorität herauszufordern, während sie der Krone weiterhin mit Steuern und Militärdienst nützen."
+  protect_sicilian_muslims_decision_tooltip: "Aus welchen Gründen auch immer Ihr den sizilianischen Muslimen erlaubt, unbehelligt von der königlichen Obrigkeit in Sizilien zu bleiben - ob die örtliche Bevölkerung ihre Anwesenheit jedoch akzeptiert oder missbilligt, bleibt abzuwarten"
+  exile_sicilian_muslims_decision_tooltip: "Ihr ordnet an, dass jeder Muslim entweder konvertieren oder Sizilien verlassen muss. Dies ermöglicht zwar einen größeren religiösen Zusammenhalt (und, was noch wichtiger ist, Kronautorität) auf der Insel, aber die Auswirkungen auf die Wirtschaft sind ungewiss"
+  massacre_sicilian_muslims_decision_tooltip: "Wie das Heilige Buch sagt: "Der Herr ist ein Rächer an seinen Widersachern; er vergisst es seinen Feinden nicht." und die Muslime sind in der Tat mein Feinde. Und selbst wenn sie es nicht wären, ist es besser, sie einfach alle zu abzuschlachten, um sicher zu sein."
+
+  # Axum becomes Abyssinia
+  ce_title_event_abyssinia_name_change.title: "Das Ende Axums"
+  ce_title_event_abyssinia_name_change.desc: "Die Herrschaft der salomonischen Könige ist zu Ende!\n\nDas [abyssinia_title.GetName] ist endlich ihrem Griff entglitten. Mit der Beseitigung der Salomoniden sind die letzten Überreste des alten Axumitischen Reiches verschwunden.\n\nMit mir als zukünftigem [ROOT.Char.GetTitleAsNameNoTooltip] haben wir ein neues und strahlendes Schicksal vor uns. Es ist daher nur angemessen, #EMP und alle und jede#! Erinnerungen an ihren Einfluss zu entfernen. Einschließlich des #EMP Namens#! selbst!"
+  ce_title_event_abyssinia_name_change.a: "A new era begins!"
+  ce_title_event_abyssinia_name_change.a_tt_1: "[abyssinia_title.GetName] ändert den Namen zu #high $k_abyssinia$#!"
+
+  # Establish Transcaucasia
+  DE_decision_event.0025.t: "Ein eigenes Reich"
+  DE_decision_event.0025.desc: "Jahrhundertelang war unsere Heimat Schauplatz politischer, militärischer, religiöser und kultureller Rivalitäten und des Expansionsdrangs der Mächte, die ihren Willen durchzusetzen versuchten - doch damit ist nun Schluss. Durch meine Hand, geführt von meinen Vorfahren, sind die Länder Transkaukasiens vielleicht zum ersten Mal in der Geschichte geeint und unabhängig. Nie wieder soll mein Volk übergangen und missachtet werden, der Gnade größerer Mächte ausgeliefert sein, die ihr Land als ihr persönliches Schlachtfeld nutzen. Unter meiner Führung und der meiner Nachkommen wird sich Transkaukasien seinen Platz unter den großen Reichen der Geschichte verdienen!"
+  DE_decision_event.0025.a: "Wir stehen geschlossen!"

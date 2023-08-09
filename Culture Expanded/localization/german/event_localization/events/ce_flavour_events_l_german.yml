@@ -1,0 +1,28 @@
+﻿l_german:
+
+ #Balkan Flavour Events
+
+ balkan_flavour.0001.t: "Die Länder Slawoniens"
+ balkan_flavour.0001.desc: "Angesichts der potenziellen Bedrohung durch die Magyaren verwandelt sich das Fürstentum Savien langsam in eine reine Grenzregion."
+ balkan_flavour.0001.a: "Interessant."
+ 
+ balkan_flavour.0003.t: "Die Ankunft der Magyaren"
+ balkan_flavour.0003.desc: "Durch eine unerwartete Wendung der Ereignisse ist es den Magyaren gelungen, die Karpaten zu überqueren und die Kontrolle über das Ostbecken zu erlangen, nachdem sie jeglichen Widerstand gegen ihre Migration niedergeschlagen hatten. Ein großer Teil des bisher eroberten Landes wurde niedergebrannt und die Einheimischen sind entweder geflüchtet oder wurden von den Eindringlingen versklavt. \n\nEs ist nur eine Frage der Zeit, bis diese Magyaren versuchen werden, ihre Beute auf unsere Kosten zu vergrößern."
+ balkan_flavour.0003.a: "Wir werden diesem Sturm trotzen!"
+
+ balkan_flavour.0004.t: "Geflüster einer alten Stadt"
+ balkan_flavour.0004.desc: "Während meine Späher die Lande Pannoniens durchstreiften, stießen sie auf die befestigte Stadt Castei, deren Bewohner in einer seltsamen Sprache sprechen, die für die umliegenden Dörfer unverständlich ist, und informierten meinen Kämmerer darüber. \n\nKurioserweise scheinen sich die Einwohner nicht nur in ihrer Sprache, sondern auch in ihrer Lebensweise zu unterscheiden, denn sie scheinen äußerst begabte Kunsthandwerker zu sein, die einzigartige Artefakte aller Art herstellen, die man im übrigen Pannonien nicht zu Gesicht bekommt. \nAuch ihre Stadt unterscheidet sich von vielen anderen in der Gegend, da sie über beachtliche Steinfestungen und eine einzigartige Architektur verfügt, die an längst vergangene Zeiten erinnert.\n\nDort wurden meine Späher von einem Einheimischen angesprochen, der um eine Audienz bei mir bat."
+ balkan_flavour.0004.a: "Gestattet ihnen eine Audienz. Ich möchte ihre Geschichte hören."
+ balkan_flavour.0004.b: "Ich habe keine Zeit für so etwas."
+ 
+ balkan_flavour.0005.t: "Der Pannonier"
+ balkan_flavour.0005.desc: "Ein Mann tritt vor mich und stellt sich vor: \n\n'Salutio, dominu. \n\nMein Name ist [ce_pannonian_romance_guest_spawn.GetTitledFirstName] und ich danke Euch demütig, dass Ihr mir diese Audienz gewährt. Wir [ce_pannonian_romance_guest_spawn.GetCulture.GetNameNoTooltip]en haben in diesen Landen unter den Awaren und Slawen für unzählige Generationen gelebt. Doch seit einiger Zeit gibt es nur noch wenige Städte, und unsere Felder sind karg geworden. Ich fürchte, unsere [ce_pannonian_romance_guest_spawn.GetCulture.GetName]en Bräuche und unsere [ce_pannonian_romance_guest_spawn.GetCulture.GetLanguage.GetName]e Sprache werden bald für immer vergessen sein. \n\nVielleicht würdet Ihr unsere Erzählungen anhören und uns erlauben, hier bei Hofe zu verkehren, damit andere die Geschichte des alten Pannoniens erfahren können?"
+ balkan_flavour.0005.a: "Bitte, lehre mich etwas über dein Volk!"
+ balkan_flavour.0005.b: "Ich verstehe deine Bedenken, du kannst hier als Gast bleiben."
+ balkan_flavour.0005.c: "Das ist nicht meine Angelegenheit."
+
+ #British Flavour Events
+
+ british_flavour.0001.t: "Die Plünderung von Alt Clut"
+ british_flavour.0001.desc: "Ich krame meine Habseligkeiten zusammen, die ich tragen kann, bevor ich mich auf den Weg zum Tor mache. Die umliegende Gegend wurde bereits geplündert und ein großer Teil des Landes wurde niedergebrannt. Es würde noch eine Weile dauern, bis wir das provisorische Lager von Gwovan flussaufwärts erreichen. Während dieser Reise denke ich über die Ereignisse nach. \n\nDie Festung von [GetTitleByKey('c_lennox').GetNameNoTier] ist endlich geplündert worden. Diejenigen, die es nicht geschafft haben, der Belagerung zu entkommen, wurden entweder getötet oder von den Eindringlingen gefangen genommen. Ich kann mir das Entsetzen derjenigen, die es nicht geschafft haben, nur vorstellen. \n\n Als wir in Gwovan ankommen, wird es immer klarer, dass wir in absehbarer Zeit nicht mehr nach [GetTitleByKey('b_dumbarton').GetNameNoTier] zurückkehren werden. Die alte Burg ist nur noch eine Ruine und eine leichte Beute für Angreifer von außen. Wir müssen uns mit dem begnügen, was wir noch haben, und so ist das Königreich [GetTitleByKey('d_galloway').GetNameNoTier], die letzte Bastion des Hen Ogledd, nicht mehr. Stattdessen erhebt sich Strathclyde an seiner Stelle, bereit, die [ROOT.Char.GetCulture.GetCollectiveNoun] künftig zu verteidigen."
+ british_flavour.0001.a: "Wir werden siegen!"

@@ -1,0 +1,2 @@
+﻿l_german:
+ culture_parameter_children_can_be_born_in_the_purple:2 "Schaltet #TOOLTIP:GAME_CONCEPT,succession_law Imperiale Wahl#!frei. [children|E] die einem [ruler|E] unter imperialer Nachfolge geboren werden, können die [GetTrait('born_in_the_purple').GetName( GetNullCharacter )]-[trait|E] - welche in der [line_of_succession|E] Vorrang hat"

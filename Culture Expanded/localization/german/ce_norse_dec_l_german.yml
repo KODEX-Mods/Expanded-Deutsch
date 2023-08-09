@@ -1,0 +1,31 @@
+﻿l_german:
+unite_swedes_txt: "Die östlichen Stämme vereinen"
+unite_swedes_tooltip: "Eint die Gauten, Götländer und Svear"
+unite_swedes_desc: "Zu lange haben sich die Stämme der Svear, Gauten und Götländer wegen kleinlicher Differenzen bekriegt und uns schwach und gespalten gemacht. Es ist an der Zeit, dass unser Volk unter einer einzigen schwedischen Identität vereint wird!"
+unite_swedes_confirm: "Wir halten zusammen!"
+unite_swedes_effect_txt: "Die Gauten, Götländer und Svear unter Eurem Königreich werden zu einer einzigen Kultur vereint."
+capital_in_sweden_region: "Der Reichssitz muss im Königreich Schweden und Gotland liegen"
+
+unite_danes_txt: "Die westlichen Stämme vereinen"
+unite_danes_tooltip: "Eint die Dänen und Jüten"
+unite_danes_desc: "Jüten und Dänen mögen ihre eigenen Traditionen und ihre eigene Geschichte haben, aber es ist an der Zeit, dass wir uns unter einer einzigen Identität vereinen, um unseren Rivalen die Stirn zu bieten. Es ist an der Zeit, sich unter einer einzigen dänischen Identität zu vereinen!"
+unite_danes_confirm: "Vereint sind wir stark!"
+unite_danes_effect_txt: "Die Dänen und Jüten unter Eurem Königreich werden zu einer einzigen Kultur vereinigt"
+capital_in_denmark_region: "Der Reichssitz muss im Königreich Dänemark liegen"
+
+unite_norweg_txt: "Die nördlichen Stämme vereinen"
+unite_norweg_tooltip: "Abzweigen vom Nordischen"
+unite_norweg_desc: "Die nordischen Völker haben sich gegenseitig bekriegt und geplündert, nur um zu überleben. Es ist an der Zeit, dass wir unsere Waffen beiseite legen und uns unter einer neuen norwegischen Identität vereinen!"
+unite_norweg_confirm: "Wir sind eins!"
+unite_norweg_effect_txt: "Die Nordmänner unter Eurem Königreich werden norwegisch"
+capital_in_norway_region: "Der Reichssitz muss im Königreich Norwegen liegen"
+
+consolidate_polish_identity_effect_txt: "Das polanische Volk wird als polnisch bekannt sein und kann seine Nachbarn leichter bekehren."
+
+n_jute_noun: "Jüte"
+n_jute_c_noun: "Jüten"
+n_jute_prefix: "Jütisch"
+
+n_goth_noun: "Gotländer"
+n_goth_c_noun: "Gotländer"
+n_goth_prefix: "Gutnisch"

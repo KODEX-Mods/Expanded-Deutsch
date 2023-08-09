@@ -1,0 +1,36 @@
+﻿﻿l_german:
+ #GetSmallFood
+ #GetSmallFoodIndef
+ food_word_apple:0 "Apfel"
+ food_word_apple_indef:0 "ein Apfel"
+ food_word_biscuit:0 "Keks"
+ food_word_biscuit_indef:0 "ein Keks"
+ food_word_banana:0 "Banane"
+ food_word_banana_indef:0 "eine Banane"
+ food_word_orange:0 "Orange"
+ food_word_orange_indef:0 "eine Orange"
+ food_word_pawpaw:0 "pawpaw"
+ food_word_pawpaw_indef:0 "a pawpaw"
+ #GetClothingArticle
+ clothing_word_buba:0 "Boubou"
+ clothing_word_iro:0 "Iro"
+ clothing_word_awotele:0 "Awotele"
+ clothing_word_agbada:0 "Agbada"
+ clothing_word_sokoto:0 "Sokoto"
+ clothing_word_iborun:0 "Iborun"
+ clothing_word_bante:0 "Bante"
+ #GetFoodDetail
+ food_detail_cilantro:0 "Koriander"
+ food_detail_lemon:0 "Zitrone"
+ food_detail_almond:0 "Mandel"
+ food_detail_walnut:0 "Walnuss"
+ food_detail_kolanut:0 "Kolanuss"
+ food_detail_peanut:0 "Erdnuss"
+ food_detail_cassava:0 "Maniok"
+ #GetExpensiveMeal
+ expensive_food_pounded_yam_egusi:0 "Gestampfes Yams und Egusi"
+ expensive_food_pounded_yam_efo:0 "Gestampftes Yams und Efo"
+ expensive_food_amala:0 "Amala"
+ expensive_food_moi_moi:0 "Moi Moi"
+ expensive_dessert_akara:0 "Akàrà"
+ expensive_drink_kolanut_bitters:0 "Garcinia kola"

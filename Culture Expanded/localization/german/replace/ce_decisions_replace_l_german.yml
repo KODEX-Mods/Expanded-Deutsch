@@ -1,0 +1,17 @@
+﻿l_german:
+
+  #FORM PORTUGAL
+  form_portugal_decision:0 "Portugal gründen"
+  form_portugal_decision_desc:0 "Es ist an der Zeit, dass das portugiesische Volk ein eigenes Reich auf der Iberischen Halbinsel errichtet. Ich kann das Königreich Portugal gründen und unsere eigene einzigartige Kultur etablieren. Auf diese Weise werden wir die reiche iberische Küste für uns beanspruchen und unsere Reise zum Ruhm beginnen."
+  portguese_convert_list:3 "Jede [THIS.Char.GetCulture.GetHeritage.GetNameNoTooltip] [heritage|E]e Person in [THIS.Char.GetUINamePossessive] Portugiesischen Gebiet"
+  portguese_convert_list_court:1 "Jeder [THIS.Char.GetCulture.GetName]e [courtier|E]"
+  portugese_convert_iberian_counties:2 "Jede [THIS.Char.GetCulture.GetHeritage.GetNameNoTooltip] [heritage|E]e Grafschaft im Königreich Portugal"
+  portugese_convert_non_iberian_counties:0 "Jede andere Grafschaft des Königreichs Portugal"
+  form_portugal_decision_confirm:0 "Gründet Portugal"
+  form_portugal_decision_tooltip:0 "Gründet das [kingdom|E] von Portugal und etabliert die portugiesische [culture|E]"
+  form_portugal_decision_effects_de_jure_tt:1 "[title_d_porto.GetNameNoTier], [title_d_coimbra.GetNameNoTier], [title_d_beja.GetNameNoTier], und [title_d_algarve.GetNameNoTier] werden [de_jure|E]-Bestandteil vom #V [title_k_portugal.GetName]#! "
+
+  #Unify Italy
+  unify_italian_empire_decision:0 "Italien vereinen"
+  unify_italian_empire_decision_confirm:0 "Italien wird wieder der Sitz der imperialen Macht sein!"
+  unify_italian_empire_decision_desc:0 "Italia war einst der große Sitz der Macht im Mittelmeerraum. Wenn die zerstrittenen Stadtstaaten und barbarischen Reiche Italiens wieder unter kaiserliche Herrschaft gebracht werden, wird die gesamte Halbinsel ihre Würde und Macht zurückgewinnen, die sie seit dem Fall des Imperiums im Westen nicht mehr gesehen hat."

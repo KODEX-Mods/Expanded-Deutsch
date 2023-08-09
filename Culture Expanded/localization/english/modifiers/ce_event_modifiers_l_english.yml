@@ -1,0 +1,54 @@
+﻿l_english:
+ ce_found_cairo_capital_modifier: "Flourishing Capital"
+ ce_found_cairo_capital_modifier_desc: "This newfound city has become a beacon of prosperity throughout the Middle East, acting as a center of craftsmanship and international trade while serving as the area's main port on the Nile\n\n"
+
+ ce_promulgated_the_assizes_of_ariano_modifier: "Newly Promulgated Legal Codes"
+ ce_promulgated_the_assizes_of_ariano_modifier_desc: "The Assizes affirm that the king is the only lawgiver in Sicily, that he is both judge and priest (as he holds the legatine powers from the pope), and all Sicilians were equal and under the same laws, whether Latin, Greek, Jew, or Muslim, Norman, Lombard, or Arab. It punished treason with death. It was also detailed in other crimes of violence: cowardice in battle, arming a mob, or withholding support from the king or his allies. Ecclesiastically, Christian heretics and apostates lost their rights. Bishops were excused from attendance at courts, though the king was granted override on this, as on everything, and there could be no appeals. Militarily, the knightly class was closed. Nobody could become a knight if had no knightly lineage. Finally, the assizes did not ignore the commoners and demanded that they be treated with justice and be burdened not unduly by their lords\n\n"
+ 
+ ce_ruler_who_established_the_ducat_system_modifier: "Established a New Currency"
+ ce_ruler_who_established_the_ducat_system_modifier_desc: "This character has used their skill to create a new currency for their realm\n\n"
+ 
+ ce_benefits_of_the_ducat_system_modifier: "Benefits of a New Currency"
+ ce_benefits_of_the_ducat_system_modifier_desc: "This county is experiencing growth as a result of a newly introduced currency\n\n"
+ 
+ ce_sicilian_mint_modifier: "Local Mint"
+ ce_sicilian_mint_modifier_desc: "This county is home to a regional mint, producing coinage that is used across the realm and sometimes even beyond\n\n"
+ 
+ ce_sicilian_muslim_settlement_modifier: "Resettled Muslim Community"
+ ce_sicilian_muslim_settlement_modifier_desc: "In 1220, the King of Sicily Frederick II Hohenstaufen (1194–1250) decided to move around 60,000 Sicilian Muslims to southern Italy. By 1240 the resettlements had taken place, with 20,000 Muslims settled in Lucera, 30,000 in other nearby parts of Apulia, and the remaining 10,000 placed in communities outside Apulia. In this controlled environment, they could not challenge royal authority and still benefited the crown with taxes and military service. The settlement thrived for about 75 years. However in 1300, it was sacked by the Christian forces of Charles II of Naples and its Muslim inhabitants were exiled or sold into slavery\n\n"
+
+ ce_emergent_sicilian_muslim_settlement_modifier: "Emergent Muslim Community"
+ ce_emergent_sicilian_muslim_settlement_modifier_desc: "The county is home to a large number of Muslim communities that have supplimented the local populace as the majority\n\n"
+ 
+ ce_embraced_sicilian_muslim_settlement_modifier: "Embraced Muslim Communities"
+ ce_embraced_sicilian_muslim_settlement_modifier_desc: "This county's populace have embraced their Muslim neighbors, sharing their customs, traditions, and trade alongside one another without issue\n\n"
+ 
+ ce_discriminated_sicilian_muslim_settlement_modifier: "Discriminated Muslim Communities"
+ ce_discriminated_sicilian_muslim_settlement_modifier_desc: "This county's populace have harshly shunned their Muslim neighbors, refusing to tolerate their trade and traditions in their land\n\n"
+
+ ce_ruler_resettled_sicilian_muslims_modifier: "Tolerant Ruler"
+ ce_ruler_resettled_sicilian_muslims_modifier_desc: "This character has implimented policies that seek to benefit or protect those of other faiths, despite their own faith's position against it\n\n"
+
+ ce_ruler_protected_sicilian_muslims_modifier: "Accepting Ruler"
+ ce_ruler_protected_sicilian_muslims_modifier_desc: "This character has implimented policies that seek to benefit or protect those of other faiths, despite their own faith's position against it\n\n"
+
+ ce_ruler_exilied_sicilian_muslims_modifier: "Harsh Ruler"
+ ce_ruler_exilied_sicilian_muslims_modifier_desc: "This character has decided to exile those of the Muslim faith from his realm, or allow them to stay as long as they embrace his christian faith\n\n"
+
+ ce_loss_of_muslims_impacted_economy_modifier: "Economic Impact"
+ ce_loss_of_muslims_impacted_economy_modifier_desc: "It would seem the local Muslim community was an important component of this area's economy, and their loss is keenly felt in the smaller taxes the populace now contribute to the royal treasury\n\n"
+
+ ce_ruler_massacred_sicilian_muslims_modifier: "Vile Ruler"
+ ce_ruler_massacred_sicilian_muslims_modifier_desc: "This character has committed acts many would consider especially heinous, though they may find support within the coldest of hearts\n\n"
+
+ ce_echoes_of_an_atrocity_modifier: "Echoes of an Atrocity"
+ ce_echoes_of_an_atrocity_modifier_desc: "This area bears the scars of an atrocity that was committed nearby. Its people are not soon going to forget the horrors that they experienced or saw"
+
+ ce_luceran_guard_modifier: "Luceran Guard"
+ ce_luceran_guard_modifier_desc: "The main activity of the males of the Muslim community of Lucera was serving in the royal army. These troops, most of them lightly armed but highly skilled archers, constituted the faithful personal bodyguard of the Hohenstaufens, since they had no connection to the political rivals of the "House of Swabia", were ready to wage war — ferociously even for the contemporary standards — on the local populations, and depended entirely on their sovereign\n\n"
+ 
+ ce_gs_new_settlement_modifier: "Foreign Settlement"
+ ce_gs_new_settlement_modifier_desc: "We have invited communites from all over to settle in this county in order to develop it\n\n"
+ 
+ ce_gs_german_settlement_modifier: "Foreign Settlement"
+ ce_gs_german_settlement_modifier_desc: "We have invited communites from all over to settle in this county in order to develop it\n\n"

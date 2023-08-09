@@ -1,0 +1,150 @@
+﻿l_german:
+
+  #Found Kingdom of Oman
+  found_kingdom_of_oman_decision: "Das Sultanat von Oman errichten"
+  found_kingdom_of_oman_decision_desc: "Das ibaditische Volk von Oman verdient einen treuen Herrscher, der sich gegen die Übergriffe und die Unterdrückung ausländischer Eindringlinge wehrt. Vielleicht bin ich derjenige, der dieser Führer sein kann..."
+  found_kingdom_of_oman_decision_tooltip: "Oman wird ein [de_jure|E]-[kingdom|E]."
+  found_kingdom_of_oman_decision_confirm: "Versammelt die Gläubigen! Es ist Zeit!"
+
+  #Restore Kingdom of Saxony
+  restore_saxony_decision: "Das Königreich Sachsen wiederherstellen"
+  restore_saxony_decision_desc: "Die Sachsen waren einst ein freies Volk mit einem eigenen mächtigen Reich, das Karl dem Großen die Stirn bot. Es ist an der Zeit, dass unser Volk wieder frei ist!"
+  restore_saxony_decision_tooltip: "Sachsen wird ein [de_jure|E]-[kingdom|E]"
+  restore_saxony_decision_confirm: "Die Zeit ist gekommen, unsere Souveränität zu bekunden!"
+
+  # #FORM PORTUGAL
+  # form_portugal_decision: "Portugal gründen"
+  # form_portugal_decision_desc: "Die iberischen Königreiche kämpfen untereinander in der Hoffnung, Macht und Ruhm zu erlangen. Es ist an der Zeit, ein neues Königreich zu gründen, das sich in den Kampf einmischt. Unser neues Königreich wird eine große Küstenmacht sein, die es mit allen anderen auf der Halbinsel aufnehmen kann!"
+  # portguese_convert_list: "Jede [THIS.Char.GetCulture.GetHeritage.GetNameNoTooltip]e [heritage|E]e Person in [THIS.Char.GetUINamePossessive] Portugiesischen Gebiet"
+  # portguese_convert_list_court: "Jeder [THIS.Char.GetCulture.GetName]e [courtier|E]"
+  # portugese_convert_iberian_counties: "Jede [THIS.Char.GetCulture.GetHeritage.GetNameNoTooltip] [heritage|E]e Grafschaft im Königreich Portugal"
+  # portugese_convert_non_iberian_counties: "Jede andere Grafschaft im Königreich Portugal"
+  # form_portugal_decision_confirm: "Portugal gründen"
+  # form_portugal_decision_tooltip: "Gründet das [kingdom|E] von Portugal und etabliert die portugiesische [culture|E]"
+  # form_portugal_decision_effects_de_jure_tt: "[title_d_porto.GetNameNoTier], [title_d_coimbra.GetNameNoTier], [title_d_beja.GetNameNoTier], und [title_d_algarve.GetNameNoTier] werden [de_jure|E]-Bestandteile vom #V [title_k_portugal.GetName]#! "
+
+  #Found Grand Saxony
+  form_grand_duchy_saxony_decision: "Das Großherzogtum Sachsen errichten"
+  form_grand_duchy_saxony_decision_desc: "Es ist an der Zeit, dass die Länder Sachsens über die kleineren Länder innerhalb unseres Reiches gestellt werden."
+  form_grand_duchy_saxony_decision_tooltip: "Sachsen wird ein [de_jure|E]-[kingdom|E]"
+  form_grand_duchy_saxony_decision_confirm: "Es ist an der Zeit, den Kaiser zu rufen!"
+
+  #Found Grand Franconia
+  form_grand_duchy_franconia_decision: "Das Großherzogtum Franken errichten"
+  form_grand_duchy_franconia_decision_desc: "Es ist an der Zeit, dass die fränkischen Länder über die kleineren Länder innerhalb unseres Reiches gestellt werden."
+  form_grand_duchy_franconia_decision_tooltip: "Franken wird ein [de_jure|E]-[kingdom|E]"
+  form_grand_duchy_franconia_decision_confirm: "Es ist an der Zeit, den Kaiser zu rufen!"
+
+  #Found Grand Swabia
+  form_grand_duchy_swabia_decision: "Das Großherzogtum Alemannien errichten"
+  form_grand_duchy_swabia_decision_desc: "Es ist an der Zeit, dass die alemannischen Länder über die kleineren Länder innerhalb unseres Reiches gestellt werden."
+  form_grand_duchy_swabia_decision_tooltip: "Alemannien wird ein [de_jure|E]-[kingdom|E]"
+  form_grand_duchy_swabia_decision_confirm: "Es ist an der Zeit, den Kaiser zu rufen!"
+
+  #Form the Bulgarian Empire
+  form_bulgarian_empire_decision: "Das Bulgarische Reich gründen"
+  form_bulgarian_empire_decision_desc: "Die Griechen haben ihre unangefochtene Vorherrschaft auf der Balkanhalbinsel verloren. Jetzt sind wir Bulgaren die unbestrittene Macht in der Region, die ebenso viel Macht und Einfluss ausüben kann wie das alte Oströmische Reich. Daher ist es nur recht und billig, das Entstehen eines neuen und mächtigen Reiches zu verkünden."
+  form_bulgarian_empire_decision_tooltip: "Bulgarien wird ein [de_jure|E]-[empire|E]"
+  form_bulgarian_empire_decision_confirm: "Die Griechen fallen, während wir aufsteigen"
+  
+  de_imperial_pretender_opinions: "Imperialer Anwärter"  
+
+  #Restore the Avar Khaganate
+  form_avar_khaganate_decision: "Das Awaren-Khaganat wiederherstellen"
+  form_avar_khaganate_decision_desc: "Seit der Niederlage unseres Volkes gegen Karl den Großen sind wir nur noch ein Schatten unseres früheren Ruhmes. Sollte sich jedoch einer von uns erheben und die Herrschaft der Awaren über unsere früheren Gebiete wiederherstellen, würde der Stolz unseres Volkes wiederkehren."
+  form_avar_khaganate_decision_tooltip: "Das Awaren-Khaganat wird ein [de_jure|E]-[empire|E]"
+  form_avar_khaganate_decision_confirm: "Europa wird vor uns erzittern"
+
+  #Integrate Aquitaine
+  integrate_aquitaine_decision: "Aquitanien integrieren"
+  integrate_aquitaine_decision_desc: "Zu lange haben wir zugelassen, dass das Land der Franken diesseits des Rheins in das Westfrankenreich und das Königreich Aquitanien aufgeteilt wurde. Es ist an der Zeit, die beiden Kronen unter einem Herrscher zu vereinen und die beiden Regionen so zu behandeln, wie sie sein sollten: als eine einzige."
+  integrate_aquitaine_decision_tooltip: "Das Königreich Aquitanien wird de jure Frankreich"
+  integrate_aquitaine_decision_confirm: "Unser Volk soll geeint sein!"
+
+  #Restore the Kingdom of Aquitaine
+  decision_restore_aquitaine: "Das Königreich Aquitanien wiederherstellen"
+  restore_aquitaine_decision_desc: "Die Territorien Aquitaniens hatten einst die Ehre, ein eigenständiges Königreich zu sein. Es ist an der Zeit, dass das Königreich unter unserer glorreichen Herrschaft neu geboren wird!"
+  restore_aquitaine_decision_tooltip: "Aquitanien wird ein [de_jure|E]-[kingdom|E]."
+  decision_restore_aquitaine_confirm: "Aquitanien muss restauriert werden!"
+
+  #Restore Samo's Empire
+  form_samos_empire_decision: "Samos Königreich wiedervereinen"
+  form_samos_empire_decision_desc: "Vor langer Zeit vereinigte der Anführer Samo die verstreuten Stämme der Westslawen und schmiedete ein eigenes Reich. Es ist an der Zeit, dass ich mein eigenes Reich schmiede, wie er es vor so langer Zeit tat."
+  form_samos_empire_decision_tooltip: "Samos Königreich wird ein [de_jure|E]-[kingdom|E]"
+  form_samos_empire_decision_effect_de_jure_tt: "Wenn gehalten, werden die [duchies|E] [samo_carinthia.GetNameNoTier], [samo_krain.GetNameNoTier] und [samo_istria.GetNameNoTier] [de_jure|E] Winideheim werden."
+  form_samos_empire_decision_confirm: "Das Vermächtnis Samos lebt weiter."
+
+  #Restore the Frisian Kingdom
+  restore_frisia_decision: "Magna Frisia wiederherstellen"
+  restore_frisia_decision_desc: "Seit ihrer Niederlage gegen das Frankenreich in der Schlacht am Boarn im Jahr 734 haben die Friesen zugelassen, dass ihr Land zwischen den fränkischen Königen von Frankreich und Deutschland aufgeteilt wird. Wenn ich jedoch die Kontrolle über die ehemaligen Territorien des friesischen Königreichs erlangen könnte, könnte ich unsere Länder für frei erklären und das Königreich wiederherstellen!"
+  restore_frisia_decision_tooltip: "Friesland wird ein [de_jure|E]-[kingdom|E]"
+  restore_frisia_decision_confirm: "Friesland wird wieder frei sein!"
+  
+  #Fulfill the Hadith of Conquest
+  fulfill_the_conquest_hadith_decision: "Den Hadith der Eroberung erfüllen"
+  fulfill_the_conquest_hadith_decision_desc: "Seit der Zeit des Propheten ist die Stadt Konstantinopel ein lang ersehntes Ziel der islamischen Welt. Es gibt einen Hadith, einen Ausspruch des Propheten Mohammed, der besagt: "Sicherlich werdet ihr, die islamische Nation, Konstantinopel erobern. Und wie wunderbar wird ihr Befehlshaber sein, der Befehlshaber dieser Nation. Und wie erstaunlich, wie wunderbar wird die Armee sein, die Armee dieser Nation." Ich werde derjenige sein, der diese große Stadt den Christen entreißt und sie der islamischen Welt zurückbringt."
+  fulfill_the_conquest_hadith_decision_tooltip: "Erfüllt die Worte des Propheten"
+  fulfill_the_conquest_hadith_decision_confirm: "Der Goldene Apfel soll unser sein!"
+  fervor_gain_conquest_hadith: "Hadith der Eroberung erfüllt"
+
+  #Embrace Zoroastrian Heritage
+  restore_the_faith_of_zoroaster_decision: "Den Glauben des Zoroaster wiederherstellen"
+  restore_the_faith_of_zoroaster_decision_desc: "Die Einwohner von Eranshahr gaben ihre zoroastrischen Wurzeln auf und nahmen nach der Invasion des Kalifats den Islam an. Trotz wirtschaftlicher und sozialer Anreize zur Konversion hat der Zoroastrismus in einigen Regionen überlebt, insbesondere in den am weitesten von der Kalifenhauptstadt Bagdad entfernten Regionen. Die Religion des Zoroaster verblasst schnell und wird immer weiter aufs Land und ins Hinterland verdrängt.\n\nDerzeit sind diese Feueranbeter irrelevant. Aber wenn sich jemand der alten Religion wieder annähert und sie beschützt..."
+  restore_the_faith_of_zoroaster_decision_tooltip: "Den Glauben des Zoroaster unterstützen"
+  restore_the_faith_of_zoroaster_decision_confirm: "Vielleicht gibt es einen anderen Weg?"
+  restore_the_faith_of_zoroaster_decision.have_sinful_piety_level: "Eure [piety_level|E] ist nicht höher als [GetModifier( 'piety_level_0' ).GetNameWithTooltip|L]"
+  restore_the_faith_of_zoroaster_decision.you_have_x_or_more_traits_virtuous_to_zoroastrianism: "Ihr habt [EmptyScope.ScriptValue('restore_the_faith_of_zoroaster_decision_zoroastrian_virtues_tally_value')|0] [traits|E] die [virtuous|E] im [GetFaithByKey('mazdayasna').GetName]en [faith|E] sind"
+  restore_the_faith_of_zoroaster_decision.completely_control_X_counties_from_persian_empire: "Ihr braucht [completely_control|E] in mindestens [EmptyScope.ScriptValue('restore_the_faith_of_zoroaster_decision_counties_to_control_value')|0] [counties|E] von [GetGeographicalRegion('world_persian_empire').GetName]"
+  restore_the_faith_of_zoroaster_decision.before_last_date: "Das Datum ist 1100.1.1 oder früher"
+
+# Reform the Byzantine Military
+  lose_old_maa_gain_new_ones: "Bei der Reformierung Eures Militärs wird Eure derzeitige Auswahl an einzigartigen Kriegsvölkern durch eine neue Auswahl an einzigartigen Kriegsvölkern ersetzt."
+
+  #Found the City of Cairo
+  establish_cairo_decision: "Die Stadt Kairo gründen"
+  establish_cairo_decision_desc: "In der Nähe des Nildeltas gelegen, entwickelte sich die Stadt Kairo zunächst als Fustat, eine relativ unbedeutende Siedlung, die nach der muslimischen Eroberung Ägyptens im Jahr 640 neben der bestehenden antiken römischen Festung Babylon gegründet wurde. Unter der Fatimiden-Dynastie wurde 969 in der Nähe eine neue Stadt, al-Qāhirah ('die Starke' oder 'die Eroberin'), gegründet. Sie löste später Fustat als wichtigstes städtisches Zentrum während der Ayyubiden- und Mamlukenzeit (12. bis 16. Jahrhundert) ab. Kairo ist seit langem ein Zentrum des politischen und kulturellen Lebens in der Region und wird wegen seiner überwiegenden islamischen Architektur auch "die Stadt der Tausend Minarette" genannt."
+  establish_cairo_decision_tooltip: "Die Stadt Kairo errichten"
+  establish_cairo_decision_confirm: "Eine neue Hauptstadt, die es mit Bagdad aufnehmen kann!"
+
+  #Promulgate the Assizes of Ariano
+  promulgate_the_assizes_of_ariano_decision: "Die Assisen von Ariano verkünden"
+  promulgate_the_assizes_of_ariano_decision_desc: "Die Assisen von Ariano waren eine Reihe von Gesetzen für das Königreich Sizilien, die im Jahr 1140 von Roger II. von Sizilien verkündet wurden. Nachdem er die sich ständig in Aufruhr befindende Halbinsel befriedet hatte, beschloss er, die Herrschaft stärker zu zentralisieren. Die Assisen begründeten die große sizilianische Bürokratie und versuchten, das Feudalsystem unter strenger königlicher Kontrolle zu erhalten. Es enthielt vierundvierzig Klauseln, die alle möglichen Themen des zeitgenössischen Rechts berührten: privates und öffentliches Eigentum, die Kirche, das Zivilrecht, die königlichen Finanzen und das Militär. Das Werk war für seine Zeit sehr fortschrittlich, da es seine Vorschriften nicht nur aus normannischen und französischen, sondern auch aus muslimischen und byzantinischen (insbesondere justinianischen) Rechtstheorien ableitete."
+  promulgate_the_assizes_of_ariano_decision_tooltip: "Verkündet einen neuen Rechtskodex für Euer Königreich"
+  promulgate_the_assizes_of_ariano_decision_confirm: "Wir sollen ein Königreich des Rechts sein."
+  the_assizes_of_ariano_are_enshrined_in_tradition: "Wenn Ihr ein Kulturoberhaupt seid, werden die Assisen von Ariano ein fester Bestandteil Eurer Kultur sein und Eure allgemeinen legalistischen Bräuche ersetzen."
+  every_controlled_province_in_custom_sicily: "Alle Grafschaften Siziliens innerhalb Eures Reiches"
+
+  #Establish a new Currency System
+  establish_the_ducat_coin_decision: "Ein neues Währungssystem einführen"
+  establish_the_ducat_coin_decision_desc: "Im Jahr 1140 führte Roger II. von Sizilien auf seiner Versammlung in Ariano eine neue Münzprägung ein, um den Handel mit dem restlichen Mittelmeerraum zu erleichtern. Die erste Ausgabe trägt auf der Vorderseite die Figur Christi und die lateinische Inschrift Sit tibi, Christe, datus, quem tu regis iste ducatus ("Dir, Christus, sei dieses Herzogtum gegeben, das du regierst"). Auf der Rückseite ist Roger II. im Stil eines byzantinischen Kaisers und sein ältester Sohn, Herzog Roger III. von Apulien, in voller Rüstung abgebildet. Die Münze, Dukat genannt, erhielt ihren gebräuchlichen Namen von dem Herzogtum Apulien, das der jüngere Roger von seinem Vater erhalten hatte. Obwohl die Währung in Sizilien keinen großen Erfolg hatte, beeinflusste der sizilianische Dukat der späteren Variante des weitaus beliebteren venezianischen Dukats."
+  establish_the_ducat_coin_decision_tooltip: "Ein neues Währungssystem einführen"
+  establish_the_ducat_coin_decision_confirm: "Prägt die Münzen"
+  every_controlled_province_in_the_mediterranean_region: "Jede Grafschaft in Eurem Reich, die in der Nähe des Mittelmeers liegt"
+
+  #Muslims in Sicily Question
+  resettle_sicilian_muslims_decision: "Wiederansiedlung von sizilianischen Muslimen erwägen"
+  resettle_sicilian_muslims_decision_desc: "Die sizilianischen Ländereien, die Friedrich II. von seiner Mutter Konstanze von Sizilien erbte, brachten nicht nur die Herrschaft über die römisch-katholische Mehrheitsbevölkerung der Insel mit sich, sondern auch über eine erhebliche Anzahl von Griechen, Juden und Muslimen. Die Muslime des Königreichs waren eine heterogene Gemeinschaft, zu der Araber, Berber, Perser und andere Menschen aus dem Orient gehörten.\n\nFriedrichs Thronbesteigung brachte keinen gesellschaftlichen und religiösen Frieden über Sizilien. Da verstreute muslimische Widerstandsgruppen auf der ganzen Insel für Unruhe sorgten, beschloss Friedrich, die verbliebenen Muslime aus Sizilien zu vertreiben, oder zumindest die weniger fügsamen unter ihnen, und sie auf dem süditalienischen Festland anzusiedeln."
+  resettle_sicilian_muslims_decision_tooltip: "Überlegt, wie man mit der sizilianischen muslimischen Gemeinschaft umgehen sollte"
+  resettle_sicilian_muslims_decision_confirm: "Eine schwierige Frage..."
+  decide_on_how_to_handle_sicilian_muslims_tt: "Ihr müsst entscheiden, wie Ihr mit der sizilianischen muslimischen Bevölkerung in Eurem Reich umgehen wollt."
+  custom_sicilian_muslim_event_troops: "Luceranische Aufgebote"
+  DE_decision_event.0024.kind_hearted_courtiers_and_guests: "Gutherzige oder Gerechte [courtiers|E] und [guests|E]"
+  DE_decision_event.0024.cold_hearted_courtiers_and_guests: "Kaltherzige [courtiers|E] und [guests|E]"
+  DE_decision_event.0024.kind_hearted_vassals: "Gutherzige oder Gerechte [vassals|E]"
+  DE_decision_event.0024.cold_hearted_vassals: "Kaltherzige [vassals|E]"
+
+  #Establish Transcaucasia
+  establish_transcaucasia_decision: "Transkaukasien gründen"
+  establish_transcaucasia_decision_desc: "Die Region Transkaukasien liegt an der Peripherie antiker Großmächte wie dem Römischen Reich und dem Sassanidenreich und ist seit Jahrhunderten Schauplatz politischer, militärischer, religiöser und kultureller Rivalitäten und Expansionsbestrebungen. Im Laufe ihrer Geschichte geriet die Region unter die Kontrolle verschiedener Großreiche, darunter das Achämenidenreich, das Neuassyrische Reich, das Partherreich, das Römische Reich, das Sassanidenreich, das Byzantinische Reich, das Umayyadenreich, das Abbassidenreich, das Mongolenreich und das Osmanische Reich, die jeweils ihren eigenen Glauben und ihre eigene Kultur mitbrachten. Aufgrund dieser ständigen Präsenz fremder Mächte wurde Transkaukasien nie zu einem einheitlichen Staat vereinigt - aber das muss nicht so bleiben. Wenn ein großer Herrscher auftauchen und sich als fähig erweisen würde, unter den uns umgebenden Kräften zu bestehen, könnte Transkaukasien als ein wahrer und unabhängiger Staat anerkannt werden."
+  establish_transcaucasia_decision_tooltip: "Transkaukasien wird ein [de_jure|E]-[empire|E]"
+  establish_transcaucasia_decision_confirm: "Die Zeit ist gekommen, unsere Souveränität zu erklären!"
+  ESTABLISH_TRANSCAUCASIA_TRIGGER: "Transkaukasien muss zunächst per Entscheidung gegründet werden"
+
+
+
+
+  #orphan event error go alway
+  to_avoid_roman_orphan_error_decision: "Dies sollte niemals erscheinen"
+  to_avoid_roman_orphan_error_decision_desc: "Dies sollte niemals erscheinen"
+  to_avoid_roman_orphan_error_decision_tooltip: "Dies sollte niemals erscheinen"
+  to_avoid_roman_orphan_error_decision_confirm: "Dies sollte niemals erscheinen"

@@ -1,0 +1,91 @@
+﻿l_german:
+ language_iranian_name: "Persisch"
+ language_scythian_name: "Sakanisch"
+ language_goidelic_name: "Goidelisch"
+ language_high_german_name: "Hochdeutsch"
+ language_saxon_name: "Niedersächsisch"
+
+ #History loc changes
+ vlach_history_loc: "Gebildet aus [CULTURE.GetName], [eastslavic|E] Und [southslavic|E] um das Jahr 600"
+
+#  language_central_germanic_name: "Eastern German"
+ language_anglic_name: "Ænglisch"
+ language_basque_name: "Euskara"
+ language_east_slavic_name: "Altostslawisch"
+ heritage_tocharian_name: "Serindisch"
+
+ #=======
+ language_east_slavic_name: "Ostslawisch"
+ language_israelite_name: "Hebräisch"
+ language_brythonic_name: "Britannisch"
+
+ #Heritages
+ heritage_brythonic_name: "Britonisch"
+
+ assyrian: "Assyrisch"
+ assyrian_prefix: "Assyro"
+ assyrian_collective_noun: "Assyrer"
+
+ #"Khanty"
+ khanty: "Chantisch"
+ khanty_prefix: "Chanti"
+ khanty_collective_noun:1 "Chanten"
+
+ #Russian (Rus)
+ russian: "Rus'"
+ russian_prefix: "Russo"
+ russian_collective_noun:1 "Rus'"
+
+ #Greek to Romaioi
+ greek: "Rhomäisch"
+ greek_prefix: "Rhomäo"
+ greek_collective_noun:1 "Rhomäer"
+
+ tajik: "Khorasanisch"
+ tajik_prefix: "Khorasani"
+ tajik_collective_noun:1 "Khorasani"
+
+ #Alans to Alani
+ alan: "Alanisch"
+ alan_prefix: "Alano"
+ alan_collective_noun:1 "Alanen"
+
+ #Old Saxon to Seaxon
+ old_saxon: "Altsächsisch"
+ old_saxon_prefix: "Altsachso"
+ old_saxon_collective_noun: "Altsachsen"
+
+ #Burgundian Culture
+ burgundian: "Burgundisch"
+ burgundian_prefix: "Burgundo"
+ burgundian_collective_noun: "Burgunder"
+
+ #Northumbrian (MOVED TO REPLACE FOLDER FOR ERROR LOG REASONS)
+ northumbrian: "Nordhumbrisch"
+ northumbrian_prefix: "Nordhumbrio"
+ northumbrian_collective_noun: "Nordhumbrier"
+
+ #(MOVED TO REPLACE FOLDER FOR ERROR LOG REASONS)
+ #Mercian
+ mercian: "Merzisch" 
+ mercian_prefix: "Marco"
+ mercian_collective_noun: "Merzen"
+
+#Moved here to avoid error logs
+ mahri: "Mahri"
+ mahri_prefix: "Mahri"
+ mahri_collective_noun: "Mahri"
+
+ # Upper Saxon
+ upper_saxon_noun: "Obersächsisch"
+ upper_saxon_prefix: "Obersachso"
+ upper_saxon_collective_noun: "Obersachsen"
+
+ # German to Germanic
+ german: "Deutsch"
+ german_prefix: "Deutsch"
+ german_collective_noun: "Deutschen"
+
+
+ # BULGARIAN HISTORY
+ bulgarian_history_loc: "Gebildet aus [CULTURE.GetName] und [southslavic|E] um das Jahr [DATE.GetYear]"
