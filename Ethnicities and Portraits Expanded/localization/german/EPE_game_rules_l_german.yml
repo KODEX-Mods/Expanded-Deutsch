@@ -1,0 +1,20 @@
+﻿l_german:
+
+ rule_epe_fullface_helmets: "Ethnicities and Portraits Expanded: Vollständig geschlossene Helme"
+ setting_default_epe_fullface_helmets: "Geschlossene Helme Erlaubt (Standard)"
+ setting_default_epe_fullface_helmets_desc: "Charaktere dürfen Helme tragen, die Kopf und Gesicht vollständig bedecken."
+ setting_never_epe_fullface_helmets: "Geschlossene Helme Verboten"
+ setting_never_epe_fullface_helmets_desc: "Charaktere tragen keine Helme, die Kopf und Gesicht vollständig bedecken."
+
+ rule_epe_makeup_options: "Ethnicities and Portraits Expanded: Schminke"
+ setting_default_epe_makeup: "Schminke erlaubt (Standard)"
+ setting_default_epe_makeup_desc: "Charaktere werden kulturell adäquate Schminke tragen."
+ setting_never_epe_makeup: "Schminke verboten"
+ setting_never_epe_makeup_desc: "Charaktere werden keine Schminke benutzen."
+
+
+ rule_epe_inbred_options: "Ethnicities and Portraits Expanded: Inzuchtoptionen"
+ setting_default_epe_inbred: "EPE-Inzuchtoptionen aktiviert (Standard)"
+ setting_default_epe_inbred_desc: ""
+ setting_disable_epe_inbred: "EPE-Inzuchtoptionen deaktiviert"
+ setting_disable_epe_inbred_desc: ""

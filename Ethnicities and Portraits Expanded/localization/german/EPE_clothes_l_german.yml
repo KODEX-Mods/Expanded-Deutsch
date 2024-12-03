@@ -1,0 +1,1262 @@
+﻿l_german:
+
+## clothes
+ #PORTRAIT_MODIFIER_cloaks: "Cloaks(for female &non-royal)"
+#  PORTRAIT_MODIFIER_custom_legwear: "Legwear"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_dde_abbasid_nobility_04_high: "Arab. Hochadels-Gewand 4"
+
+########Legwear
+#  PORTRAIT_MODIFIER_custom_legwear_male_legwear_secular_western_common_01: "Westl. legwear"
+#  PORTRAIT_MODIFIER_custom_legwear_female_legwear_secular_western_common_01: "Westl. legwear"
+#  PORTRAIT_MODIFIER_custom_legwear_male_empty: "No legwear"
+#  PORTRAIT_MODIFIER_custom_legwear_female_empty: "No legwear"
+#  PORTRAIT_MODIFIER_custom_legwear_male_legwear_secular_western_war_01: "Westl. war legwear"
+#  PORTRAIT_MODIFIER_custom_legwear_female_legwear_secular_western_war_01: "Westl. war legwear"
+#  PORTRAIT_MODIFIER_custom_legwear_male_legwear_secular_mena_war_nobility_01: "Arabic War legwear"
+#  PORTRAIT_MODIFIER_custom_legwear_female_legwear_secular_mena_war_nobility_01: "Arabic War legwear"
+#  PORTRAIT_MODIFIER_custom_legwear_male_legwear_secular_fp1_common_01: "Norse legwear"
+#  PORTRAIT_MODIFIER_custom_legwear_female_legwear_secular_fp1_common_01: "Norse legwear"
+#  PORTRAIT_MODIFIER_custom_legwear_male_legwear_epe_western_spymaster: "@epe_icon_western_generic_silver! Westl. Spy Master Legwear"
+#  PORTRAIT_MODIFIER_custom_legwear_female_legwear_epe_western_spymaster: "@epe_icon_western_generic_silver! Westl. Spy Master Legwear"
+#  PORTRAIT_MODIFIER_custom_legwear_male_legwear_secular_ep1_jester_01: "Jester's Legwear"
+#  PORTRAIT_MODIFIER_custom_legwear_female_legwear_secular_ep1_jester_01: "Jester's Legwear"
+#  PORTRAIT_MODIFIER_custom_legwear_male_legwear_secular_mena_common_01: "Mena Gemeinen-Legwear"
+#  PORTRAIT_MODIFIER_custom_legwear_female_legwear_secular_mena_common_01: "Mena Gemeinen-Legwear"
+#  PORTRAIT_MODIFIER_custom_legwear_male_legwear_secular_mena_nobility_01: "Mena Nobility Legwear"
+#  PORTRAIT_MODIFIER_custom_legwear_female_legwear_secular_mena_nobility_01: "Mena Nobility Legwear"
+
+
+
+########Cloaks
+#  PORTRAIT_MODIFIER_custom_cloaks_no_cloak: "No Umhang"
+ PORTRAIT_MODIFIER_custom_cloaks_female_cloaks_secular_western_royalty_02a: "Königs-Umhang 2"
+ PORTRAIT_MODIFIER_custom_cloaks_male_cloaks_secular_french_royalty_01: "@epe_icon_french_gold! Franz. Königs-Umhang 1"
+ PORTRAIT_MODIFIER_custom_cloaks_female_cloaks_secular_french_royalty_01: "@epe_icon_french_gold! Franz. Königs-Umhang 1"
+ PORTRAIT_MODIFIER_custom_cloaks_female_cloaks_secular_french_royalty_02a: "@epe_icon_french_gold! Franz. Königs-Umhang 2"
+ PORTRAIT_MODIFIER_custom_cloaks_male_cloaks_secular_byzantine_royalty_01: "@epe_icon_byzantine_gold! Byzant. Königs-Umhang 1"
+ PORTRAIT_MODIFIER_custom_cloaks_female_cloaks_secular_byzantine_royalty_01: "@epe_icon_byzantine_gold! Byzant. Königs-Umhang 1"
+ PORTRAIT_MODIFIER_custom_cloaks_female_cloaks_secular_byzantine_royalty_02a: "@epe_icon_byzantine_gold! Byzant. Königs-Umhang 2"
+ PORTRAIT_MODIFIER_custom_cloaks_male_cloaks_secular_italian_royalty_01: "@epe_icon_italian_gold! Ital. Königs-Umhang 1"
+ PORTRAIT_MODIFIER_custom_cloaks_female_cloaks_secular_italian_royalty_01: "@epe_icon_italian_gold! Ital. Königs-Umhang 1"
+ PORTRAIT_MODIFIER_custom_cloaks_female_cloaks_secular_italian_royalty_02a: "@epe_icon_italian_gold! Ital. Königs-Umhang 2"
+ PORTRAIT_MODIFIER_custom_cloaks_male_cloak_early_iranian_nobility: "@epe_icon_early_islamic_iranian_gold! Früher islam. Schah-Umhang 1"
+ PORTRAIT_MODIFIER_custom_cloaks_male_cloak_early_iranian_nobility_v2: "@epe_icon_early_islamic_iranian_gold! Früher islam. Schah-Umhang 2"
+ PORTRAIT_MODIFIER_custom_cloaks_male_cloak_eastern_iranian_nobility_v2: "@epe_icon_non_islamic_iranian_gold! Früher islam. Schah-Umhang 1"
+ PORTRAIT_MODIFIER_custom_cloaks_female_cloak_eastern_iranian_nobility: "@epe_icon_non_islamic_iranian_gold! Früher islam. Schah-Umhang 1"
+ PORTRAIT_MODIFIER_custom_cloaks_male_cloaks_northern_slav_low_01: "@epe_icon_northern_slav_bronze! Nordslaw. Umhang 1"
+ PORTRAIT_MODIFIER_custom_cloaks_female_cloaks_northern_slav_low_01: "@epe_icon_northern_slav_bronze! Nordslaw. Umhang 1"
+ PORTRAIT_MODIFIER_custom_cloaks_male_cloaks_northern_slav_low_02: "@epe_icon_northern_slav_bronze! Nordslaw. Umhang 2"
+ PORTRAIT_MODIFIER_custom_cloaks_female_cloaks_northern_slav_low_02: "@epe_icon_northern_slav_bronze! Nordslaw. Umhang 2"
+ PORTRAIT_MODIFIER_custom_cloaks_male_cloaks_northern_slav_low_03: "@epe_icon_northern_slav_bronze! Nordslaw. Umhang 3"
+ PORTRAIT_MODIFIER_custom_cloaks_female_cloaks_northern_slav_low_03: "@epe_icon_northern_slav_bronze! Nordslaw. Umhang 3"
+ PORTRAIT_MODIFIER_custom_cloaks_male_cloaks_northern_slav_high_01: "@epe_icon_northern_slav_gold! Nordslaw. Adels-Umhang 1"
+ PORTRAIT_MODIFIER_custom_cloaks_female_cloaks_northern_slav_high_01: "@epe_icon_northern_slav_gold! Nordslaw. Adels-Umhang 1"
+ PORTRAIT_MODIFIER_custom_cloaks_male_cloaks_northern_slav_high_02: "@epe_icon_northern_slav_gold! Nordslaw. Adels-Umhang 2"
+ PORTRAIT_MODIFIER_custom_cloaks_female_cloaks_northern_slav_high_02: "@epe_icon_northern_slav_gold! Nordslaw. Adels-Umhang 2"
+ PORTRAIT_MODIFIER_custom_cloaks_male_cloaks_northern_slav_high_03: "@epe_icon_northern_slav_gold! Nordslaw. Adels-Umhang 3"
+ PORTRAIT_MODIFIER_custom_cloaks_male_cloaks_northern_slav_royalty_01: "@epe_icon_northern_slav_gold! Nordslaw. Königs-Umhang 1"
+ PORTRAIT_MODIFIER_custom_cloaks_female_cloaks_northern_slav_royalty_01: "@epe_icon_northern_slav_gold! Nordslaw. Königs-Umhang 1"
+ PORTRAIT_MODIFIER_custom_cloaks_male_cloaks_northern_slav_royalty_02: "@epe_icon_northern_slav_gold! Nordslaw. Königs-Umhang 2"
+ PORTRAIT_MODIFIER_custom_cloaks_female_cloaks_northern_slav_royalty_02: "@epe_icon_northern_slav_gold! Nordslaw. Königs-Umhang 2"
+ PORTRAIT_MODIFIER_custom_cloaks_male_cloak_epe_byzantine_war_imperial_01: "@epe_icon_byzantine_gold! Byzant. Imperialer Kriegsmantel 1"
+ PORTRAIT_MODIFIER_custom_cloaks_male_cloak_epe_byzantine_war_high_noble_01: "@epe_icon_byzantine_gold! Byzant. Hochadels-Kriegsmantel 1"
+
+
+ PORTRAIT_MODIFIER_custom_cloaks_male_cloaks_irish_low_01: "@epe_icon_celtic_bronze! Gäl. Umhang 1"
+ PORTRAIT_MODIFIER_custom_cloaks_female_cloaks_irish_low_01: "@epe_icon_celtic_bronze! Gäl. Umhang 1"
+ PORTRAIT_MODIFIER_custom_cloaks_male_cloaks_irish_low_02: "@epe_icon_celtic_bronze! Gäl. Umhang 2"
+ PORTRAIT_MODIFIER_custom_cloaks_female_cloaks_irish_low_02: "@epe_icon_celtic_bronze! Gäl. Umhang 2"
+ PORTRAIT_MODIFIER_custom_cloaks_male_cloaks_irish_low_03: "@epe_icon_celtic_bronze! Gäl. Umhang 3"
+ PORTRAIT_MODIFIER_custom_cloaks_female_cloaks_irish_low_03: "@epe_icon_celtic_bronze! Gäl. Umhang 3"
+ PORTRAIT_MODIFIER_custom_cloaks_male_cloaks_irish_high_01: "@epe_icon_celtic_gold! Gäl. Adels-Umhang 1"
+ PORTRAIT_MODIFIER_custom_cloaks_female_cloaks_irish_high_01: "@epe_icon_celtic_gold! Gäl. Adels-Umhang 1"
+ PORTRAIT_MODIFIER_custom_cloaks_male_cloaks_irish_high_02: "@epe_icon_celtic_gold! Gäl. Adels-Umhang 2"
+ PORTRAIT_MODIFIER_custom_cloaks_female_cloaks_irish_high_02: "@epe_icon_celtic_gold! Gäl. Adels-Umhang 2"
+ PORTRAIT_MODIFIER_custom_cloaks_male_cloaks_irish_high_03: "@epe_icon_celtic_gold! Gäl. Adels-Umhang 3"
+ PORTRAIT_MODIFIER_custom_cloaks_female_cloaks_irish_high_03: "@epe_icon_celtic_gold! Gäl. Adels-Umhang 3"
+
+ PORTRAIT_MODIFIER_custom_cloaks_male_cloaks_irish_royalty_01: "@epe_icon_celtic_gold! Gäl. Königs-Umhang 1"
+ PORTRAIT_MODIFIER_custom_cloaks_male_cloaks_irish_royalty_02: "@epe_icon_celtic_gold! Gäl. Königs-Umhang 2"
+ PORTRAIT_MODIFIER_custom_cloaks_male_cloaks_irish_royalty_03: "@epe_icon_celtic_gold! Gäl. Königs-Umhang 3"
+ PORTRAIT_MODIFIER_custom_cloaks_female_cloaks_irish_royalty_01: "@epe_icon_celtic_gold! Gäl. Königs-Umhang 1"
+ PORTRAIT_MODIFIER_custom_cloaks_female_cloaks_irish_royalty_02: "@epe_icon_celtic_gold! Gäl. Königs-Umhang 2"
+ PORTRAIT_MODIFIER_custom_cloaks_female_cloaks_irish_royalty_03: "@epe_icon_celtic_gold! Gäl. Königs-Umhang 3"
+
+ PORTRAIT_MODIFIER_custom_cloaks_male_cloaks_balto_finnic_low_01: "@epe_icon_balto_finnic_bronze! Balto-Finn. Umhang 1"
+ PORTRAIT_MODIFIER_custom_cloaks_female_cloaks_balto_finnic_low_01: "@epe_icon_balto_finnic_bronze! Balto-Finn. Umhang 1"
+ PORTRAIT_MODIFIER_custom_cloaks_male_cloaks_balto_finnic_low_02: "@epe_icon_balto_finnic_bronze! Balto-Finn. Umhang 2"
+ PORTRAIT_MODIFIER_custom_cloaks_female_cloaks_balto_finnic_low_02: "@epe_icon_balto_finnic_bronze! Balto-Finn. Umhang 2"
+ PORTRAIT_MODIFIER_custom_cloaks_male_cloaks_balto_finnic_low_03: "@epe_icon_balto_finnic_bronze! Balto-Finn. Umhang 3"
+ PORTRAIT_MODIFIER_custom_cloaks_female_cloaks_balto_finnic_low_03: "@epe_icon_balto_finnic_bronze! Balto-Finn. Umhang 3"
+ PORTRAIT_MODIFIER_custom_cloaks_male_cloaks_balto_finnic_high_01: "@epe_icon_balto_finnic_gold! Balto-Finn. Adels-Umhang 1"
+ PORTRAIT_MODIFIER_custom_cloaks_female_cloaks_balto_finnic_high_01: "@epe_icon_balto_finnic_gold! Balto-Finn. Adels-Umhang 1"
+ PORTRAIT_MODIFIER_custom_cloaks_male_cloaks_balto_finnic_high_02: "@epe_icon_balto_finnic_gold! Balto-Finn. Adels-Umhang 2"
+ PORTRAIT_MODIFIER_custom_cloaks_female_cloaks_balto_finnic_high_02: "@epe_icon_balto_finnic_gold! Balto-Finn. Adels-Umhang 2"
+ PORTRAIT_MODIFIER_custom_cloaks_male_cloaks_balto_finnic_high_03: "@epe_icon_balto_finnic_gold! Balto-Finn. Adels-Umhang 3"
+ PORTRAIT_MODIFIER_custom_cloaks_female_cloaks_balto_finnic_high_03: "@epe_icon_balto_finnic_gold! Balto-Finn. Adels-Umhang 3"
+ PORTRAIT_MODIFIER_custom_cloaks_male_frankish_low_sagum_01: "@epe_icon_frankish_silver! Fränk. Niederes Adels-Sagum"
+ PORTRAIT_MODIFIER_custom_cloaks_male_frankish_high_sagum_01: "@epe_icon_frankish_silver! Fränk. Hochadels-Sagum"
+ PORTRAIT_MODIFIER_custom_cloaks_male_frankish_royal_sagum_01: "@epe_icon_frankish_gold! Fränk. Königs-Sagum"
+ PORTRAIT_MODIFIER_custom_cloaks_male_cloaks_merovingian_war_01: "@epe_icon_frankish_bronze! Fränk. Kriegsmantel 1"
+ PORTRAIT_MODIFIER_custom_cloaks_male_cloaks_merovingian_war_02: "@epe_icon_frankish_bronze! Fränk. Kriegsmantel 2"
+ PORTRAIT_MODIFIER_custom_cloaks_male_visigoth_royal_sagum_01: "@epe_icon_visigoth_gold! Westgot. Königs-Umhang 1"
+ PORTRAIT_MODIFIER_custom_cloaks_male_byzantine_imperial_sagum_01: "@epe_icon_byzantine_gold! Byzant. Imperiales Sagum 1"
+ PORTRAIT_MODIFIER_custom_cloaks_male_byzantine_imperial_sagum_02: "@epe_icon_byzantine_gold! Byzant. Imperiales Sagum 2"
+ PORTRAIT_MODIFIER_custom_cloaks_male_byzantine_imperial_sagum_02_plane: "@epe_icon_byzantine_gold! Einfaches Byzant. Imperiales Sagum"
+ PORTRAIT_MODIFIER_custom_cloaks_female_byzantine_imperial_sagum_01: "@epe_icon_byzantine_gold! Byzant. Imperiales Sagum 1"
+ PORTRAIT_MODIFIER_custom_cloaks_female_byzantine_imperial_sagum_02: "@epe_icon_byzantine_gold! Byzant. Imperiales Sagum 2"
+ PORTRAIT_MODIFIER_custom_cloaks_female_byzantine_imperial_sagum_02_plane: "@epe_icon_byzantine_gold! Einfaches Byzant. Imperiales Sagum"
+ PORTRAIT_MODIFIER_custom_cloaks_male_byzantine_royal_sagum_01: "@epe_icon_byzantine_gold! Byzant. Königs-Sagum 1"
+ PORTRAIT_MODIFIER_custom_cloaks_male_cloak_western_spy_master_01: "@epe_icon_western_generic_silver! Westl. Spionen-Umhang 1"
+ PORTRAIT_MODIFIER_custom_cloaks_female_cloak_western_spy_master_01: "@epe_icon_western_generic_silver! Westl. Spionen-Umhang 1"
+ PORTRAIT_MODIFIER_custom_cloaks_male_byzantine_duchy_sagum_01: "@epe_icon_byzantine_gold! Byzant. Herzogs-Sagum 1"
+ PORTRAIT_MODIFIER_custom_cloaks_male_byzantine_duchy_sagum_02: "@epe_icon_byzantine_gold! Byzant. Herzogs-Sagum 2"
+ PORTRAIT_MODIFIER_custom_cloaks_male_bulgarian_royalty_sagum_01: "@epe_icon_bulgarian_gold! Bulgar. Königs-Sagum 1"
+ PORTRAIT_MODIFIER_custom_cloaks_female_bulgarian_royalty_cloak_01: "@epe_icon_bulgarian_gold! Bulgar. Königs-Umhang 1"
+ PORTRAIT_MODIFIER_custom_cloaks_male_south_slav_royalty_sagum_01: "@epe_icon_south_slavs_gold! Südslaw. Königs-Sagum 1"
+ PORTRAIT_MODIFIER_custom_cloaks_female_south_slav_royalty_cloak_01: "@epe_icon_south_slavs_gold! Südslaw. Königs-Umhang 1"
+ PORTRAIT_MODIFIER_custom_cloaks_male_georgia_royalty_sagum_01: "@epe_icon_georgian_gold! Georg. Königs-Sagum 1"
+ PORTRAIT_MODIFIER_custom_cloaks_female_georgia_royalty_cloak_01: "@epe_icon_georgian_gold! Georg. Königs-Umhang 1"
+ PORTRAIT_MODIFIER_custom_cloaks_male_armenian_royalty_sagum_01: "@epe_icon_armenian_gold! Armen. Königs-Sagum 1"
+ PORTRAIT_MODIFIER_custom_cloaks_female_armenian_royalty_cloak_01: "@epe_icon_armenian_gold! Armen. Königs-Umhang 1"
+ PORTRAIT_MODIFIER_custom_cloaks_male_iberian_royal_sagum_01: "@epe_icon_visigoth_gold! Iber. Königs-Sagum 1"
+ PORTRAIT_MODIFIER_custom_cloaks_male_cloaks_high_iberian_royalty_01: "@epe_icon_visigoth_gold! Iber. Königs-Umhang 1"
+ PORTRAIT_MODIFIER_custom_cloaks_female_iberia_royalty_cloak_01: "@epe_icon_visigoth_gold! Iber. Königs-Umhang 1"
+ PORTRAIT_MODIFIER_custom_cloaks_female_iberia_royalty_cloak_02: "@epe_icon_visigoth_gold! Iber. Königs-Umhang 2"
+ PORTRAIT_MODIFIER_custom_cloaks_male_early_western_imperial_sagum_01: "@epe_icon_western_generic_gold! Frühes Westl. Imperiales Sagum 1"
+ PORTRAIT_MODIFIER_custom_cloaks_female_early_western_imperial_sagum_01: "@epe_icon_western_generic_gold! Frühes Westl. Imperiales Sagum 1"
+ PORTRAIT_MODIFIER_custom_cloaks_male_west_sagum_02a_low: "@epe_icon_western_generic_silver! Frühes Westl. Adels-Sagum 2"
+ PORTRAIT_MODIFIER_custom_cloaks_male_west_sagum_02a_high: "@epe_icon_western_generic_gold! Frühes Westl. Hochadels-Sagum 2"
+ PORTRAIT_MODIFIER_custom_cloaks_male_west_sagum_02a_royalty: "@epe_icon_western_generic_gold! Frühes Westl. Königs-Sagum 2"
+ PORTRAIT_MODIFIER_custom_cloaks_male_west_sagum_02a_visigoth_royalty: "@epe_icon_visigoth_gold! Iber. Königs-Sagum 2"
+ PORTRAIT_MODIFIER_custom_cloaks_male_west_sagum_03a_visigoth_royalty: "@epe_icon_visigoth_gold! Iber. Königs-Sagum 3"
+ PORTRAIT_MODIFIER_custom_cloaks_male_west_sagum_04a_visigoth_royalty: "@epe_icon_visigoth_gold! Iber. Königs-Sagum 4"
+ PORTRAIT_MODIFIER_custom_cloaks_male_west_sagum_02a_byzantine_duke: "@epe_icon_byzantine_gold! Byzant. Herzogs-Sagum 3"
+ PORTRAIT_MODIFIER_custom_cloaks_male_west_sagum_03a_byzantine_duke: "@epe_icon_byzantine_gold! Byzant. Herzogs-Sagum 4"
+ PORTRAIT_MODIFIER_custom_cloaks_male_west_sagum_04a_byzantine_duke: "@epe_icon_byzantine_gold! Byzant. Herzogs-Sagum 5"
+
+ #EP2 Cloaks
+ PORTRAIT_MODIFIER_custom_cloaks_m_cloaks_sec_ep2_byz_era1_nob_01_hi: "@epe_icon_byzantine_gold! Byzant. Herzogs-Sagum 6"
+ PORTRAIT_MODIFIER_custom_cloaks_m_cloaks_sec_ep2_byz_era1_roy_01_hi: "@epe_icon_byzantine_gold! Byzant. Königs-Sagum 3"
+ PORTRAIT_MODIFIER_custom_cloaks_m_cloaks_sec_ep2_georgian_era1_roy_01: "@epe_icon_byzantine_gold! Georg. Königs-Sagum 3"
+ PORTRAIT_MODIFIER_custom_cloaks_m_cloaks_sec_ep2_byz_era1_imp_01_hi: "@epe_icon_byzantine_gold! Byzant. Imperiales Sagum 4"
+ PORTRAIT_MODIFIER_custom_cloaks_m_cloaks_sec_ep2_bulg_era1_roy_01_hi: "@epe_icon_byzantine_gold! Bulgar. Königs-Sagum 3"
+ PORTRAIT_MODIFIER_custom_cloaks_m_cloaks_sec_ep2_south_slav_era1_roy_01: "@epe_icon_byzantine_gold! South Slavic Königs-Sagum 3"
+ PORTRAIT_MODIFIER_custom_cloaks_m_cloaks_sec_ep2_armenian_era1_roy_01: "@epe_icon_byzantine_gold! Armen. Königs-Sagum 3"
+
+
+ #End of EP2 Cloaks
+ PORTRAIT_MODIFIER_custom_cloaks_male_west_sagum_03a_low: "@epe_icon_western_generic_silver! Frühes Westl. Adels-Sagum 3"
+ PORTRAIT_MODIFIER_custom_cloaks_male_west_sagum_03a_high: "@epe_icon_western_generic_gold! Frühes Westl. Hochadels-Sagum 3"
+ PORTRAIT_MODIFIER_custom_cloaks_male_west_sagum_03a_royalty: "@epe_icon_western_generic_gold! Frühes Westl. Königs-Sagum 3"
+ PORTRAIT_MODIFIER_custom_cloaks_male_west_sagum_04a_low: "@epe_icon_western_generic_silver! Frühes Westl. Adels-Sagum 4"
+ PORTRAIT_MODIFIER_custom_cloaks_male_west_sagum_04a_high: "@epe_icon_western_generic_gold! Frühes Westl. Hochadels-Sagum 4"
+ PORTRAIT_MODIFIER_custom_cloaks_male_west_sagum_04a_royalty: "@epe_icon_western_generic_gold! Frühes Westl. Königs-Sagum 4"
+ PORTRAIT_MODIFIER_custom_cloaks_fem_western_royal_cloak_02: "@epe_icon_western_generic_gold! Frühes Westl. Königs-Umhang 2"
+ PORTRAIT_MODIFIER_custom_cloaks_fem_frankish_royal_cloak_02: "@epe_icon_frankish_gold! Frühes Frankish Königs-Umhang 2"
+ PORTRAIT_MODIFIER_custom_cloaks_female_west_sagum_04a_high: "@epe_icon_western_generic_gold! Frühes Westl. Hohes Sagum 4"
+ PORTRAIT_MODIFIER_custom_cloaks_fem_western_duke_cloak_02: "@epe_icon_western_generic_gold! Frühes Westl. Hoher Umhang 2"
+ PORTRAIT_MODIFIER_custom_cloaks_female_west_sagum_04a_royalty: "@epe_icon_western_generic_gold! Frühes Westl. Königs-Sagum 4"
+
+ PORTRAIT_MODIFIER_custom_cloaks_female_west_sagum_04a_visigoth_royalty: "@epe_icon_visigoth_gold! Früher Westgot. Königs-Sagum 4"
+ PORTRAIT_MODIFIER_custom_cloaks_fem_visigoth_royal_cloak_02: "@epe_icon_visigoth_gold! Früher Westgot. Königs-Umhang 2"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###############
+### Hma. Iran. ###
+###############
+
+### Male ###
+#Commoner#
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_iranian_nobility_01_common: "@epe_icon_early_islamic_iranian_bronze! Hma. Iran. Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_iranian_nobility_02_common: "@epe_icon_early_islamic_iranian_bronze! Hma. Iran. Gemeinen-Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_iranian_nobility_03_common: "@epe_icon_early_islamic_iranian_bronze! Hma. Iran. Gemeinen-Gewand 3"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_iranian_nobility_01_common: "@epe_icon_early_islamic_iranian_bronze! Hma. Iran. Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_iranian_nobility_02_common: "@epe_icon_early_islamic_iranian_bronze! Hma. Iran. Gemeinen-Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_iranian_nobility_03_common: "@epe_icon_early_islamic_iranian_bronze! Hma. Iran. Gemeinen-Gewand 3"
+
+#Niedere#
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_iranian_nobility_01_low: "@epe_icon_early_islamic_iranian_silver! Hma. Iran. Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_iranian_nobility_02_low: "@epe_icon_early_islamic_iranian_silver! Hma. Iran. Niederes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_iranian_nobility_03_low: "@epe_icon_early_islamic_iranian_silver! Hma. Iran. Niederes Gewand 3"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_iranian_nobility_01_low: "@epe_icon_early_islamic_iranian_silver! Hma. Iran. Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_iranian_nobility_02_low: "@epe_icon_early_islamic_iranian_silver! Hma. Iran. Niederes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_iranian_nobility_03_low: "@epe_icon_early_islamic_iranian_silver! Hma. Iran. Niederes Gewand 3"
+
+ ##High###
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_iranian_nobility_01_high: "@epe_icon_early_islamic_iranian_gold! Hma. Iran. Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_iranian_nobility_02_high: "@epe_icon_early_islamic_iranian_gold! Hma. Iran. Hohes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_iranian_nobility_03_high: "@epe_icon_early_islamic_iranian_gold! Hma. Iran. Hohes Gewand 3"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_iranian_nobility_01_high: "@epe_icon_early_islamic_iranian_gold! Hma. Iran. Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_iranian_nobility_02_high: "@epe_icon_early_islamic_iranian_gold! Hma. Iran. Hohes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_iranian_nobility_03_high: "@epe_icon_early_islamic_iranian_gold! Hma. Iran. Hohes Gewand 3"
+
+
+###############
+### Süd-ind. ###
+###############
+
+### Male ###
+#Commoner#
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_south_indian_nobility_01_common: "@epe_icon_south_indian_bronze! Süd-ind. Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_south_indian_nobility_02_common: "@epe_icon_south_indian_bronze! Süd-ind. Gemeinen-Gewand 2"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_south_indian_nobility_01_common: "@epe_icon_south_indian_bronze! Süd-ind. Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_south_indian_nobility_02_common: "@epe_icon_south_indian_bronze! Süd-ind. Gemeinen-Gewand 2"
+
+
+#Niedere#
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_south_indian_nobility_01_low: "@epe_icon_south_indian_silver! Süd-ind. Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_south_indian_nobility_02_low: "@epe_icon_south_indian_silver! Süd-ind. Niederes Gewand 2"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_south_indian_nobility_01_low: "@epe_icon_south_indian_silver! Süd-ind. Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_south_indian_nobility_02_low: "@epe_icon_south_indian_silver! Süd-ind. Niederes Gewand 2"
+
+ ##High###
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_south_indian_nobility_01_high: "@epe_icon_south_indian_gold! Süd-ind. Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_south_indian_nobility_02_high: "@epe_icon_south_indian_gold! Süd-ind. Hohes Gewand 2"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_south_indian_nobility_01_high: "@epe_icon_south_indian_gold! Süd-ind. Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_south_indian_nobility_02_high: "@epe_icon_south_indian_gold! Süd-ind. Hohes Gewand 2"
+
+##War armor
+ PORTRAIT_MODIFIER_custom_clothes_male_clothing_secular_south_indian_war_nobility_01_low: "@epe_icon_south_indian_bronze! Süd-ind. Rüstung 1"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothing_secular_south_indian_war_nobility_01_low: "@epe_icon_south_indian_bronze! Süd-ind. Rüstung 1"
+
+
+###############
+### Franz. ###
+###############
+
+### Male ###
+#Commoner#
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_french_nobility_01_common: "@epe_icon_french_bronze! Franz. Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_french_nobility_02_common: "@epe_icon_french_bronze! Franz. Gemeinen-Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_french_nobility_03_common: "@epe_icon_french_bronze! Franz. Gemeinen-Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_french_nobility_04_common: "@epe_icon_french_bronze! Franz. Gemeinen-Gewand 4"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_french_nobility_05_common: "@epe_icon_french_bronze! Franz. Gemeinen-Gewand 5"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_french_nobility_06_common: "@epe_icon_french_bronze! Franz. Gemeinen-Gewand 6"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_french_nobility_01_common: "@epe_icon_french_bronze! Franz. Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_french_nobility_02_common: "@epe_icon_french_bronze! Franz. Gemeinen-Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_french_nobility_03_common: "@epe_icon_french_bronze! Franz. Gemeinen-Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_french_nobility_04_common: "@epe_icon_french_bronze! Franz. Gemeinen-Gewand 4"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_french_nobility_05_common: "@epe_icon_french_bronze! Franz. Gemeinen-Gewand 5"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_french_nobility_06_common: "@epe_icon_french_bronze! Franz. Gemeinen-Gewand 6"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_french_nobility_07_common: "@epe_icon_french_bronze! Franz. Gemeinen-Gewand 7"
+
+#Niedere#
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_french_nobility_01_low: "@epe_icon_french_silver! Franz. Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_french_nobility_02_low: "@epe_icon_french_silver! Franz. Niederes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_french_nobility_03_low: "@epe_icon_french_silver! Franz. Niederes Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_french_nobility_04_low: "@epe_icon_french_silver! Franz. Niederes Gewand 4"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_french_nobility_05_low: "@epe_icon_french_silver! Franz. Niederes Gewand 5"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_french_nobility_06_low: "@epe_icon_french_silver! Franz. Niederes Gewand 6"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_french_nobility_01_low: "@epe_icon_french_silver! Franz. Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_french_nobility_02_low: "@epe_icon_french_silver! Franz. Niederes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_french_nobility_03_low: "@epe_icon_french_silver! Franz. Niederes Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_french_nobility_04_low: "@epe_icon_french_silver! Franz. Niederes Gewand 4"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_french_nobility_05_low: "@epe_icon_french_silver! Franz. Niederes Gewand 5"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_french_nobility_06_low: "@epe_icon_french_silver! Franz. Niederes Gewand 6"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_french_nobility_07_low: "@epe_icon_french_silver! Franz. Niederes Gewand 7"
+
+ ##High###
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_french_nobility_01_high: "@epe_icon_french_gold! Franz. Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_french_nobility_02_high: "@epe_icon_french_gold! Franz. Hohes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_french_nobility_03_high: "@epe_icon_french_gold! Franz. Hohes Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_french_nobility_04_high: "@epe_icon_french_gold! Franz. Hohes Gewand 4"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_french_nobility_05_high: "@epe_icon_french_gold! Franz. Hohes Gewand 5"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_french_nobility_06_high: "@epe_icon_french_gold! Franz. Hohes Gewand 6"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_french_nobility_01_high: "@epe_icon_french_gold! Franz. Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_french_nobility_02_high: "@epe_icon_french_gold! Franz. Hohes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_french_nobility_03_high: "@epe_icon_french_gold! Franz. Hohes Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_french_nobility_04_high: "@epe_icon_french_gold! Franz. Hohes Gewand 4"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_french_nobility_05_high: "@epe_icon_french_gold! Franz. Hohes Gewand 5"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_french_nobility_06_high: "@epe_icon_french_gold! Franz. Hohes Gewand 6"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_french_nobility_07_high: "@epe_icon_french_gold! Franz. Hohes Gewand 7"
+
+##War armor
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_french_war_nobility_01_low: "@epe_icon_french_bronze! Franz. Rüstung 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_french_war_nobility_02_low: "@epe_icon_french_bronze! Franz. Rüstung 2"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_french_war_nobility_01_low: "@epe_icon_french_bronze! Franz. Rüstung 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_french_war_nobility_02_low: "@epe_icon_french_bronze! Franz. Rüstung 2"
+
+
+###############
+### Ital. ###
+###############
+
+### Male ###
+#Commoner#
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_italian_nobility_01_common: "@epe_icon_italian_bronze! Ital. Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_italian_nobility_02_common: "@epe_icon_italian_bronze! Ital. Gemeinen-Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_italian_nobility_03_common: "@epe_icon_italian_bronze! Ital. Gemeinen-Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_italian_nobility_04_common: "@epe_icon_italian_bronze! Ital. Gemeinen-Gewand 4"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_italian_nobility_05_common: "@epe_icon_italian_bronze! Ital. Gemeinen-Gewand 5"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_italian_nobility_01_common: "@epe_icon_italian_bronze! Ital. Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_italian_nobility_02_common: "@epe_icon_italian_bronze! Ital. Gemeinen-Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_italian_nobility_03_common: "@epe_icon_italian_bronze! Ital. Gemeinen-Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_italian_nobility_04_common: "@epe_icon_italian_bronze! Ital. Gemeinen-Gewand 4"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_italian_nobility_05_common: "@epe_icon_italian_bronze! Ital. Gemeinen-Gewand 5"
+
+
+#Niedere#
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_italian_nobility_01_low: "@epe_icon_italian_silver! Ital. Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_italian_nobility_02_low: "@epe_icon_italian_silver! Ital. Niederes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_italian_nobility_03_low: "@epe_icon_italian_silver! Ital. Niederes Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_italian_nobility_04_low: "@epe_icon_italian_silver! Ital. Niederes Gewand 4"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_italian_nobility_05_low: "@epe_icon_italian_silver! Ital. Niederes Gewand 5"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_italian_nobility_01_low: "@epe_icon_italian_silver! Ital. Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_italian_nobility_02_low: "@epe_icon_italian_silver! Ital. Niederes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_italian_nobility_03_low: "@epe_icon_italian_silver! Ital. Niederes Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_italian_nobility_04_low: "@epe_icon_italian_silver! Ital. Niederes Gewand 4"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_italian_nobility_05_low: "@epe_icon_italian_silver! Ital. Niederes Gewand 5"
+
+ ##High###
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_italian_nobility_01_high: "@epe_icon_italian_gold! Ital. Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_italian_nobility_02_high: "@epe_icon_italian_gold! Ital. Hohes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_italian_nobility_03_high: "@epe_icon_italian_gold! Ital. Hohes Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_italian_nobility_04_high: "@epe_icon_italian_gold! Ital. Hohes Gewand 4"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_italian_nobility_05_high: "@epe_icon_italian_gold! Ital. Hohes Gewand 5"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_italian_nobility_01_high: "@epe_icon_italian_gold! Ital. Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_italian_nobility_02_high: "@epe_icon_italian_gold! Ital. Hohes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_italian_nobility_03_high: "@epe_icon_italian_gold! Ital. Hohes Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_italian_nobility_04_high: "@epe_icon_italian_gold! Ital. Hohes Gewand 4"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_italian_nobility_05_high: "@epe_icon_italian_gold! Ital. Hohes Gewand 5"
+
+
+##War armor
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_italian_war_nobility_01_low: "@epe_icon_italian_bronze! Ital. Rüstung 1"
+
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_italian_war_nobility_02_low: "@epe_icon_italian_bronze! Ital. Rüstung 2"
+
+
+
+###############
+### Ghaznawid. ###
+###############
+
+### Male ###
+#Commoner#
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_ghaznavid_nobility_01_common: "@epe_icon_ghaznavid_bronze! Ghaznawid. Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_ghaznavid_nobility_02_common: "@epe_icon_ghaznavid_bronze! Ghaznawid. Gemeinen-Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_ghaznavid_nobility_03_common: "@epe_icon_ghaznavid_bronze! Ghaznawid. Gemeinen-Gewand 3"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_ghaznavid_nobility_01_common: "@epe_icon_ghaznavid_bronze! Ghaznawid. Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_ghaznavid_nobility_02_common: "@epe_icon_ghaznavid_bronze! Ghaznawid. Gemeinen-Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_ghaznavid_nobility_03_common: "@epe_icon_ghaznavid_bronze! Ghaznawid. Gemeinen-Gewand 3"
+
+#Niedere#
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_ghaznavid_nobility_01_low: "@epe_icon_ghaznavid_silver! Ghaznawid. Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_ghaznavid_nobility_02_low: "@epe_icon_ghaznavid_silver! Ghaznawid. Niederes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_ghaznavid_nobility_03_low: "@epe_icon_ghaznavid_silver! Ghaznawid. Niederes Gewand 3"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_ghaznavid_nobility_01_low: "@epe_icon_ghaznavid_silver! Ghaznawid. Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_ghaznavid_nobility_02_low: "@epe_icon_ghaznavid_silver! Ghaznawid. Niederes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_ghaznavid_nobility_03_low: "@epe_icon_ghaznavid_silver! Ghaznawid. Niederes Gewand 3"
+
+ ##High###
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_ghaznavid_nobility_01_high: "@epe_icon_ghaznavid_gold! Ghaznawid. Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_ghaznavid_nobility_02_high: "@epe_icon_ghaznavid_gold! Ghaznawid. Hohes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_ghaznavid_nobility_03_high: "@epe_icon_ghaznavid_gold! Ghaznawid. Hohes Gewand 3"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_ghaznavid_nobility_01_high: "@epe_icon_ghaznavid_gold! Ghaznawid. Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_ghaznavid_nobility_02_high: "@epe_icon_ghaznavid_gold! Ghaznawid. Hohes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_ghaznavid_nobility_03_high: "@epe_icon_ghaznavid_gold! Ghaznawid. Hohes Gewand 3"
+
+##War armor
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_ghaznavid_war_nobility_01_low: "@epe_icon_ghaznavid_bronze! Ghaznawid. Rüstung 1"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_ghaznavid_war_nobility_01_low: "@epe_icon_ghaznavid_bronze! Ghaznawid. Rüstung 1"
+
+
+
+###############
+### Seljuk Turks ###
+###############
+
+### Male ###
+#Commoner#
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_seljuk_nobility_01_common: "@epe_icon_seljuk_bronze! Seldschuk. Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_seljuk_nobility_02_common: "@epe_icon_seljuk_bronze! Seldschuk. Gemeinen-Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_seljuk_nobility_03_common: "@epe_icon_seljuk_bronze! Seldschuk. Gemeinen-Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_seljuk_nobility_04_common: "@epe_icon_seljuk_bronze! Seldschuk. Gemeinen-Gewand 4"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_seljuk_nobility_01_common: "@epe_icon_seljuk_bronze! Seldschuk. Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_seljuk_nobility_02_common: "@epe_icon_seljuk_bronze! Seldschuk. Gemeinen-Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_seljuk_nobility_03_common: "@epe_icon_seljuk_bronze! Seldschuk. Gemeinen-Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_seljuk_nobility_04_common: "@epe_icon_seljuk_bronze! Seldschuk. Gemeinen-Gewand 4"
+
+
+#Niedere#
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_seljuk_nobility_01_low: "@epe_icon_seljuk_silver! Seldschuk. Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_seljuk_nobility_02_low: "@epe_icon_seljuk_silver! Seldschuk. Niederes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_seljuk_nobility_03_low: "@epe_icon_seljuk_silver! Seldschuk. Niederes Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_seljuk_nobility_04_low: "@epe_icon_seljuk_silver! Seldschuk. Niederes Gewand 4"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_seljuk_nobility_01_low: "@epe_icon_seljuk_silver! Seldschuk. Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_seljuk_nobility_02_low: "@epe_icon_seljuk_silver! Seldschuk. Niederes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_seljuk_nobility_03_low: "@epe_icon_seljuk_silver! Seldschuk. Niederes Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_seljuk_nobility_04_low: "@epe_icon_seljuk_silver! Seldschuk. Niederes Gewand 4"
+
+ ##High###
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_seljuk_nobility_01_high: "@epe_icon_seljuk_gold! Seldschuk. Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_seljuk_nobility_02_high: "@epe_icon_seljuk_gold! Seldschuk. Hohes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_seljuk_nobility_03_high: "@epe_icon_seljuk_gold! Seldschuk. Hohes Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_seljuk_nobility_04_high: "@epe_icon_seljuk_gold! Seldschuk. Hohes Gewand 4"
+
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_seljuk_nobility_01_high: "@epe_icon_seljuk_gold! Seldschuk. Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_seljuk_nobility_02_high: "@epe_icon_seljuk_gold! Seldschuk. Hohes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_seljuk_nobility_03_high: "@epe_icon_seljuk_gold! Seldschuk. Hohes Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_seljuk_nobility_04_high: "@epe_icon_seljuk_gold! Seldschuk. Hohes Gewand 4"
+
+
+##War armor
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_seljuk_war_nobility_01_low: "@epe_icon_seljuk_bronze! Seldschuk. Rüstung 1"
+
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_seljuk_war_nobility_01_low: "@epe_icon_seljuk_bronze! Seldschuk. Rüstung 1"
+
+
+###############
+### Caliph ###
+###############
+##Frühes
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_religious_dde_muslim_caliph_01_male: "@epe_icon_abbasid_gold! Frühes Kalifen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_early_sunni_caliph_01: "@epe_icon_abbasid_gold! Frühes Kalifen-Gewand 2"
+##High
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_high_muslim_caliph_01_male: "@epe_icon_abbasid_gold! Hohes Kalifen-Gewand 2"
+
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_early_other_caliph_01: "Kalifenrobe 2"
+
+
+###############
+### Ost-afr. ###
+###############
+
+### Male ###
+#Commoner#
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_east_african_01v2_common: "@epe_icon_east_african_bronze! Ost-afr. Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_east_african_02_common: "@epe_icon_east_african_bronze! Ost-afr. Gemeinen-Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_east_african_01v3_nobility_low: "@epe_icon_east_african_bronze! Ost-afr. Gemeinen-Gewand 3"
+
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_east_african_01_common: "@epe_icon_east_african_bronze! Ost-afr. Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_east_african_01v2_common: "@epe_icon_east_african_bronze! Ost-afr. Gemeinen-Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_east_african_01v3_common: "@epe_icon_east_african_bronze! Ost-afr. Gemeinen-Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_east_african_02_common: "@epe_icon_east_african_bronze! Ost-afr. Gemeinen-Gewand 4"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_east_african_03_common: "@epe_icon_east_african_bronze! Ost-afr. Gemeinen-Gewand 5"
+
+#Niedere#
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_east_african_02_low_nobility: "@epe_icon_east_african_silver! Ost-afr. Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_east_african_03_low_nobility: "@epe_icon_east_african_silver! Ost-afr. Niederes Gewand 2"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_east_african_04_low_nobility: "@epe_icon_east_african_silver! Ost-afr. Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_east_african_03_low: "@epe_icon_east_african_silver! Ost-afr. Niederes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_east_african_05_low_nobility: "@epe_icon_east_african_silver! Ost-afr. Niederes Gewand 3"
+
+
+ PORTRAIT_MODIFIER_custom_clothes_2_male_clothes_epe_nubia_01_low: "@epe_icon_east_african_silver! Nub. Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_2_male_clothes_epe_nubia_02_low: "@epe_icon_east_african_silver! Nub. Niederes Gewand 2"
+
+ PORTRAIT_MODIFIER_custom_clothes_2_female_clothes_epe_nubia_01_low: "@epe_icon_east_african_silver! Nub. Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_2_female_clothes_epe_nubia_02_low: "@epe_icon_east_african_silver! Nub. Niederes Gewand 2"
+
+ ##High###
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_east_african_02_high_nobility: "@epe_icon_east_african_gold! Ost-afr. Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_east_african_03_high_nobility: "@epe_icon_east_african_gold! Ost-afr. Hohes Gewand 2"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_east_african_03_high: "@epe_icon_east_african_gold! Ost-afr. Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_east_african_04_high_nobility: "@epe_icon_east_african_gold! Ost-afr. Hohes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_east_african_05_high_nobility: "@epe_icon_east_african_gold! Ost-afr. Hohes Gewand 3"
+
+ PORTRAIT_MODIFIER_custom_clothes_2_male_clothes_epe_nubia_01_high: "@epe_icon_east_african_gold! Nub. Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_2_male_clothes_epe_nubia_02_high: "@epe_icon_east_african_gold! Nub. Hohes Gewand 2"
+
+ PORTRAIT_MODIFIER_custom_clothes_2_female_clothes_epe_nubia_01_high: "@epe_icon_east_african_gold! Nub. Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_2_female_clothes_epe_nubia_02_high: "@epe_icon_east_african_gold! Nub. Hohes Gewand 2"
+
+
+ ##Königl.###
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_somali_01_royalty: "@epe_icon_east_african_gold! Ost-afr. Königs-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_somali_02_royalty: "@epe_icon_east_african_gold! Ost-afr. Königs-Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_somali_03_royalty: "@epe_icon_east_african_gold! Ost-afr. Königs-Gewand 3"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_somali_01_royalty: "@epe_icon_east_african_gold! Ost-afr. Königs-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_somali_02_royalty: "@epe_icon_east_african_gold! Ost-afr. Königs-Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_somali_03_royalty: "@epe_icon_east_african_gold! Ost-afr. Königs-Gewand 3"
+
+
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_ethiopia_01_royalty: "@epe_icon_east_african_gold! Äthiop. Königs-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_ethiopia_02_royalty: "@epe_icon_east_african_gold! Äthiop. Königs-Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_ethiopia_03_royalty: "@epe_icon_east_african_gold! Äthiop. Königs-Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_ethiopia_04_royalty: "@epe_icon_east_african_gold! Äthiop. Königs-Gewand 4"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_ethiopia_01_royalty: "@epe_icon_east_african_gold! Äthiop. Königs-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_ethiopia_02_royalty: "@epe_icon_east_african_gold! Äthiop. Königs-Gewand 2"
+
+
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_nubia_01_royalty: "@epe_icon_east_african_gold! Nub. Königs-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_nubia_02_royalty: "@epe_icon_east_african_gold! Nub. Königs-Gewand 2"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_nubia_01_royalty: "@epe_icon_east_african_gold! Nub. Königs-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_nubia_02_royalty: "@epe_icon_east_african_gold! Nub. Königs-Gewand 2"
+
+
+
+
+
+
+###############
+### Eastern/Sogdian Iran. ###
+###############
+
+### Male ###
+#Commoner#
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_early_eastern_iranian_nobility_01_common: "@epe_icon_non_islamic_iranian_bronze! Nicht-islam. Iran. Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_early_eastern_iranian_nobility_02_common: "@epe_icon_non_islamic_iranian_bronze! Nicht-islam. Iran. Gemeinen-Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_early_eastern_iranian_nobility_03_common: "@epe_icon_non_islamic_iranian_bronze! Nicht-islam. Iran. Gemeinen-Gewand 3"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_early_eastern_iranian_nobility_01_common: "@epe_icon_non_islamic_iranian_bronze! Nicht-islam. Iran. Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_early_eastern_iranian_nobility_02_common: "@epe_icon_non_islamic_iranian_bronze! Nicht-islam. Iran. Gemeinen-Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_early_eastern_iranian_nobility_03_common: "@epe_icon_non_islamic_iranian_bronze! Nicht-islam. Iran. Gemeinen-Gewand 3"
+
+#Niedere#
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_early_eastern_iranian_nobility_01_low: "@epe_icon_non_islamic_iranian_silver! Nicht-islam. Iran. Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_early_eastern_iranian_nobility_02_low: "@epe_icon_non_islamic_iranian_silver! Nicht-islam. Iran. Niederes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_early_eastern_iranian_nobility_03_low: "@epe_icon_non_islamic_iranian_silver! Nicht-islam. Iran. Niederes Gewand 3"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_early_eastern_iranian_nobility_01_low: "@epe_icon_non_islamic_iranian_silver! Nicht-islam. Iran. Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_early_eastern_iranian_nobility_02_low: "@epe_icon_non_islamic_iranian_silver! Nicht-islam. Iran. Niederes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_early_eastern_iranian_nobility_03_low: "@epe_icon_non_islamic_iranian_silver! Nicht-islam. Iran. Niederes Gewand 3"
+
+ ##High###
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_early_eastern_iranian_nobility_01_high: "@epe_icon_non_islamic_iranian_gold! Nicht-islam. Iran. Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_early_eastern_iranian_nobility_02_high: "@epe_icon_non_islamic_iranian_gold! Nicht-islam. Iran. Hohes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_early_eastern_iranian_nobility_03_high: "@epe_icon_non_islamic_iranian_gold! Nicht-islam. Iran. Hohes Gewand 3"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_early_eastern_iranian_nobility_01_high: "@epe_icon_non_islamic_iranian_gold! Nicht-islam. Iran. Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_early_eastern_iranian_nobility_02_high: "@epe_icon_non_islamic_iranian_gold! Nicht-islam. Iran. Hohes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_early_eastern_iranian_nobility_03_high: "@epe_icon_non_islamic_iranian_gold! Nicht-islam. Iran. Hohes Gewand 3"
+
+##War armor
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_early_zoroatrian_war_01_low: "@epe_icon_non_islamic_iranian_bronze! Nicht-islam. Iran. Rüstung 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_early_zoroatrian_war_01_low_bronze: "@epe_icon_non_islamic_iranian_bronze! Nicht-islam. Iran. Rüstung 1 Bronze"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_early_zoroatrian_war_01_low: "@epe_icon_non_islamic_iranian_bronze! Nicht-islam. Iran. Rüstung 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_early_zoroatrian_war_01_low_bronze: "@epe_icon_non_islamic_iranian_bronze! Nicht-islam. Iran. Rüstung 1 Bronze"
+
+
+###############
+### Frühe Islam. Iranians ###
+###############
+
+### Male ###
+#Commoner#
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_early_islamic_iranian_nobility_01_common: "@epe_icon_early_islamic_iranian_bronze! Fma. Iran. Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_early_islamic_iranian_nobility_02_common: "@epe_icon_early_islamic_iranian_bronze! Fma. Iran. Gemeinen-Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_early_islamic_iranian_nobility_03_common: "@epe_icon_early_islamic_iranian_bronze! Fma. Iran. Gemeinen-Gewand 3"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_early_islamic_iranian_nobility_01_common: "@epe_icon_early_islamic_iranian_bronze! Fma. Iran. Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_early_islamic_iranian_nobility_02_common: "@epe_icon_early_islamic_iranian_bronze! Fma. Iran. Gemeinen-Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_early_islamic_iranian_nobility_03_common: "@epe_icon_early_islamic_iranian_bronze! Fma. Iran. Gemeinen-Gewand 3"
+
+#Niedere#
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_early_islamic_iranian_nobility_01_low: "@epe_icon_early_islamic_iranian_silver! Fma. Iran. Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_early_islamic_iranian_nobility_02_low: "@epe_icon_early_islamic_iranian_silver! Fma. Iran. Niederes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_early_islamic_iranian_nobility_03_low: "@epe_icon_early_islamic_iranian_silver! Fma. Iran. Niederes Gewand 3"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_early_islamic_iranian_nobility_01_low: "@epe_icon_early_islamic_iranian_silver! Fma. Iran. Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_early_islamic_iranian_nobility_02_low: "@epe_icon_early_islamic_iranian_silver! Fma. Iran. Niederes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_early_islamic_iranian_nobility_03_low: "@epe_icon_early_islamic_iranian_silver! Fma. Iran. Niederes Gewand 3"
+
+ ##High###
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_early_islamic_iranian_nobility_01_high: "@epe_icon_early_islamic_iranian_gold! Fma. Iran. Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_early_islamic_iranian_nobility_02_high: "@epe_icon_early_islamic_iranian_gold! Fma. Iran. Hohes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_early_islamic_iranian_nobility_03_high: "@epe_icon_early_islamic_iranian_gold! Fma. Iran. Hohes Gewand 3"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_early_islamic_iranian_nobility_01_high: "@epe_icon_early_islamic_iranian_gold! Fma. Iran. Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_early_islamic_iranian_nobility_02_high: "@epe_icon_early_islamic_iranian_gold! Fma. Iran. Hohes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_early_islamic_iranian_nobility_03_high: "@epe_icon_early_islamic_iranian_gold! Fma. Iran. Hohes Gewand 3"
+
+
+##War armor
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_early_iranian_war_01_low: "@epe_icon_early_islamic_iranian_bronze! Frühe Islam. Iran. Rüstung 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_early_iranian_war_01_low_bronze: "@epe_icon_early_islamic_iranian_bronze! Frühe Islam. Iran. Rüstung 1 Bronze"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_early_iranian_war_01_low: "@epe_icon_early_islamic_iranian_bronze! Frühe Islam. Iran. Rüstung 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_early_iranian_war_01_low_bronze: "@epe_icon_early_islamic_iranian_bronze! Frühe Islam. Iran. Rüstung 1 Bronze"
+
+
+###############
+### Ost-türk. ###
+###############
+
+### Male ###
+#Commoner#
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_turkic_nobility_01_common: "@epe_icon_eastern_turkic_bronze! Ost-türk. Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_turkic_nobility_01a_common: "@epe_icon_eastern_turkic_bronze! Ost-türk. Gemeinen-Gewand 1 alt"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_turkic_nobility_02_common: "@epe_icon_eastern_turkic_bronze! Ost-türk. Gemeinen-Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_turkic_nobility_03_common: "@epe_icon_eastern_turkic_bronze! Ost-türk. Gemeinen-Gewand 3"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_turkic_nobility_01_common: "@epe_icon_eastern_turkic_bronze! Ost-türk. Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_turkic_nobility_02_common: "@epe_icon_eastern_turkic_bronze! Ost-türk. Gemeinen-Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_turkic_nobility_03_common: "@epe_icon_eastern_turkic_bronze! Ost-türk. Gemeinen-Gewand 3"
+
+#Niedere#
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_turkic_nobility_01_low: "@epe_icon_eastern_turkic_silver! Ost-türk. Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_turkic_nobility_01a_low: "@epe_icon_eastern_turkic_silver! Ost-türk. Niederes Gewand 1 alt"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_turkic_nobility_02_low: "@epe_icon_eastern_turkic_silver! Ost-türk. Niederes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_turkic_nobility_03_low: "@epe_icon_eastern_turkic_silver! Ost-türk. Niederes Gewand 3"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_turkic_nobility_01_low: "@epe_icon_eastern_turkic_silver! Ost-türk. Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_turkic_nobility_02_low: "@epe_icon_eastern_turkic_silver! Ost-türk. Niederes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_turkic_nobility_03_low: "@epe_icon_eastern_turkic_silver! Ost-türk. Niederes Gewand 3"
+
+ ##High###
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_turkic_nobility_01_high: "@epe_icon_eastern_turkic_gold! Ost-türk. Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_turkic_nobility_01a_high: "@epe_icon_eastern_turkic_gold! Ost-türk. Hohes Gewand 1 alt"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_turkic_nobility_02_high: "@epe_icon_eastern_turkic_gold! Ost-türk. Hohes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_turkic_nobility_03_high: "@epe_icon_eastern_turkic_gold! Ost-türk. Hohes Gewand 3"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_turkic_nobility_01_high: "@epe_icon_eastern_turkic_gold! Ost-türk. Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_turkic_nobility_02_high: "@epe_icon_eastern_turkic_gold! Ost-türk. Hohes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_turkic_nobility_03_high: "@epe_icon_eastern_turkic_gold! Ost-türk. Hohes Gewand 3"
+
+
+
+###############
+### Nordslaw. ###
+###############
+
+### Male ###
+#Commoner#
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_northern_slav_common_01: "@epe_icon_northern_slav_bronze! Frühes Nordslaw. Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_northern_slav_common_02: "@epe_icon_northern_slav_bronze! Frühes Nordslaw. Gemeinen-Gewand 2"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_northern_slav_common_01: "@epe_icon_northern_slav_bronze! Frühes Nordslaw. Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_northern_slav_common_02: "@epe_icon_northern_slav_bronze! Frühes Nordslaw. Gemeinen-Gewand 2"
+
+#Niedere#
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_northern_slav_noble_01_low: "@epe_icon_northern_slav_silver! Frühes Nordslaw. Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_northern_slav_noble_02_low: "@epe_icon_northern_slav_silver! Frühes Nordslaw. Niederes Gewand 2"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_northern_slav_low_01: "@epe_icon_northern_slav_silver! Frühes Nordslaw. Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_northern_slav_low_02: "@epe_icon_northern_slav_silver! Frühes Nordslaw. Niederes Gewand 2"
+
+ ##High###
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_northern_slav_noble_01_high: "@epe_icon_northern_slav_gold! Frühes Nordslaw. Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_northern_slav_noble_02_high: "@epe_icon_northern_slav_gold! Frühes Nordslaw. Hohes Gewand 2"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_northern_slav_high_01: "@epe_icon_northern_slav_gold! Frühes Nordslaw. Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_northern_slav_high_02: "@epe_icon_northern_slav_gold! Frühes Nordslaw. Hohes Gewand 2"
+
+##Königl.##
+
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_northern_slav_royalty_01: "@epe_icon_northern_slav_gold! Frühes Nordslaw. Königs-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_northern_slav_royalty_02: "@epe_icon_northern_slav_gold! Frühes Nordslaw. Königs-Gewand 2"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_northern_slav_royalty_01: "@epe_icon_northern_slav_gold! Frühes Nordslaw. Königs-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_northern_slav_royalty_02: "@epe_icon_northern_slav_gold! Frühes Nordslaw. Königs-Gewand 2"
+
+##War armor
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_northern_slav_war_01_common: "@epe_icon_northern_slav_bronze! Frühe Nordslaw. Rüstung 1"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_northern_slav_war_01_common: "@epe_icon_northern_slav_bronze! Frühe Nordslaw. Rüstung 1"
+
+
+
+###############
+### Kuman. ###
+###############
+
+### Male ###
+#Commoner#
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_Cuman_nobility_01_common: "@epe_icon_cuman_bronze! Kuman. Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_Cuman_nobility_01a_common: "@epe_icon_cuman_bronze! Kuman. Gemeinen-Gewand 1 alt"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_Cuman_nobility_02_common: "@epe_icon_cuman_bronze! Kuman. Gemeinen-Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_Cuman_nobility_03_common: "@epe_icon_cuman_bronze! Kuman. Gemeinen-Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_Cuman_nobility_04_common: "@epe_icon_cuman_bronze! Kuman. Gemeinen-Gewand 4"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_Cuman_nobility_01_common: "@epe_icon_cuman_bronze! Kuman. Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_Cuman_nobility_02_common: "@epe_icon_cuman_bronze! Kuman. Gemeinen-Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_Cuman_nobility_03_common: "@epe_icon_cuman_bronze! Kuman. Gemeinen-Gewand 3"
+
+#Niedere#
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_Cuman_nobility_01_low: "@epe_icon_cuman_silver! Kuman. Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_Cuman_nobility_01a_low: "@epe_icon_cuman_silver! Kuman. Niederes Gewand 1 alt"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_Cuman_nobility_02_low: "@epe_icon_cuman_silver! Kuman. Niederes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_Cuman_nobility_03_low: "@epe_icon_cuman_silver! Kuman. Niederes Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_Cuman_nobility_04_low: "@epe_icon_cuman_silver! Kuman. Niederes Gewand 4"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_Cuman_nobility_01_low: "@epe_icon_cuman_silver! Kuman. Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_Cuman_nobility_02_low: "@epe_icon_cuman_silver! Kuman. Niederes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_Cuman_nobility_03_low: "@epe_icon_cuman_silver! Kuman. Niederes Gewand 3"
+
+ ##High###
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_Cuman_nobility_01_high: "@epe_icon_cuman_gold! Kuman. Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_Cuman_nobility_01a_high: "@epe_icon_cuman_gold! Kuman. Hohes Gewand 1 alt"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_Cuman_nobility_02_high: "@epe_icon_cuman_gold! Kuman. Hohes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_Cuman_nobility_03_high: "@epe_icon_cuman_gold! Kuman. Hohes Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_Cuman_nobility_04_high: "@epe_icon_cuman_gold! Kuman. Hohes Gewand 4"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_Cuman_nobility_01_high: "@epe_icon_cuman_gold! Kuman. Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_Cuman_nobility_02_high: "@epe_icon_cuman_gold! Kuman. Hohes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_Cuman_nobility_03_high: "@epe_icon_cuman_gold! Kuman. Hohes Gewand 3"
+
+
+##War armor
+
+
+
+
+###############
+### Uigur. ###
+###############
+
+### Male ###
+#Commoner#
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_uyghur_nobility_01_common: "@epe_icon_uyghur_bronze! Uigur. Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_uyghur_nobility_02_common: "@epe_icon_uyghur_bronze! Uigur. Gemeinen-Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_uyghur_nobility_03_common: "@epe_icon_uyghur_bronze! Uigur. Gemeinen-Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_uyghur_nobility_04_common: "@epe_icon_uyghur_bronze! Uigur. Gemeinen-Gewand 4"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_uyghur_nobility_05_common: "@epe_icon_uyghur_bronze! Uigur. Gemeinen-Gewand 5"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_uyghur_nobility_01_common: "@epe_icon_uyghur_bronze! Uigur. Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_uyghur_nobility_02_common: "@epe_icon_uyghur_bronze! Uigur. Gemeinen-Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_uyghur_nobility_03_common: "@epe_icon_uyghur_bronze! Uigur. Gemeinen-Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_uyghur_nobility_04_common: "@epe_icon_uyghur_bronze! Uigur. Gemeinen-Gewand 4"
+
+#Niedere#
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_uyghur_nobility_01_low: "@epe_icon_uyghur_silver! Uigur. Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_uyghur_nobility_02_low: "@epe_icon_uyghur_silver! Uigur. Niederes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_uyghur_nobility_03_low: "@epe_icon_uyghur_silver! Uigur. Niederes Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_uyghur_nobility_04_low: "@epe_icon_uyghur_silver! Uigur. Niederes Gewand 4"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_uyghur_nobility_05_low: "@epe_icon_uyghur_silver! Uigur. Niederes Gewand 5"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_uyghur_nobility_01_low: "@epe_icon_uyghur_silver! Uigur. Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_uyghur_nobility_02_low: "@epe_icon_uyghur_silver! Uigur. Niederes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_uyghur_nobility_03_low: "@epe_icon_uyghur_silver! Uigur. Niederes Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_uyghur_nobility_04_low: "@epe_icon_uyghur_silver! Uigur. Niederes Gewand 4"
+
+ ##High###
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_uyghur_nobility_01_high: "@epe_icon_uyghur_gold! Uigur. Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_uyghur_nobility_02_high: "@epe_icon_uyghur_gold! Uigur. Hohes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_uyghur_nobility_03_high: "@epe_icon_uyghur_gold! Uigur. Hohes Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_uyghur_nobility_04_high: "@epe_icon_uyghur_gold! Uigur. Hohes Gewand 4"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_uyghur_nobility_05_high: "@epe_icon_uyghur_gold! Uigur. Hohes Gewand 5"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_uyghur_nobility_01_high: "@epe_icon_uyghur_gold! Uigur. Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_uyghur_nobility_02_high: "@epe_icon_uyghur_gold! Uigur. Hohes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_uyghur_nobility_03_high: "@epe_icon_uyghur_gold! Uigur. Hohes Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_uyghur_nobility_04_high: "@epe_icon_uyghur_gold! Uigur. Hohes Gewand 4"
+
+##War armor
+
+
+
+###############
+### Chines. ###
+###############
+
+### Male ###
+#Commoner#
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_chinese_nobility_01_common: "@epe_icon_chinese_bronze! Chines. Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_chinese_nobility_02_common: "@epe_icon_chinese_bronze! Chines. Gemeinen-Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_chinese_nobility_03_common: "@epe_icon_chinese_bronze! Chines. Gemeinen-Gewand 3"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_chinese_nobility_01_common: "@epe_icon_chinese_bronze! Chines. Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_chinese_nobility_02_common: "@epe_icon_chinese_bronze! Chines. Gemeinen-Gewand 2"
+
+#Niedere#
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_chinese_nobility_01_low: "@epe_icon_chinese_silver! Chines. Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_chinese_nobility_02_low: "@epe_icon_chinese_silver! Chines. Niederes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_chinese_nobility_03_low: "@epe_icon_chinese_silver! Chines. Niederes Gewand 3"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_chinese_nobility_01_low: "@epe_icon_chinese_silver! Chines. Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_chinese_nobility_02_low: "@epe_icon_chinese_silver! Chines. Niederes Gewand 2"
+
+
+ ##High###
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_chinese_nobility_01_high: "@epe_icon_chinese_gold! Chines. Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_chinese_nobility_02_high: "@epe_icon_chinese_gold! Chines. Hohes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_chinese_nobility_03_high: "@epe_icon_chinese_gold! Chines. Hohes Gewand 3"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_chinese_nobility_01_high: "@epe_icon_chinese_gold! Chines. Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_chinese_nobility_02_high: "@epe_icon_chinese_gold! Chines. Hohes Gewand 2"
+
+
+##War armor
+
+
+
+
+
+
+
+###############
+### Gäl./Irish ###
+###############
+
+### Male ###
+#Commoner#
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_gaelic_nobility_01_common: "@epe_icon_celtic_bronze! Gäl. Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_gaelic_nobility_02_common: "@epe_icon_celtic_bronze! Gäl. Gemeinen-Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_gaelic_nobility_03_common: "@epe_icon_celtic_bronze! Gäl. Gemeinen-Gewand 3"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_gaelic_nobility_01_common: "@epe_icon_celtic_bronze! Gäl. Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_gaelic_nobility_02_common: "@epe_icon_celtic_bronze! Gäl. Gemeinen-Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_gaelic_nobility_03_common: "@epe_icon_celtic_bronze! Gäl. Gemeinen-Gewand 3"
+
+#Niedere#
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_gaelic_nobility_01_low: "@epe_icon_celtic_silver! Gäl. Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_gaelic_nobility_02_low: "@epe_icon_celtic_silver! Gäl. Niederes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_gaelic_nobility_03_low: "@epe_icon_celtic_silver! Gäl. Niederes Gewand 3"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_gaelic_nobility_01_low: "@epe_icon_celtic_silver! Gäl. Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_gaelic_nobility_02_low: "@epe_icon_celtic_silver! Gäl. Niederes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_gaelic_nobility_03_low: "@epe_icon_celtic_silver! Gäl. Niederes Gewand 3"
+
+ ##High###
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_gaelic_nobility_01_high: "@epe_icon_celtic_gold! Gäl. Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_gaelic_nobility_02_high: "@epe_icon_celtic_gold! Gäl. Hohes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_gaelic_nobility_03_high: "@epe_icon_celtic_gold! Gäl. Hohes Gewand 3"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_gaelic_nobility_01_high: "@epe_icon_celtic_gold! Gäl. Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_gaelic_nobility_02_high: "@epe_icon_celtic_gold! Gäl. Hohes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_gaelic_nobility_03_high: "@epe_icon_celtic_gold! Gäl. Hohes Gewand 3"
+
+#  ##High###
+#  PORTRAIT_MODIFIER_custom_clothes_male_clothes_gaelic_nobility_01_royalty: "@epe_icon_celtic_gold! Gäl. Hohes Gewand 1"
+#  PORTRAIT_MODIFIER_custom_clothes_male_clothes_gaelic_nobility_02_royalty: "@epe_icon_celtic_gold! Gäl. Hohes Gewand 2"
+#  PORTRAIT_MODIFIER_custom_clothes_male_clothes_gaelic_nobility_03_royalty: "@epe_icon_celtic_gold! Gäl. Hohes Gewand 3"
+
+#  PORTRAIT_MODIFIER_custom_clothes_female_clothes_gaelic_nobility_01_royalty: "@epe_icon_celtic_gold! Gäl. Hohes Gewand 1"
+#  PORTRAIT_MODIFIER_custom_clothes_female_clothes_gaelic_nobility_02_royalty: "@epe_icon_celtic_gold! Gäl. Hohes Gewand 2"
+#  PORTRAIT_MODIFIER_custom_clothes_female_clothes_gaelic_nobility_03_royalty: "@epe_icon_celtic_gold! Gäl. Hohes Gewand 3"
+
+##War armor
+
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_gaelic_war_nobility_01_common: "@epe_icon_celtic_bronze! Gäl. Adels-Rüstung 1"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_gaelic_war_nobility_01_common: "@epe_icon_celtic_bronze! Gäl. Adels-Rüstung 1"
+
+
+
+###############
+### Balto-Finn. ###
+###############
+
+### Male ###
+#Commoner#
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_balto_finnic_nobility_01_common: "@epe_icon_balto_finnic_bronze! Balto-Finn. Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_balto_finnic_nobility_02_common: "@epe_icon_balto_finnic_bronze! Balto-Finn. Gemeinen-Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_balto_finnic_nobility_03_common: "@epe_icon_balto_finnic_bronze! Balto-Finn. Gemeinen-Gewand 3"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_balto_finnic_nobility_01_common: "@epe_icon_balto_finnic_bronze! Balto-Finn. Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_balto_finnic_nobility_02_common: "@epe_icon_balto_finnic_bronze! Balto-Finn. Gemeinen-Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_balto_finnic_nobility_03_common: "@epe_icon_balto_finnic_bronze! Balto-Finn. Gemeinen-Gewand 3"
+
+#Niedere#
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_balto_finnic_nobility_01_low: "@epe_icon_balto_finnic_silver! Balto-Finn. Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_balto_finnic_nobility_02_low: "@epe_icon_balto_finnic_silver! Balto-Finn. Niederes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_balto_finnic_nobility_03_low: "@epe_icon_balto_finnic_silver! Balto-Finn. Niederes Gewand 3"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_balto_finnic_nobility_01_low: "@epe_icon_balto_finnic_silver! Balto-Finn. Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_balto_finnic_nobility_02_low: "@epe_icon_balto_finnic_silver! Balto-Finn. Niederes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_balto_finnic_nobility_03_low: "@epe_icon_balto_finnic_silver! Balto-Finn. Niederes Gewand 3"
+
+ ##High###
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_balto_finnic_nobility_01_high: "@epe_icon_balto_finnic_gold! Balto-Finn. Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_balto_finnic_nobility_02_high: "@epe_icon_balto_finnic_gold! Balto-Finn. Hohes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_balto_finnic_nobility_03_high: "@epe_icon_balto_finnic_gold! Balto-Finn. Hohes Gewand 3"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_balto_finnic_nobility_01_high: "@epe_icon_balto_finnic_gold! Balto-Finn. Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_balto_finnic_nobility_02_high: "@epe_icon_balto_finnic_gold! Balto-Finn. Hohes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_balto_finnic_nobility_03_high: "@epe_icon_balto_finnic_gold! Balto-Finn. Hohes Gewand 3"
+
+##War armor
+
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_balto_finnic_war_nobility_01_common: "@epe_icon_balto_finnic_bronze! Balto-Finn. Adels-Rüstung 1"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_balto_finnic_war_nobility_01_common: "@epe_icon_balto_finnic_bronze! Balto-Finn. Adels-Rüstung 1"
+
+
+
+
+
+
+###############
+### North africa ###
+###############
+
+### Male ###
+#Commoner#
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_maghreb_nobility_01_common: "@epe_icon_maghreb_bronze! Maghreb. Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_maghreb_nobility_02_common: "@epe_icon_maghreb_bronze! Maghreb. Gemeinen-Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_maghreb_nobility_03_common: "@epe_icon_maghreb_bronze! Maghreb. Gemeinen-Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_fp2_maghreb_nobility_04_common: "@epe_icon_maghreb_bronze! Maghreb. Gemeinen-Gewand 4"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_maghreb_nobility_01_common: "@epe_icon_maghreb_bronze! Maghreb. Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_maghreb_nobility_02_common: "@epe_icon_maghreb_bronze! Maghreb. Gemeinen-Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_maghreb_nobility_03_common: "@epe_icon_maghreb_bronze! Maghreb. Gemeinen-Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_fp2_maghreb_nobility_04_common: "@epe_icon_maghreb_bronze! Maghreb. Gemeinen-Gewand 4"
+
+#Niedere#
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_maghreb_nobility_01_low: "@epe_icon_maghreb_silver! Maghreb. Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_maghreb_nobility_02_low: "@epe_icon_maghreb_silver! Maghreb. Niederes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_maghreb_nobility_03_low: "@epe_icon_maghreb_silver! Maghreb. Niederes Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_fp2_maghreb_nobility_05_low: "@epe_icon_maghreb_silver! Maghreb. Niederes Gewand 4"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_fp2_maghreb_nobility_06_low: "@epe_icon_maghreb_silver! Maghreb. Niederes Gewand 5"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_maghreb_nobility_01_low: "@epe_icon_maghreb_silver! Maghreb. Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_maghreb_nobility_02_low: "@epe_icon_maghreb_silver! Maghreb. Niederes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_maghreb_nobility_03_low: "@epe_icon_maghreb_silver! Maghreb. Niederes Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_fp2_maghreb_nobility_05_low: "@epe_icon_maghreb_silver! Maghreb. Niederes Gewand 4"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_fp2_maghreb_nobility_06_low: "@epe_icon_maghreb_silver! Maghreb. Niederes Gewand 5"
+
+ ##High###
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_maghreb_nobility_01_high: "@epe_icon_maghreb_gold! Maghreb. Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_maghreb_nobility_02_high: "@epe_icon_maghreb_gold! Maghreb. Hohes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_maghreb_nobility_03_high: "@epe_icon_maghreb_gold! Maghreb. Hohes Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_fp2_maghreb_nobility_05_high: "@epe_icon_maghreb_gold! Maghreb. Hohes Gewand 4"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_fp2_maghreb_nobility_06_high: "@epe_icon_maghreb_gold! Maghreb. Hohes Gewand 5"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_maghreb_nobility_01_high: "@epe_icon_maghreb_gold! Maghreb. Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_maghreb_nobility_02_high: "@epe_icon_maghreb_gold! Maghreb. Hohes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_maghreb_nobility_03_high: "@epe_icon_maghreb_gold! Maghreb. Hohes Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_fp2_maghreb_nobility_05_high: "@epe_icon_maghreb_gold! Maghreb. Hohes Gewand 4"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_fp2_maghreb_nobility_06_high: "@epe_icon_maghreb_gold! Maghreb. Hohes Gewand 5"
+##War armor
+
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_fp2_maghreb_war_nobility_01: "@epe_icon_maghreb_bronze! Maghreb. Kriegsrüstung 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_fp2_maghreb_war_nobility_01: "@epe_icon_maghreb_bronze! Maghreb. Kriegsrüstung 1"
+
+
+
+
+
+##teutonic war armor
+
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_teutonic_grandmaster_war_nobility_01: "@epe_icon_western_generic_gold! Deutschorden-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_teutonic_grandmaster_war_nobility_02: "@epe_icon_western_generic_gold! Deutschorden-Gewand 2"
+
+
+###############
+### Deutsches  ###
+###############
+
+### Male ###
+#Commoner#
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_german_nobility_01_common: "@epe_icon_german_bronze! Deutsches Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_german_nobility_02_common: "@epe_icon_german_bronze! Deutsches Gemeinen-Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_german_nobility_03_common: "@epe_icon_german_bronze! Deutsches Gemeinen-Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_german_nobility_04_common: "@epe_icon_german_bronze! Deutsches Gemeinen-Gewand 4"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_german_nobility_01_common: "@epe_icon_german_bronze! Deutsches Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_german_nobility_02_common: "@epe_icon_german_bronze! Deutsches Gemeinen-Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_german_nobility_03_common: "@epe_icon_german_bronze! Deutsches Gemeinen-Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_german_nobility_04_common: "@epe_icon_german_bronze! Deutsches Gemeinen-Gewand 4"
+
+#Niedere#
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_german_nobility_01_low: "@epe_icon_german_silver! Deutsches Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_german_nobility_02_low: "@epe_icon_german_silver! Deutsches Niederes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_german_nobility_03_low: "@epe_icon_german_silver! Deutsches Niederes Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_german_nobility_04_low: "@epe_icon_german_silver! Deutsches Niederes Gewand 4"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_german_nobility_01_low: "@epe_icon_german_silver! Deutsches Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_german_nobility_02_low: "@epe_icon_german_silver! Deutsches Niederes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_german_nobility_03_low: "@epe_icon_german_silver! Deutsches Niederes Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_german_nobility_04_low: "@epe_icon_german_silver! Deutsches Niederes Gewand 4"
+
+ ##High###
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_german_nobility_01_high: "@epe_icon_german_gold! Deutsches Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_german_nobility_02_high: "@epe_icon_german_gold! Deutsches Hohes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_german_nobility_03_high: "@epe_icon_german_gold! Deutsches Hohes Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_german_nobility_04_high: "@epe_icon_german_gold! Deutsches Hohes Gewand 4"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_german_nobility_01_high: "@epe_icon_german_gold! Deutsches Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_german_nobility_02_high: "@epe_icon_german_gold! Deutsches Hohes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_german_nobility_03_high: "@epe_icon_german_gold! Deutsches Hohes Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_german_nobility_04_high: "@epe_icon_german_gold! Deutsches Hohes Gewand 4"
+
+##War armor
+
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_german_war_nobility_01_low: "@epe_icon_german_bronze! Deutsche Adels-Rüstung 1"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_german_war_nobility_01_low: "@epe_icon_german_bronze! Deutsche Adels-Rüstung 1"
+
+###Northern armor
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_northern_war_nobility_03_common: "@epe_icon_norse_silver! Nördl. Rüstung 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_northern_war_nobility_03_common: "@epe_icon_norse_silver! Nördl. Rüstung 2"
+
+
+###Frühes western armor
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_early_western_war_nobility_1: "@epe_icon_western_generic_bronze! Frühes Westl. Rüstung 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_early_western_war_nobility_1: "@epe_icon_western_generic_bronze! Frühes Westl. Rüstung 1"
+
+
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_byzantine_nobility_01_imperial: "@epe_icon_byzantine_gold! Byzant. Imperiale Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_byzantine_nobility_02_imperial: "@epe_icon_byzantine_gold! Byzant. Imperiale Gewand 2"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_byzantine_nobility_01_imperial: "@epe_icon_byzantine_gold! Byzant. Imperiale Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_byzantine_nobility_02_imperial: "@epe_icon_byzantine_gold! Byzant. Imperiale Gewand 2"
+
+ PORTRAIT_MODIFIER_custom_clothes_2_male_clothing_epe_byzantine_war_imperial_01: "@epe_icon_byzantine_gold! Byzant. Imperiale Rüstung 1"
+ PORTRAIT_MODIFIER_custom_clothes_2_female_clothing_epe_byzantine_war_imperial_01: "@epe_icon_byzantine_gold! Byzant. Imperiale Rüstung 1"
+
+###############
+### Sahel.  ###
+###############
+
+### Male ###
+#Commoner#
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_sahelian_01_common: "@epe_icon_sahelian_bronze! Sahel. Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_sahelian_02_common: "@epe_icon_sahelian_bronze! Sahel. Gemeinen-Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_sahelian_03_common: "@epe_icon_sahelian_bronze! Sahel. Gemeinen-Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_sahelian_04_common: "@epe_icon_sahelian_bronze! Sahel. Gemeinen-Gewand 4"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_sahelian_05_common: "@epe_icon_sahelian_bronze! Sahel. Gemeinen-Gewand 5"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_sahelian_06_commoner: "@epe_icon_sahelian_bronze! Sahel. Gemeinen-Gewand 6"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_sahelian_01_common: "@epe_icon_sahelian_bronze! Sahel. Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_sahelian_02_common: "@epe_icon_sahelian_bronze! Sahel. Gemeinen-Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_sahelian_03_common: "@epe_icon_sahelian_bronze! Sahel. Gemeinen-Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_sahelian_04_common: "@epe_icon_sahelian_bronze! Sahel. Gemeinen-Gewand 4"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_sahelian_05_common: "@epe_icon_sahelian_bronze! Sahel. Gemeinen-Gewand 5"
+
+#Niedere#
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_sahelian_01_low: "@epe_icon_sahelian_silver! Sahel. Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_sahelian_02_low: "@epe_icon_sahelian_silver! Sahel. Niederes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_sahelian_03_low: "@epe_icon_sahelian_silver! Sahel. Niederes Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_sahelian_04_low: "@epe_icon_sahelian_silver! Sahel. Niederes Gewand 4"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_sahelian_05_low: "@epe_icon_sahelian_silver! Sahel. Niederes Gewand 5"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_sahelian_06_low: "@epe_icon_sahelian_silver! Sahel. Niederes Gewand 6"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_sahelian_01_low: "@epe_icon_sahelian_silver! Sahel. Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_sahelian_02_low: "@epe_icon_sahelian_silver! Sahel. Niederes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_sahelian_03_low: "@epe_icon_sahelian_silver! Sahel. Niederes Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_sahelian_04_low: "@epe_icon_sahelian_silver! Sahel. Niederes Gewand 4"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_sahelian_05_low: "@epe_icon_sahelian_silver! Sahel. Niederes Gewand 4"
+
+ ##High###
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_sahelian_01_high: "@epe_icon_sahelian_gold! Sahel. Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_sahelian_02_high: "@epe_icon_sahelian_gold! Sahel. Hohes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_sahelian_03_high: "@epe_icon_sahelian_gold! Sahel. Hohes Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_sahelian_04_high: "@epe_icon_sahelian_gold! Sahel. Hohes Gewand 4"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_sahelian_05_high: "@epe_icon_sahelian_gold! Sahel. Hohes Gewand 5"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_sahelian_06_high: "@epe_icon_sahelian_gold! Sahel. Hohes Gewand 6"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_sahelian_01_high: "@epe_icon_sahelian_gold! Sahel. Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_sahelian_02_high: "@epe_icon_sahelian_gold! Sahel. Hohes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_sahelian_03_high: "@epe_icon_sahelian_gold! Sahel. Hohes Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_sahelian_04_high: "@epe_icon_sahelian_gold! Sahel. Hohes Gewand 4"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_sahelian_05_high: "@epe_icon_sahelian_gold! Sahel. Hohes Gewand 5"
+
+##War armor
+
+
+
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_western_western_spymaster_01: "@epe_icon_western_generic_silver! Westl. Spionen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_western_western_spymaster_01: "@epe_icon_western_generic_silver! Westl. Spionen-Gewand 1"
+
+
+
+
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_western_nudity_01: "Keine Gewandung"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_western_nudity_01: "$PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_western_nudity_01$"
+
+
+
+###############
+### Georg. ###
+###############
+
+### Male ###
+#Commoner#
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_georgian_01_common: "@epe_icon_georgian_bronze! Georg. Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_georgian_02_common: "@epe_icon_georgian_bronze! Georg. Gemeinen-Gewand 2"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_georgian_01_common: "@epe_icon_georgian_bronze! Georg. Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_georgian_02_common: "@epe_icon_georgian_bronze! Georg. Gemeinen-Gewand 2"
+
+#Niedere#
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_georgian_01_low: "@epe_icon_georgian_silver! Georg. Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_georgian_02_low: "@epe_icon_georgian_silver! Georg. Niederes Gewand 2"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_georgian_01_low: "@epe_icon_georgian_silver! Georg. Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_georgian_02_low: "@epe_icon_georgian_silver! Georg. Niederes Gewand 2"
+
+ ##High###
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_georgian_01_high: "@epe_icon_georgian_gold! Georg. Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_georgian_02_high: "@epe_icon_georgian_gold! Georg. Hohes Gewand 2"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_georgian_01_high: "@epe_icon_georgian_gold! Georg. Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_georgian_02_high: "@epe_icon_georgian_gold! Georg. Hohes Gewand 2"
+
+##War armor
+
+
+###############
+### Bulgar. ###
+###############
+
+### Male ###
+#Commoner#
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_bulgarian_01_common: "@epe_icon_bulgarian_bronze! Bulgar. Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_bulgarian_02_common: "@epe_icon_bulgarian_bronze! Bulgar. Gemeinen-Gewand 2"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_bulgarian_01_common: "@epe_icon_bulgarian_bronze! Bulgar. Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_bulgarian_02_common: "@epe_icon_bulgarian_bronze! Bulgar. Gemeinen-Gewand 2"
+
+#Niedere#
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_bulgarian_01_low: "@epe_icon_bulgarian_silver! Bulgar. Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_bulgarian_02_low: "@epe_icon_bulgarian_silver! Bulgar. Niederes Gewand 2"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_bulgarian_01_low: "@epe_icon_bulgarian_silver! Bulgar. Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_bulgarian_02_low: "@epe_icon_bulgarian_silver! Bulgar. Niederes Gewand 2"
+
+ ##High###
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_bulgarian_01_high: "@epe_icon_bulgarian_gold! Bulgar. Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_bulgarian_02_high: "@epe_icon_bulgarian_gold! Bulgar. Hohes Gewand 2"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_bulgarian_01_high: "@epe_icon_bulgarian_gold! Bulgar. Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_bulgarian_02_high: "@epe_icon_bulgarian_gold! Bulgar. Hohes Gewand 2"
+
+##War armor
+
+
+###############
+### Armen. ###
+###############
+
+### Male ###
+#Commoner#
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_armenian_01_common: "@epe_icon_armenian_bronze! Armen. Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_armenian_02_common: "@epe_icon_armenian_bronze! Armen. Gemeinen-Gewand 2"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_armenian_01_common: "@epe_icon_armenian_bronze! Armen. Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_armenian_02_common: "@epe_icon_armenian_bronze! Armen. Gemeinen-Gewand 2"
+
+#Niedere#
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_armenian_01_low: "@epe_icon_armenian_silver! Armen. Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_armenian_02_low: "@epe_icon_armenian_silver! Armen. Niederes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_armenian_03_low: "@epe_icon_armenian_silver! Armen. Niederes Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_armenian_04_low: "@epe_icon_armenian_silver! Armen. Niederes Gewand 4"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_armenian_01_low: "@epe_icon_armenian_silver! Armen. Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_armenian_02_low: "@epe_icon_armenian_silver! Armen. Niederes Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_armenian_3_low: "@epe_icon_armenian_silver! Armen. Niederes Gewand 3"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_armenian_04_low: "@epe_icon_armenian_silver! Armen. Niederes Gewand 4"
+
+ ##High###
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_armenian_01_high: "@epe_icon_armenian_gold! Armen. Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_armenian_02_high: "@epe_icon_armenian_gold! Armen. Hohes Gewand 2"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_armenian_01_high: "@epe_icon_armenian_gold! Armen. Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_armenian_02_high: "@epe_icon_armenian_gold! Armen. Hohes Gewand 2"
+
+##War armor
+
+
+###############
+### Südslaw. ###
+###############
+
+### Male ###
+#Commoner#
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_south_slav_01_common: "@epe_icon_south_slavs_bronze! Südslaw. Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_south_slav_02_common: "@epe_icon_south_slavs_bronze! Südslaw. Gemeinen-Gewand 2"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_south_slav_01_common: "@epe_icon_south_slavs_bronze! Südslaw. Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_south_slav_02_common: "@epe_icon_south_slavs_bronze! Südslaw. Gemeinen-Gewand 2"
+
+#Niedere#
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_south_slav_01_low: "@epe_icon_south_slavs_silver! Südslaw. Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_south_slav_02_low: "@epe_icon_south_slavs_silver! Südslaw. Niederes Gewand 2"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_south_slav_01_low: "@epe_icon_south_slavs_silver! Südslaw. Niederes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_south_slav_02_low: "@epe_icon_south_slavs_silver! Südslaw. Niederes Gewand 2"
+
+ ##High###
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_south_slav_01_high: "@epe_icon_south_slavs_gold! Südslaw. Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_south_slav_02_high: "@epe_icon_south_slavs_gold! Südslaw. Hohes Gewand 2"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_south_slav_01_high: "@epe_icon_south_slavs_gold! Südslaw. Hohes Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_south_slav_02_high: "@epe_icon_south_slavs_gold! Südslaw. Hohes Gewand 2"
+
+##War armor
+
+
+
+
+
+ PORTRAIT_MODIFIER_custom_clothes_2: "Gewandung 2"
+ PORTRAIT_MODIFIER_custom_clothes_2_male_clothes_secular_western_nudity_01: "Keine Gewandung"
+ PORTRAIT_MODIFIER_custom_clothes_2_female_clothes_secular_western_nudity_01: "Keine Gewandung"
+ PORTRAIT_MODIFIER_custom_clothes_2_male_clothes_situational_western_bedchamber_01_common: "Schlafgemach"
+ PORTRAIT_MODIFIER_custom_clothes_2_female_clothes_situational_western_bedchamber_01_common: "Schlafgemach"
+
+### Male ###
+#Commoner#
+ PORTRAIT_MODIFIER_custom_clothes_2_male_clothes_turkic_nobility_01_common: "@epe_icon_eastern_turkic_bronze! Ost-türk. Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_2_male_clothes_turkic_nobility_01a_common: "@epe_icon_eastern_turkic_bronze! Ost-türk. Gemeinen-Gewand 1 alt"
+ PORTRAIT_MODIFIER_custom_clothes_2_male_clothes_turkic_nobility_02_common: "@epe_icon_eastern_turkic_bronze! Ost-türk. Gemeinen-Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_2_male_clothes_turkic_nobility_03_common: "@epe_icon_eastern_turkic_bronze! Ost-türk. Gemeinen-Gewand 3"
+
+ PORTRAIT_MODIFIER_custom_clothes_2_female_clothes_turkic_nobility_01_common: "@epe_icon_eastern_turkic_bronze! Ost-türk. Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_2_female_clothes_turkic_nobility_02_common: "@epe_icon_eastern_turkic_bronze! Ost-türk. Gemeinen-Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_2_female_clothes_turkic_nobility_03_common: "@epe_icon_eastern_turkic_bronze! Ost-türk. Gemeinen-Gewand 3"
+
+### Vanilla Schleichumhang ###
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_situational_western_stealth_cloak_01: "Westl. Schleichumhang"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_situational_western_stealth_cloak_01: "Westl. Schleichumhang"
+
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_situational_mena_stealth_01: "Mena-Schleichumhang"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_situational_mena_stealth_01: "Mena-Schleichumhang"
+
+
+
+##########################################################################
+####Westl. muslim
+##########################################################################
+
+ PORTRAIT_MODIFIER_custom_clothes_2_male_clothes_fp2_western_muslim_common_01: "@epe_icon_mena_generic_bronze! Westl. Muslim. Gemeinen-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_2_female_clothes_fp2_western_muslim_common_01: "@epe_icon_mena_generic_bronze! Westl. Muslim. Gemeinen-Gewand 1"
+
+ PORTRAIT_MODIFIER_custom_clothes_2_male_clothes_fp2_western_muslim_nobility_01_low: "@epe_icon_mena_generic_silver! Westl. Muslim. Niederes Adels-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_2_male_clothes_fp2_western_muslim_nobility_02_low: "@epe_icon_mena_generic_silver! Westl. Muslim. Niederes Adels-Gewand 2"
+
+ PORTRAIT_MODIFIER_custom_clothes_2_female_clothes_fp2_western_muslim_nobility_01_low: "@epe_icon_mena_generic_silver! Westl. Muslim. Niederes Adels-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_2_female_clothes_fp2_western_muslim_nobility_02_low: "@epe_icon_mena_generic_silver! Westl. Muslim. Niederes Adels-Gewand 2"
+
+ PORTRAIT_MODIFIER_custom_clothes_2_male_clothes_fp2_western_muslim_nobility_01_high: "@epe_icon_mena_generic_gold! Westl. Muslim. Hohes Adels-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_2_male_clothes_fp2_western_muslim_nobility_02_high: "@epe_icon_mena_generic_gold! Westl. Muslim. Hohes Adels-Gewand 2"
+ PORTRAIT_MODIFIER_custom_clothes_2_female_clothes_fp2_western_muslim_nobility_01_high: "@epe_icon_mena_generic_gold! Westl. Muslim. Hohes Adels-Gewand 1"
+ PORTRAIT_MODIFIER_custom_clothes_2_female_clothes_fp2_western_muslim_nobility_02_high: "@epe_icon_mena_generic_gold! Westl. Muslim. Hohes Adels-Gewand 2"

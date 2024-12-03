@@ -1,0 +1,377 @@
+﻿l_german:
+
+
+ ##Aging types
+ gene_age: "Alterungstyp (nur bei älteren Charakteren sichtbar)"
+ old_1: "Alterung 1"
+ old_2: "Alterung 2"
+ old_3: "Alterung 3"
+ old_4: "Alterung 4"
+ old_beauty_1: "Schöne Alterung"
+ no_aging: "Ewig jung"
+
+ ##bust types
+ bust_clothes: "Brustkleidung"
+ bust_clothes_light: "Brustkleidung leicht"
+ bust_default: "Bust Default"
+ bust_shape_1_half: "Brustform 1 Halb"
+ bust_shape_1_full: "Brustform 1 Voll"
+ bust_shape_2_half: "Brustform 2 Halb"
+ bust_shape_2_full: "Brustform 2 Voll"
+ bust_shape_3_half: "Brustform 3 Halb"
+ bust_shape_3_full: "Brustform 3 Voll"
+ bust_shape_4_half: "Brustform 4 Halb"
+ bust_shape_4_full: "Brustform 4 Voll"
+
+ ##body hair types
+ gene_body_hair: "Körperbehaarung (nur für Männer sichtbar)"
+ body_hair_sparse: "Spärlich"
+ body_hair_avg: "Durchschnitt"
+ body_hair_dense: "Dicht"
+ body_hair_sparse_low_stubble: "Spärlich, Stoppeln"
+ body_hair_avg_low_stubble: "Durchschnitt, Stoppeln"
+ body_hair_dense_low_stubble: "Dicht, Stoppeln"
+##Wrinkles types
+ expression_brow_wrinkles: "Zornesfalten (nur bei älteren Charakteren sichtbar)"
+ brow_wrinkles_01: "Zornesfalten 1"
+ brow_wrinkles_02: "Zornesfalten 2"
+ brow_wrinkles_03: "Zornesfalten 3"
+ brow_wrinkles_04: "Zornesfalten 4"
+
+###Body types
+ body_shape_average_clothed: "Körperform bekleidet"
+#  gene_bs_body_shape: "Body Shape"
+ body_shape_average: "Durchschnitt"
+ body_shape_apple_half: "Apfel Halb"
+ body_shape_apple_full: "Apfel Voll"
+ body_shape_hourglass_half: "Sanduhr Halb"
+ body_shape_hourglass_full: "Sanduhr Voll"
+ body_shape_pear_half: "Birne Halb"
+ body_shape_pear_full: "Birne Voll"
+ body_shape_rectangle_half: "Rechteck Halb"
+ body_shape_rectangle_full: "Rechteck Voll"
+ body_shape_triangle_half: "Dreieck Halb"
+ body_shape_triangle_full: "Dreieck Voll"
+
+###Ears
+ gene_bs_ear_lobe: "Ohrläppchen"
+ vanilla_ear_lobe: "Vanilla"
+ ear_lobe_fused: "Verwachsene Ohrläppchen"
+ ear_lobe_detached: "Abgelöste Ohrläppchen"
+
+###Eyes
+ gene_bs_eye_height_inside: "Augenhöhe innen"
+ vanilla_eye_height_inside: "Vanilla"
+ eye_height_inside_neg: "Augenhöhe innen Negativ"
+ eye_height_inside_pos: "Augenhöhe innen Positiv"
+
+ gene_bs_eye_height_outisde: "Augenhöhe außen"
+ vanilla_eye_height_outisde: "Vanilla"
+ eye_height_outisde_neg: "Augenhöhe außen Negativ"
+ eye_height_outisde_pos: "Augenhöhe außen Positiv"
+
+ gene_eye_shut_bottom: "Geschlossenes Auge Oben"
+ vanilla_eye_shut_bottom: "Vanilla"
+ eye_shut_bottom: "Geschlossenes Auge unten"
+
+ gene_eye_shut_top: "Geschlossenes Auge Oben"
+ vanilla_eye_shut_top: "Vanilla"
+ eye_shut_top: "Geschlossenes Auge Oben"
+
+ gene_eye_size: "Augengröße"
+ vanilla_eye_size: "Vanilla"
+ eye_size: "Augengröße"
+
+ eye_lower_lid_def: "Unterliddefinition 1"
+ eye_lower_lid_def_02: "Unterliddefinition 2"
+
+
+###Nose
+ gene_bs_nose_central_width: "Breite der Nasenmitte"
+ vanilla_nose_central_width: "Vanilla"
+ nose_central_width_neg: "Breite der Nasenmitte Negative"
+ nose_central_width_pos: "Breite der Nasenmitte Positive"
+
+ gene_bs_nose_septum_width: "Breite des Nasenseptums"
+ vanilla_nose_septum_width: "Vanilla"
+ nose_septum_width_neg: "Breite des Nasenseptum Negative"
+ nose_septum_width_pos: "Breite des Nasenseptum Positive"
+
+ ##complexions
+ complexion_beauty_1: "Beschaffenheit Schön"
+ complexion_ugly_1: "Beschaffenheit Hässlich"
+ complexion_no_face: "Beschaffenheit Kein Gesicht (ungenutzt)"
+ complexion_8: "Beschaffenheits-Typ 8"
+ complexion_9: "Beschaffenheits-Typ 9"
+ complexion_10: "Beschaffenheits-Typ 10"
+ complexion_11: "Beschaffenheits-Typ 11"
+ complexion_12: "Beschaffenheits-Typ 12"
+ complexion_13: "Beschaffenheits-Typ 13"
+ complexion_14: "Beschaffenheits-Typ 14"
+ complexion_15: "Beschaffenheits-Typ 15"
+ complexion_16: "Beschaffenheits-Typ 16"
+ complexion_17: "Beschaffenheits-Typ 17"
+ complexion_18: "Beschaffenheits-Typ 18"
+ complexion_19: "Beschaffenheits-Typ 19"
+ complexion_20: "Beschaffenheits-Typ 20"
+ complexion_21: "Beschaffenheits-Typ 21"
+ complexion_22: "Beschaffenheits-Typ 22"
+ complexion_23: "Beschaffenheits-Typ 23"
+ complexion_24: "Beschaffenheits-Typ 24"
+ complexion_25: "Beschaffenheits-Typ 25"
+ complexion_26: "Beschaffenheits-Typ 26"
+ complexion_27: "Beschaffenheits-Typ 27"
+ complexion_28: "Beschaffenheits-Typ 28"
+ complexion_29: "Beschaffenheits-Typ 29"
+ complexion_30: "Beschaffenheits-Typ 30"
+ complexion_31: "Beschaffenheits-Typ 31"
+ complexion_32: "Beschaffenheits-Typ 32"
+ complexion_33: "Beschaffenheits-Typ 33"
+ complexion_34: "Beschaffenheits-Typ 34"
+ complexion_35: "Beschaffenheits-Typ 35"
+ complexion_36: "Beschaffenheits-Typ 36"
+ complexion_37: "Beschaffenheits-Typ 37"
+ complexion_38: "Beschaffenheits-Typ 38"
+ complexion_39: "Beschaffenheits-Typ 39"
+ complexion_40: "Beschaffenheits-Typ 40"
+ complexion_41: "Beschaffenheits-Typ 41"
+ complexion_42: "Beschaffenheits-Typ 42"
+ complexion_43: "Beschaffenheits-Typ 43"
+ complexion_44: "Beschaffenheits-Typ 44"
+ complexion_45: "Beschaffenheits-Typ 45"
+ complexion_1af: "Beschaffenheit Afrikanisch 1"
+ complexion_2af: "Beschaffenheit Afrikanisch 2"
+ complexion_3af: "Beschaffenheit Afrikanisch 3"
+ complexion_4af: "Beschaffenheit Afrikanisch 4"
+ complexion_5af: "Beschaffenheit Afrikanisch 5"
+ complexion_6af: "Beschaffenheit Afrikanisch 6"
+ complexion_7af: "Beschaffenheit Afrikanisch 7"
+ complexion_11a: "Beschaffenheit Asiatisch 11"
+ complexion_12a: "Beschaffenheit Asiatisch 12"
+ complexion_13a: "Beschaffenheit Asiatisch 13"
+ complexion_14a: "Beschaffenheit Asiatisch 14"
+ complexion_15a: "Beschaffenheit Asiatisch 15"
+ complexion_16a: "Beschaffenheit Asiatisch 16"
+
+ complexion_29a: "Beschaffenheit Asiatisch 29"
+ complexion_30a: "Beschaffenheit Asiatisch 30"
+ complexion_31a: "Beschaffenheit Asiatisch 31"
+ complexion_32a: "Beschaffenheit Asiatisch 32"
+ complexion_33a: "Beschaffenheit Asiatisch 33"
+ complexion_34a: "Beschaffenheit Asiatisch 34"
+ complexion_35a: "Beschaffenheit Asiatisch 35"
+ complexion_36a: "Beschaffenheit Asiatisch 36"
+ complexion_37a: "Beschaffenheit Asiatisch 37"
+
+
+ complexion_1in: "Beschaffenheit Indisch 1"
+ complexion_2in: "Beschaffenheit Indisch 2"
+ complexion_3in: "Beschaffenheit Indisch 3"
+ complexion_4in: "Beschaffenheit Indisch 4"
+ complexion_5in: "Beschaffenheit Indisch 5"
+ complexion_6in: "Beschaffenheit Indisch 6"
+ complexion_7in: "Beschaffenheit Indisch 7"
+ complexion_8in: "Beschaffenheit Indisch 8"
+ complexion_9in: "Beschaffenheit Indisch 9"
+ complexion_10in: "Beschaffenheit Indisch 10"
+ complexion_11in: "Beschaffenheit Indisch 11"
+ complexion_12in: "Beschaffenheit Indisch 12"
+ complexion_13in: "Beschaffenheit Indisch 13"
+ complexion_14in: "Beschaffenheit Indisch 14"
+
+
+ ##expression_eye_wrinkles
+ expression_eye_wrinkles: "Augenfalten"
+ eye_wrinkles_01: "Augenfalten 1"
+ eye_wrinkles_02: "Augenfalten 2"
+ eye_wrinkles_03: "Augenfalten 3"
+
+##expression_forehead_wrinkles
+ expression_forehead_wrinkles: "Stirnfalten"
+ forehead_wrinkles_01: "Stirnfalten 1"
+ forehead_wrinkles_02: "Stirnfalten 2"
+ forehead_wrinkles_03: "Stirnfalten 3"
+
+##expression_other
+ expression_other: "Andere Falten"
+ cheek_wrinkles_left_01: "Wangenfalten Links 1"
+ cheek_wrinkles_right_01: "Wangenfalten Rechts 1"
+ cheek_wrinkles_both_01: "Wangenfalten Beide 1"
+ nose_wrinkles_01: "Nasolabialfalten 1"
+
+
+
+##hair
+ gene_hair_type: "Genetischer Haartyp"
+ hair_straight: "Glattes Haar Gene"
+ hair_wavy: "Welliges Haar Gene"
+ hair_curly: "Lockiges Haar Gene"
+ hair_afro: "Afro-Haar Gene"
+ hair_straight_thin_beard: "Glattes, dünnes Barthaar Gene"
+ hair_straight_no_beard: "Glattes Haar(kein Bart)"
+ hair_wavy_no_beard: "Welliges Haar (kein Bart)"
+ hair_curly_no_beard: "Lockiges Haar (kein Bart)"
+ hair_afro_no_beard: "Afro-Haar (kein Bart)"
+
+
+##Face
+ gene_forehead_inner_brow_width: "Alt: Breite der Inneren Augenbraue (Depreciated)"
+ vanilla_inner_brow_width: "Vanilla"
+ inner_brow_width: "Breite Innere Augenbraue"
+
+
+##Mouth
+ gene_bs_mouth_lower_lip_profile: "Mund: Unterlippenprofil"
+ vanilla_lower_lip_profile: "Vanilla"
+ lower_lip_profile: "Unterlippenprofil"
+
+##Hair aging types
+
+ hair_aging: "Haaralterungstyp"
+ vanilla_hair_aging: "Vanilla"
+ late_hair_aging: "Späte Haaralterung"
+ no_hair_aging: "Keine Haaralterung"
+
+
+##Fantasy Ear Blenshapes
+
+ gene_bs_ears_fantasy: "Blendshapes Fantasie-Ohren"
+ vanilla_ears_fantasy: "Vanilla"
+ ears_fantasy: "Fantasie-Ohren"
+
+
+##Blend shape Eyebrow Straight
+
+ gene_bs_eyebrow_straight: "Blendshape Augenbraue Gerade"
+ vanilla_eyebrow_straight: "Vanilla"
+ eyebrow_straight: "Augenbraue Gerade"
+
+##Blend shape Head Asymmetry
+
+ gene_bs_head_asymmetry_1: "Kopfasymmetrie"
+ vanilla_head_asymmetry_1: "Vanilla"
+ head_asymmetry_1: "Kopfasymmetrie 1"
+ head_asymmetry_2: "Kopfasymmetrie 2"
+ head_asymmetry_3: "Kopfasymmetrie 3"
+ head_asymmetry_4: "Kopfasymmetrie 4"
+ head_asymmetry_5: "Kopfasymmetrie 5"
+ head_asymmetry_6: "Kopfasymmetrie 6"
+ head_asymmetry_7: "Kopfasymmetrie 7"
+ head_asymmetry_8: "Kopfasymmetrie 8"
+ head_asymmetry_9: "Kopfasymmetrie 9"
+ head_asymmetry_10: "Kopfasymmetrie 10"
+
+
+##Blend shape Head Lower Height
+
+ gene_bs_head_lower_height: "Untere Kopfformhöhe"
+ vanilla_head_lower_height: "Vanilla"
+ head_lower_height_max: "Max. Untere Kopfform"
+ head_lower_height_min: "Min. Untere Kopfform"
+
+##Blend shape Head Round Shape
+
+ gene_bs_head_round_shape: "Runde Kopfform"
+ vanilla_head_round_shape: "Vanilla"
+ head_round_shape: "Runde Kopfform"
+
+##Blend shape Nose Septum Height
+
+ gene_bs_nose_septum_height: "Nasenseptumshöhe"
+ vanilla_nose_septum_height: "Vanilla"
+ nose_septum_height: "Nasenseptumshöhe"
+
+##Blend shape Eye fold 2
+
+ gene_bs_eye_fold_2: "Epikanthus-Falte 2"
+ vanilla_eye_fold_2: "Vanilla"
+ eye_fold_2: "Epikanthus-Falte 2"
+
+##Blend shape Eye fold 2
+
+
+##Blend shape Eye Outer Width
+
+ gene_bs_eye_outer_width: "Augenaußenseite"
+ vanilla_eye_outer_width: "Vanilla"
+ eye_outer_width: "Augenaußenseite"
+
+##Blend shape Nose Flared Nostril
+
+ gene_bs_nose_flared_nostril: "Nasenlochweite"
+ vanilla_nose_flared_nostril: "Vanilla"
+ nose_flared_nostril: "Nasenlochweite"
+
+
+##Blend shape Nose Swollen
+
+ gene_bs_nose_swollen: "Nasenschwellung"
+ vanilla_nose_swollen: "Vanilla"
+ nose_swollen: "Nasenschwellung"
+
+##Blend shape Mouth Center Curve
+
+ gene_bs_mouth_center_curve: "Mundmittenkrümmung"
+ vanilla_mouth_center_curve: "Vanilla"
+ mouth_center_curve_max: "Max. Mundmittenkrümmung"
+ mouth_center_curve_min: "Min. Mundmittenkrümmung"
+
+##Blend shape Mouth Glamour Lips
+
+ gene_bs_mouth_glamour_lips: "Kussmund"
+ vanilla_mouth_glamour_lips: "Vanilla"
+ mouth_glamour_lips: "Kussmund"
+
+##Blend shape Mouth Lower Lip Forward
+
+ gene_bs_mouth_lower_lip_forward: "Unterlippenvorsprung"
+ vanilla_lower_lip_forward: "Vanilla"
+ mouth_lower_lip_forward: "Unterlippenvorsprung"
+
+##Blend shape Mouth Upper Lip Forward
+
+ gene_bs_mouth_upper_lip_forward: "Oberlippenvorsprung"
+ vanilla_upper_lip_forward: "Vanilla"
+ mouth_upper_lip_forward: "Oberlippenvorsprung"
+
+##Blend shape Face Upper Eyelid Definition
+
+ face_detail_eye_upper_lid_def: "Definition des oberen Augenlids"
+ vanilla_upper_lid_def: "Vanilla"
+ upper_lid_def: "Definition Oberen Augenlids 1"
+ upper_lid_def_2: "Definition Oberen Augenlids 2"
+
+##Blend shape Face Upper Eyelid Definition
+#  eye_socket_color_01: "Socket Darker Type 1"
+#  eye_socket_color_02: "Socket Darker Type 2"
+#  eye_socket_color_03: "Socket Darker Type 3"
+
+##Eyebrow Inner Width New
+
+ gene_eyebrow_inner_width: "Augenbraueninnenseite"
+ eyebrow_inner_width_max: "Max. Augenbraueninnenseite "
+ vanilla_eyebrow_inner_width: "Vanilla"
+ eyebrow_inner_width_min: "Min. Augenbraueninnenseite"
+
+##Blend shape Lower Lid Size
+
+ gene_bs_eye_lower_lid_size: "Größe des unteren Augenlids"
+ vanilla_eye_lower_lid_size: "Vanilla"
+ eye_lower_lid_size: "Größe Unteres Augenlid"
+
+##Blend shape Eye Shape
+
+ gene_bs_eye_shape: "Augenform"
+ vanilla_eye_shape: "Vanilla"
+ eye_shape_01: "Augenform 01 - Mandel"
+
+ ##Blend shape Nasolabial Rotation
+
+ gene_bs_nasolabial_rotation: "Nasolabialrotation"
+ vanilla_nasolabial_rotation: "Vanilla"
+ nasolabial_rotation: "Nasolabial Rotation"
+
+##Eye Saturation
+
+ eye_color_saturation: "Sättigung der Augenfarbe"
+ vanilla_eye_saturation: "Vanilla"
