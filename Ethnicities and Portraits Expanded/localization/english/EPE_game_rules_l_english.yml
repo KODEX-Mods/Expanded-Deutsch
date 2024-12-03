@@ -1,0 +1,61 @@
+﻿l_english:
+
+ rule_epe_fullface_helmets: "EPE: Enclosed Helmets"
+ setting_default_epe_fullface_helmets: "Helmets Enabled (Default)"
+ setting_default_epe_fullface_helmets_desc: "Characters are allowed to wear helmets which fully cover the head and face."
+ setting_never_epe_fullface_helmets: "Helmets Disabled"
+ setting_never_epe_fullface_helmets_desc: "Characters will not wear helmets that fully cover the head and face."
+ 
+ rule_epe_makeup_options: "EPE: Cosmetics"
+ setting_default_epe_makeup: "Cosmetics Enabled (Default)"
+ setting_default_epe_makeup_desc: "Characters will wear culturally appropriate cosmetics."
+ setting_never_epe_makeup: "Cosmetics Disabled"
+ setting_never_epe_makeup_desc: "Characters will not use cosmetic decals." 
+ 
+ 
+ rule_epe_inbred_options: "EPE: Inbred Effects"
+ setting_default_epe_inbred: "Effects Enabled (Default)"
+ setting_default_epe_inbred_desc: "Characters with the Inbred trait will have facial deformities. This is purely cosmetic and not baked into the DNA."
+ setting_disable_epe_inbred: "Effects Disabled"
+ setting_disable_epe_inbred_desc: "Characters with the Inbred trait will not have any facial deformities."  
+ 
+ 
+ rule_epe_clothes_sickness: "EPE: Sick Gown"
+ setting_default_epe_clothes_sickness: "Sick Gown Enabled (Default)"
+ setting_default_epe_clothes_sickness_desc: "Characters will wear the sick gown clothing when ill."
+ setting_never_epe_clothes_sickness: "Sick Gown Disabled"
+ setting_never_epe_clothes_sickness_desc: "Characters will not wear sick gowns and wear their title specific clothes when ill."   
+
+ rule_agot_balding: "EPE: Character Balding"
+ setting_agot_vanilla_balding: "Enabled (Default)"
+ setting_agot_vanilla_balding_desc: "Characters will bald at the same rate as the vanilla game."
+ setting_agot_no_balding: "Disabled"
+ setting_agot_no_balding_desc: "Male Characters will never become bald using the vanilla system."
+
+ rule_epe_ruler_designer_clothes: "EPE: Ruler Designer Clothes"
+ setting_default_epe_ruler_designer_cloth: "Enabled (Default)"
+ setting_default_epe_ruler_designer_cloth_desc: "Characters will wear nightgown in ruler designer."
+ setting_epe_ruler_designer_nude: "Disabled"
+ setting_epe_ruler_designer_nude_desc: "Characyers will be nude in the ruler designer."
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

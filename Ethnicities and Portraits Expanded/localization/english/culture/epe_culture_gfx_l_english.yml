@@ -1,0 +1,23 @@
+﻿l_english:
+###EPE
+ epe_east_slav_clothing_gfx: "East Slavic"
+ epe_french_clothing_gfx: "French"
+ epe_english_clothing_gfx: "English"
+
+##############################################
+
+#Placeholder cultures for reducing errors.
+
+ epe_old_butr: "Old Butr"
+ epe_old_butr_prefix: "Old Berber"
+ epe_old_butr_collective_noun: "Old Berbers"
+
+ epe_old_frankish: "Old Frankish"
+ epe_old_frankish_prefix: "Old Franco"
+ epe_old_frankish_collective_noun: "Old Frankish"
+
+ epe_old_gokturk: "Old Gokturk"
+ epe_old_gokturk_prefix: "Old Gokturko"
+ epe_old_gokturk_collective_noun: "Old Gokturks"
+ epe_uyghur: "Uyghur"
+
