@@ -1,0 +1,38 @@
+﻿l_english:
+
+ #Byzantine title
+#  rule_ce_byzantium_title_name: "CE: Byzantium Name"
+#  setting_ce_byzantine_empire_rule: "Byzantine (Default)"
+#  setting_ce_byzantine_empire_rule_desc: "The Greek [culture|E] realm centered around Constantinople will be known as the Byzantine Empire, a title used by post-medieval historians to refer to the surviving Roman state in the east."
+#  setting_ce_eastern_roman_empire_rule: "Eastern Rome"
+#  setting_ce_eastern_roman_empire_rule_desc: "The Greek [culture|E] realm centered around Constantinople will be known as the Eastern Roman Empire, even though they are about one thousand Roman miles from the city of Rome."
+#  setting_ce_true_roman_empire_rule: "Roman"
+#  setting_ce_true_roman_empire_rule_desc: "The Greek [culture|E] realm centered around Constantinople will be known as the Roman Empire, even though they are about one thousand Roman miles east of the city of Rome."
+#  setting_ce_romania_roman_empire_rule: "Romania"
+#  setting_ce_romania_roman_empire_rule_desc: "The Greek [culture|E] realm centered around Constantinople will be known as Romania, not to be confused with the modern state of Romania nor the Italian region of Romania...it's Romania ok?"
+ 
+ rule_ce_greek_culture_name: "CE: Greek Culture Name"
+ setting_ce_greek_culture_name_default_rule: "Greek (Default)"
+ setting_ce_greek_culture_name_default_rule_desc: "The Greek [culture|E] will be called "Greek" in game and use the vanilla Crusader Kings 3 terms."
+ setting_ce_greek_culture_name_romaios_rule: "Romaios"
+ setting_ce_greek_culture_name_romaios_rule_desc: "The Greek [culture|E] will be called "Romaios" in game and use the Culture Expanded terms."
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

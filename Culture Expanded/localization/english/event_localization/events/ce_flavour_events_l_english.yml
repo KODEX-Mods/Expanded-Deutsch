@@ -26,3 +26,15 @@
  british_flavour.0001.t: "The Sacking of Alt Clut"
  british_flavour.0001.desc: "I scramble whatever belongings I can carry before making a run for the gate. The surrounding countryside has already been plundered and much of the land has been put to the torch. It would take a while before we get to the temporary holding of Gwovan upstream of the river. While on this journey, I reflect on what had happened. \n\nThe Fortress of [GetTitleByKey('c_lennox').GetNameNoTier] has finally been sacked. Those who didn’t manage to escape the siege have either been killed or captured by the invaders. I can only imagine the horror of those who didn’t make it. \n\n As we arrive at Gwovan, it becomes increasingly clear that we won’t return to [GetTitleByKey('b_dumbarton').GetNameNoTier] in the foreseeable future. The old castle is merely a ruin now and easy picking for any outside invaders. We will have to make do with what we have left, and as such, the Kingdom of [GetTitleByKey('d_galloway').GetNameNoTier], the final bastion of the Hen Ogledd, is no more. Instead, Strathclyde rises in its place, ready to defend the [ROOT.Char.GetCulture.GetCollectiveNoun] in the future."
  british_flavour.0001.a: "We will prevail!"
+ 
+ 
+ #Iranian Flavour Events
+ iranian_flavour.0001.t: "The Rise of Adharestan"
+ iranian_flavour.0001.desc: "In ancient times, the North-Western lands of Iran were inhabited by various peoples, namely the Medes, Cadusians and Albanians, among others. When the Achaemenid Empire fell, Atropates, the Satrap of Media, continued to rule the north of the former satrapy that would come to be known as Atropatene.\n\nSince then, the locals have been heavily Eranianized and Persianized, bringing forth the various Adhari tribes that live there today; Long divided between various tribal polities, or ruled by foreign lords with no ties to the land, I have finally managed to bring the area under my rule, consolidating it into a single political entity.\n\nNo longer shall we be subject to foreigners, but rule the land ourselves. Just like Atropates before me, so too shall I forge a strong and independent Adharestan that shall stand the test of time!"
+ iranian_flavour.0001.a: "Atropates would be proud."
+ iranian_flavour.0001.b: "Eran is not yet lost!"
+ 
+ iranian_flavour.0002.t: "The Talyshi People"
+ iranian_flavour.0002.desc: "Talysh has been inhabited by Iranians since ancient times; Once known as Cadusians, the land has been ruled by various Empires and Dynasties who varyingly influenced the local culture, giving rise to Deilami, Adhari, Gilaki and more.\n\nWith our recent policy of solidifying the area under a single political entity, the locals have started to once again shift their identity towards a new Talyshi one."
+ iranian_flavour.0002.a: "We should promote this trend!"
+ iranian_flavour.0002.b: "They are the same people as they were before."

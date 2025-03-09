@@ -1,0 +1,34 @@
+﻿#Taken from WtWSMS-CK3; used with permission
+l_english:
+ #Heritage/Linguistic Drift
+ ## Language Drift
+ ce_bp_heritage_linguistic_drift.0002.t: "Linguistic Drift"
+ ce_bp_heritage_linguistic_drift.0002.desc: "As time goes on and polities change and people move, languages begin to change. Regional variations build up, until the spoken language can no longer be called the same. This has occurred in the [shift_culture.GetName] culture, whose tongue has now deviated significantly from its old form."
+ ce_bp_heritage_linguistic_drift.0002.middle_english.as_english_culture.desc: "The hybridization of Anglo-Saxon and Frankish peoples that produced [shift_culture.GetName] yielded some profound shifts in the common tongue. Influence from the ruler's culture is rapidly changing not only the vocabulary, but also the orthography and even grammer of the common tongue!\n\nWhile still recognizably a Germanic language, the [shift_culture.GetCollectiveNoun] are now speaking something radically different than what preceded this development..."
+ ce_bp_heritage_linguistic_drift.0002.middle_english.not_as_english_culture.desc: "The conquest of the [shift_culture.GetName] by Frankish peoples has produced some profound shifts in the common tongue. Influence from the ruler's culture is rapidly changing not only the vocabulary, but also the orthography and even grammer of the common tongue!\n\nWhile still recognizably a Germanic language, the [shift_culture.GetCollectiveNoun] are now speaking something radically different than what preceded this development..."
+ ce_bp_heritage_linguistic_drift.0002.accept: "As times change, so must we"
+ ce_bp_heritage_linguistic_drift.0002.accept.tooltip: "Your [culture|E]'s [language|E] has changed to [shift_culture.GetLanguage.GetName|V]"
+ ce_bp_heritage_linguistic_drift.0003.t: "$ce_bp_heritage_linguistic_drift.0002.t$"
+ ce_bp_heritage_linguistic_drift.0003.middle_english.desc: "$ce_bp_heritage_linguistic_drift.0002.middle_english.desc$"
+ ce_bp_heritage_linguistic_drift.0003.middle_english.as_english_culture.desc: "$ce_bp_heritage_linguistic_drift.0002.middle_english.as_english_culture.desc$"
+ ce_bp_heritage_linguistic_drift.0003.middle_english.not_as_english_culture.desc: "$ce_bp_heritage_linguistic_drift.0002.middle_english.not_as_english_culture.desc$"
+ ce_bp_heritage_linguistic_drift.0003.desc: "$ce_bp_heritage_linguistic_drift.0002.desc$"
+ ce_bp_heritage_linguistic_drift.0003.accept_same_culture: "$ce_bp_heritage_linguistic_drift.0002.accept$"
+ ce_bp_heritage_linguistic_drift.0003.accept_same_culture.tooltip: "$ce_bp_heritage_linguistic_drift.0002.accept.tooltip$"
+ ce_bp_heritage_linguistic_drift.0003.accept_different_culture: "I see"
+ ce_bp_heritage_linguistic_drift.0003.accept_different_culture.tooltip: "The [shift_culture.GetName] [culture|E]'s [language|E] has changed to [shift_culture.GetLanguage.GetName|V]"
+ ## Language Tooltips
+ ## Heritage Drift
+ ce_bp_heritage_linguistic_drift.0102.t: "Customary Drift"
+ ce_bp_heritage_linguistic_drift.0102.alan.desc: "Once, the [shift_culture.GetCollectiveNoun] ruled the Steppes like their Scythian ancestors. Generations of encroachment have pushed the [shift_culture.GetCollectiveNoun] further and further towards the Caucasuses, were they settled in number.\n\nNow, they have taken on more and more of the mannerisms of the neighbors, and the [shift_culture.GetName] people's practices have changed enough to be consider Caucasian..."
+ ce_bp_heritage_linguistic_drift.0102.desc: "As time goes on, customs begin to differ, until the point where they are no longer recognizable to ones ancestors. This has occurred for the [shift_culture.GetName] people, whose ways have clearly changed from the past."
+ ce_bp_heritage_linguistic_drift.0102.accept: "As times change, so must we"
+ ce_bp_heritage_linguistic_drift.0102.accept.tooltip: "Your [culture|E]'s [heritage|E] has changed to [shift_culture.GetHeritage.GetName|V]"
+ ce_bp_heritage_linguistic_drift.0103.t: "$ce_bp_heritage_linguistic_drift.0102.t$"
+ ce_bp_heritage_linguistic_drift.0103.alan.desc: "$ce_bp_heritage_linguistic_drift.0102.alan.desc$"
+ ce_bp_heritage_linguistic_drift.0103.desc: "$ce_bp_heritage_linguistic_drift.0102.desc$"
+ ce_bp_heritage_linguistic_drift.0103.accept_same_culture: "$ce_bp_heritage_linguistic_drift.0102.accept$"
+ ce_bp_heritage_linguistic_drift.0103.accept_same_culture.tooltip: "$ce_bp_heritage_linguistic_drift.0102.accept.tooltip$"
+ ce_bp_heritage_linguistic_drift.0103.accept_different_culture: "I see"
+ ce_bp_heritage_linguistic_drift.0103.accept_different_culture.tooltip: "The [shift_culture.GetName] [culture|E]'s [heritage|E] has changed to [shift_culture.GetHeritage.GetName|V]"
+ 

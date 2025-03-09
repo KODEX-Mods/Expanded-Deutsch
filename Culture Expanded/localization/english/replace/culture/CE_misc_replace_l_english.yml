@@ -14,6 +14,8 @@
  language_east_slavic_name: "Old East Slavic"
  heritage_tocharian_name: "Serindian"
 
+ heritage_magyar_name: "Yugrian"
+
  #=======
  language_east_slavic_name: "East Slavonic"
  language_israelite_name: "Hebrew"
@@ -37,9 +39,9 @@
  russian_collective_noun: "Rus'"
 
  #Greek to Romaioi
- greek: "Romaios"
- greek_prefix: "Romaioi"
- greek_collective_noun: "Romaioi"
+ ce_greek: "Romaios"
+ ce_greek_prefix: "Romaioi"
+ ce_greek_collective_noun: "Romaioi"
 
  tajik: "Khorasani"
  tajik_prefix: "Khorasani"
@@ -78,7 +80,7 @@
 
  # Upper Saxon
  upper_saxon_noun: "Upper Saxon"
- upper_saxon_prefix: "Obersaxo"
+ upper_saxon_prefix: "Upper Saxo"
  upper_saxon_collective_noun: "Upper Saxons"
 
  # German to Germanic
@@ -89,3 +91,11 @@
 
  # BULGARIAN HISTORY
  bulgarian_history_loc: "Formed from [CULTURE.GetName] and [southslavic|E] around the year [DATE.GetYear]"
+
+
+ bactrian: "Bactrian"
+ bactrian_prefix: "Bactro"
+ bactrian_collective_noun: "Bactrians"
+
+ # LOMBARD HISTORY
+ ce_lombard_history_loc: "Formed from [CULTURE.GetName] and [CULTURE.GetName] Frankish conquest of northern Italy in [DATE.GetYear]"

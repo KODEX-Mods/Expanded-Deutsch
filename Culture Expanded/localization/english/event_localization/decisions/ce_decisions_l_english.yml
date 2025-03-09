@@ -107,4 +107,12 @@
  restore_hen_ogledd_decision.preview.ttb: "You will get [GetTitleByKey('d_cumbria').GetName]"
  restore_hen_ogledd_decision.preview.ttc: "[GetTitleByKey('d_cumbria').GetNameNoTier] and [GetTitleByKey('d_galloway').GetNameNoTier] will become [de_jure|E] of [GetTitleByKey('k_cumbria').GetNameNoTier]"
  restore_hen_ogledd_decision.preview.ttd: "If owned, the [titles|E] of [GetTitleByKey('d_lothian').GetNameNoTier], [GetTitleByKey('d_lancaster').GetNameNoTier], [GetTitleByKey('d_northumberland').GetNameNoTier] and [GetTitleByKey('d_york').GetNameNoTier] will become [de_jure|E] of [GetTitleByKey('k_cumbria').GetNameNoTier]"
+ 
+ restore_pengwern_decision_title: "Restore the Borders of Powys"
+ restore_pengwern_decision_desc: "The Kingdom of Pengwern was a powerful post-roman and early medieval Briton Kingdom located in the Western Midlands. \n\nOnce a regional hegemon of Britain, Pengwern has long since been absorbed by Mercia with its last remains evolving into the remnants of Powys as well as the by now fallen kingdom of Ergyng.\n\nRestoring this Kingdom should be the first step towards the reconquest of all Britain from the Saxon invaders."
+ restore_pengwern_decision_tooltip: "Restore Pengwern's Borders"
+ restore_pengwern_decision_confirm: "A Great Realm Reforged"
+ 
+ restore_pengwern_decision.preview.tta: "You will get [GetTitleByKey('d_ergyng').GetName]"
+ restore_pengwern_decision.preview.ttb: "The borders of [GetTitleByKey('d_powys').GetNameNoTier] and [GetTitleByKey('k_wales').GetNameNoTier] will be extended to the River Severn"
 

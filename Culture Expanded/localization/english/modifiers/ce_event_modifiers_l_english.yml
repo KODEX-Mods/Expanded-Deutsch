@@ -52,3 +52,6 @@
  
  ce_gs_german_settlement_modifier: "Foreign Settlement"
  ce_gs_german_settlement_modifier_desc: "We have invited communites from all over to settle in this county in order to develop it\n\n"
+ 
+ ce_wylish_marauders: "Wylish Communities"
+ ce_wylish_marauders_desc: "There exists a sizeable Briton community in this county"
