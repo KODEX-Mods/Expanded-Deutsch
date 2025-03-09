@@ -1,0 +1,18 @@
+﻿l_english:
+
+ #Byzantine title
+#  rule_ce_byzantium_title_name: "CE: Name von Byzanz"
+#  setting_ce_byzantine_empire_rule: "Byzanz (Default)"
+#  setting_ce_byzantine_empire_rule_desc: "Das griechische [culture|E]-Gebiet um Konstantinopel wird als Byzantinisches Reich bekannt sein, ein Titel, der von neuzeitlichen Historikern verwendet wird, um die Überreste des Römischen Reiches im Osten zu bezeichnen."
+#  setting_ce_eastern_roman_empire_rule: "Ostrom"
+#  setting_ce_eastern_roman_empire_rule_desc: "Das griechische [culture|E]-Gebiet um Konstantinopel wird als Oströmisches Reich bekannt sein, wenngleich sie etwa tausend Römische Meilen von der Stadt Rom entfernt liegt."
+#  setting_ce_true_roman_empire_rule: "Rom"
+#  setting_ce_true_roman_empire_rule_desc: "Das griechische [culture|E]-Gebiet um Konstantinopel wird als Römisches Reich bekannt sein, wenngleich sie etwa tausend Römische Meilen von der Stadt Rom entfernt liegt."
+#  setting_ce_romania_roman_empire_rule: "Romanien"
+#  setting_ce_romania_roman_empire_rule_desc: "Das griechische [culture|E]-Gebiet um Konstantinopel wird als Romanien, oder Romania bezeichnet. Als solches bezeichneten es seine Bürger, die Romaioi auch selbst. Byzanz oder Byzantiner sind moderne Begriffe."
+
+ rule_ce_greek_culture_name: "CE: Name der griechischen Kutltur"
+ setting_ce_greek_culture_name_default_rule: "Griechisch (Standard)"
+ setting_ce_greek_culture_name_default_rule_desc: "Die griechische [culture|E] wird im Spiel „Griechisch“ genannt und nutzt die Vanilla-Begriffe von Crusader Kings 3."
+ setting_ce_greek_culture_name_romaios_rule: "Romaios"
+ setting_ce_greek_culture_name_romaios_rule_desc: "Die griechische [culture|E] wird im Spiel Rhomäisch genannt und nutzt die Begriffe von Culture Expanded."

@@ -1,0 +1,11 @@
+﻿l_english:
+ game_concept_bp_monolithic_culture_tradition: "Monolithic Culture Tradition"
+ game_concept_bp_monolithic_culture_tradition_desc: "A culture tradition that makes [divergent_cultures|E] and [hybrid_cultures|E] more difficult to create as a character of this culture. Has the following effects:\n\n$EFFECT_LIST_BULLET$Creating a [hybrid_culture|E] requires having a [duchy|E] or better.\n$EFFECT_LIST_BULLET$[divergent_cultures|E] are #N 150%#! more expensive to create\n$EFFECT_LIST_BULLET$#EMP Cannot#! create [divergent_culture|E] or [hybrid_culture|E] with this tradition if your [culture_head|E] is your [liege|E] or above, or your [culture_head|E] is a fellow vassal."
+
+ CULTURE_HEAD_CANNOT_DIVERGE_TRIGGER: "You cannot diverge or hybridize as your [culture_head|E] is currently your [liege|E] or they are a fellow vassal."
+
+ UNDER_CULTURE_HEAD_CANNOT_DIVERGE_TRIGGER: "You cannot diverge or hybridize as your [culture_head|E] is currently your liege."
+
+ MUST_HAVE_DUCHY_HYBRIDIZE_TRIGGER: "You must be [duchy|E] tier or better to hybridize."
+
+ HEAD_OF_CULTURE_CANNOT_DIVERGE: "A [culture_head|E] cannot diverge a culture [Character.GetSheHe] heads."
