@@ -25,6 +25,25 @@
 #  PORTRAIT_MODIFIER_custom_legwear_male_legwear_secular_mena_nobility_01: "Mena Nobility Legwear"
 #  PORTRAIT_MODIFIER_custom_legwear_female_legwear_secular_mena_nobility_01: "Mena Nobility Legwear"
 
+#############
+### Late Medieval Western
+#############
+
+ PORTRAIT_MODIFIER_custom_clothes_m_epe_late_western_nobility_lo_01: "Late Low Nobility 01"
+ PORTRAIT_MODIFIER_custom_clothes_m_epe_late_western_nobility_lo_02: "Late Low Nobility 02"
+ PORTRAIT_MODIFIER_custom_clothes_m_epe_late_western_nobility_lo_03: "Late Low Nobility 03"
+
+ PORTRAIT_MODIFIER_custom_clothes_f_epe_late_western_nobility_lo_01: "Late Low Nobility 01"
+ PORTRAIT_MODIFIER_custom_clothes_f_epe_late_western_nobility_lo_02: "Late Low Nobility 02"
+ PORTRAIT_MODIFIER_custom_clothes_f_epe_late_western_nobility_lo_03: "Late Low Nobility 03"
+
+ PORTRAIT_MODIFIER_custom_clothes_m_epe_late_western_nobility_hi_01: "Late High Nobility 01"
+ PORTRAIT_MODIFIER_custom_clothes_m_epe_late_western_nobility_hi_02: "Late High Nobility 02"
+ PORTRAIT_MODIFIER_custom_clothes_m_epe_late_western_nobility_hi_03: "Late High Nobility 03"
+
+ PORTRAIT_MODIFIER_custom_clothes_f_epe_late_western_nobility_hi_01: "Late High Nobility 01"
+ PORTRAIT_MODIFIER_custom_clothes_f_epe_late_western_nobility_hi_02: "Late High Nobility 02"
+ PORTRAIT_MODIFIER_custom_clothes_f_epe_late_western_nobility_hi_03: "Late High Nobility 03"
 
 
 ########Cloaks

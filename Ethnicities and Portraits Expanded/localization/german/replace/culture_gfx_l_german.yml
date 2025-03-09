@@ -2,7 +2,7 @@
  african_building_gfx: "Afrikanisch"
  african_clothing_gfx: "Afrikanisch"
  anglo_saxon_clothing_gfx: "Angelsächsisch"
- anglo_saxon_coa_gfx: "Angelsächsischn"
+ anglo_saxon_coa_gfx: "Angelsächsisch"
  arabic_group_building_gfx: "Arabisch"
  arabic_group_coa_gfx: "Arabisch"
  baltic_group_coa_gfx: "Baltisch"
@@ -111,10 +111,11 @@
  western_turk_clothing_gfx: "Westtürkisch"
  magyar_clothing_gfx: "Magyarisch"
  english_clothing_gfx: "Englisch"
-
+ epe_norse_clothing_gfx: "Nordisch"
 
 ###UPE
  iranian_unit_gfx: "Iranisch"
+ west_iranian_unit_gfx: "Westiranisch"
  berber_unit_gfx: "Maghrebinisch"
  burman_unit_gfx: "Burmesisch"
  chinese_unit_gfx: "Chinesisch"
