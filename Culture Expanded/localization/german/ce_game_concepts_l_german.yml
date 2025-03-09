@@ -1,11 +1,11 @@
-﻿l_english:
- game_concept_bp_monolithic_culture_tradition: "Monolithic Culture Tradition"
- game_concept_bp_monolithic_culture_tradition_desc: "A culture tradition that makes [divergent_cultures|E] and [hybrid_cultures|E] more difficult to create as a character of this culture. Has the following effects:\n\n$EFFECT_LIST_BULLET$Creating a [hybrid_culture|E] requires having a [duchy|E] or better.\n$EFFECT_LIST_BULLET$[divergent_cultures|E] are #N 150%#! more expensive to create\n$EFFECT_LIST_BULLET$#EMP Cannot#! create [divergent_culture|E] or [hybrid_culture|E] with this tradition if your [culture_head|E] is your [liege|E] or above, or your [culture_head|E] is a fellow vassal."
+﻿l_german:
+ game_concept_bp_monolithic_culture_tradition: "Festgefügte Kultur"
+ game_concept_bp_monolithic_culture_tradition_desc: "Eine kulturelle Tradition, die es erschwert, [divergent_cultures|E] und [hybrid_cultures|E] als Charakter dieser Kultur zu erschaffen. Hat folgende Auswirkungen:\n\n$EFFECT_LIST_BULLET$Für die Erschaffung einer [hybrid_culture|E] ist ein [duchy|E] oder höher erforderlich.\n$EFFECT_LIST_BULLET$[divergent_cultures|E] sind #N 150%#! teurer in der Erschaffung\n$EFFECT_LIST_BULLET$ Kann #EMP keine#! [divergent_culture|E] oder [hybrid_culture|E] mit dieser Tradition erschaffen, wenn Euer [culture_head|E] Euer [liege|E] oder höher ist oder Euer [culture_head|E] ein Mitvasall ist."
 
- CULTURE_HEAD_CANNOT_DIVERGE_TRIGGER: "You cannot diverge or hybridize as your [culture_head|E] is currently your [liege|E] or they are a fellow vassal."
+ CULTURE_HEAD_CANNOT_DIVERGE_TRIGGER: "Ihr könnt keine Zweig- oder Mischkultur erschafften, da Euer [culture_head|E] derzeit Euer [liege|E] oder ein Mitvassal ist."
 
- UNDER_CULTURE_HEAD_CANNOT_DIVERGE_TRIGGER: "You cannot diverge or hybridize as your [culture_head|E] is currently your liege."
+ UNDER_CULTURE_HEAD_CANNOT_DIVERGE_TRIGGER: "Ihr könnt keine Zweig- oder Mischkultur erschafften, da Euer [culture_head|E] derzeit Euer Lehnsherr ist."
 
- MUST_HAVE_DUCHY_HYBRIDIZE_TRIGGER: "You must be [duchy|E] tier or better to hybridize."
+ MUST_HAVE_DUCHY_HYBRIDIZE_TRIGGER: "Ihr müsst Herrscher des [duchy|E]-Ranges or höher sein, um eine Mischkultur zu erschaffen."
 
- HEAD_OF_CULTURE_CANNOT_DIVERGE: "A [culture_head|E] cannot diverge a culture [Character.GetSheHe] heads."
+ HEAD_OF_CULTURE_CANNOT_DIVERGE: "Ein [culture_head|E] kann keine Kultur spalten, die es anführt."
