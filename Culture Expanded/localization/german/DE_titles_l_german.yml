@@ -1,6 +1,7 @@
 ﻿l_german:
- 
- e_bulgarian_empire: "Das Bulgarische Reich"
+
+  e_bulgarian_empire_article: ""
+  e_bulgarian_empire: "Bulgarisches Reich"
 
  # e_seljuk: "Das Große Seldschukenreich"
 
@@ -16,7 +17,7 @@
  k_grand_swabia: "Alemannien"
 
  k_oman: "Oman"
- 
+
  k_fake_egypt: "Ptolemäisches Königreich"
 
  k_illyria: "Illyrien"
@@ -24,6 +25,14 @@
 
  k_balaton: "Balaton"
  k_balaton_adj: "Balatonisch"
+
+ ce_talish: "Talysh"
+
+  d_talysh: "Talysch"
+  d_talysh_adj: "Talysch"
+
+  k_adharistan: "Adharestan" #fraglich
+  k_adharistan_adj: "Adhari"
 
  k_poland_lechia: "Lechland"
  k_poland_lechia_adj: "Lechitisch"
@@ -61,8 +70,17 @@
   e_russia_rus_pre: "Rus'"
 
   #Eastern Rome
-  e_eastern_roman_empire: "Oströmisches Reich"
-  e_eastern_roman_empire_adj: "Oströmisch"
+  #e_eastern_roman_empire: "Oströmisches Reich"
+  #e_eastern_roman_empire_adj: "Oströmisch"
+
+  #Byzantium Names
+
+  e_ce_romania: "Romanien"
+  e_ce_romania_adj: "Rhomäisch"
+
+  e_ce_roman_empire: "Römisches Reich"
+  e_ce_roman_empire_adj: "Römisch"
+
 
   #Cumania
   e_cumania: "Kumanien"
@@ -85,19 +103,22 @@
  k_hungary_carpathia_adj: "Karpatisch"
 
  d_szekesfehervar: "Besprim"
- d_szekesfehervar_adj: "Besprimian"
+ d_szekesfehervar_adj: "Besprimisch"
 
  d_slavonia_savia: "Savien"
  d_slavonia_savia_adj: "Savisch"
 
  d_slavonia_original: "Slawonien"
- d_slavonia_original_adj: "Slavonian"
+ d_slavonia_original_adj: "Slawonisch"
 
  d_galloway_alt_clut: "Alt Clut"
  d_galloway_alt_clut_adj: "Alt Clutisch"
 
  d_galloway_original: "Strathclyde"
  d_galloway_original_adj: "Strathclydisch"
+
+  d_ergyng: "Ergyng"
+  d_ergyng_adj: "Ergyngisch"
 
  c_lennox_gwvan: "Gwovan"
  c_lennox_gwvan_adj: "Gwovanisch"
@@ -135,32 +156,34 @@
 
  ce_strathclyde: "Cumbria"
 
+ ce_pengwern: "Pengwern"
+
  wendish_empire: "Wendenreich"
 
- custom_samos_empire: "Samos Reich"
+ custom_samos_empire: "Reich des Samo"
 
  custom_aquitaine_full: "Aquitanien"
 
  custom_aquitaine: "Aquitanien"
 
  custom_frisia01: "Friesland"
- 
+
  ce_custom_wallachia: "Wallachei"
- 
+
  ce_custom_moldavia: "Moldawien"
 
  ce_custom_toledo: "Toledo"
- 
+
  ce_custom_damascus: "Damaskus"
- 
+
  ce_nile_river: "Nil"
- 
+
  ce_dzukija: "Dzukija"
- 
+
  ce_byzantine_frontier: "Byzantinische Grenze"
- 
+
  ce_southern_andalusia: "Süd-Andalusien"
- 
+
  ce_northern_iberia: "Nord-Iberien"
 
   #k_frisian_kingdom: "Friesisches Königreich"
