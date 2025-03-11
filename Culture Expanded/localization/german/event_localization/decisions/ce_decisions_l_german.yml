@@ -4,7 +4,7 @@
  unite_angles_decision_desc: "England war noch nie wirklich geeint, und doch teilen wir alle ein gemeinsames Erbe und eine gemeinsame Sprache. Welche Unterschiede es auch immer geben mag, wir werden sie überwinden und eine gemeinsame Identität unter allen Anglecynn schmieden."
  unite_angles.preview.tt: "Die verschiedenen westgermanischen Völker auf den britischen Inseln werden sich zusammenschließen und angelsächsisch werden."
  unite_angles_confirm: "Für ein mächtiges Ængland!"
- 
+
 
  #Germania-Slavica Decisions
  consolidate_polish_identity_txt: "Die östlichen Lechiten vereinen"
@@ -14,7 +14,7 @@
  consolidate_polish_identity.preview.ttb: "Der [kingdom|E]-[title|E] von [GetTitleByKey('k_poland').GetNameNoTier] wird einen neuen Namen annehmen"
  consolidate_polish_identity.preview.ttc: "40% der westslawischen [counties|E] in [GetGeographicalRegion('ce_custom_poland').GetName] werden die neue [culture|E] annehmen"
  consolidate_polish_identity_confirm: "Lang leben die Söhne des Lech!"
- 
+
  consolidate_polabian_identity_txt: "Die westlichen Lechiten vereinen"
  consolidate_polabian_identity_tooltip: "Vereinigt die Lechiten von Polabien und Sorbien zu einer Kultur"
  consolidate_polabian_identity_desc: "Die Söhne des Lech besiedelten den gesamten östlichen Teil der nordeuropäischen Tiefebene und bewohnten ein riesiges Gebiet, das sich von der Elbe bis zum Bug erstreckte, wobei die Oder eine Trennlinie zwischen ihnen bildete. \n\nWir müssen die Lechiten entlang der Elbe zu einem einzigen Volk vereinen, das dem aufkommenden Sturm der expandierenden germanischen Reiche im Norden und Westen widerstehen kann. Wir werden nicht länger zwischen Obotriten und Sorben gespalten sein. Wir werden als Wenden bekannt sein, die Erben der Venetier und die wahren Herrscher dieser Länder!"
@@ -40,59 +40,59 @@
  embrace_upper_saxon_identity.preview.tta: "Sächsische [culture|E] wird als Niedersächsisch bekannt sein"
  embrace_upper_saxon_identity.preview.ttb: "Milzenische [culture|E] wird als Obersächsisch bekannt sein"
  embrace_upper_saxon_identity_confirm: "Es war unausweichlich."
- 
- 
+
+
  #Form Illyria
  found_kingdom_of_illyria_decision: "Das Illyrische Königreich gründen"
  found_kingdom_of_illyria_decision_desc: Vor vielen Jahrhunderten siedelten wir in diesen Ländern unter der Herrschaft der Römer.\n\nSeitdem hat sich viel verändert. Als die römische Herrschaft über Illyrien langsam unterging, gründeten wir viele verstreute Stammesverbände wie Raška, Kroatien oder Zachlumia. Doch geteilt sind wir schwach - die Zeit ist gekommen, unser Volk unter einem einzigen illyrischen Banner zu vereinen!"
  found_kingdom_of_illyria_decision_tooltip: "Illyrien wird ein [de_jure|E]-[kingdom|E]"
  found_kingdom_of_illyria_decision_confirm: "Hurra!"
- 
+
  illyrian_kingdom.preview.tta: "Euer alter, primärer [kingdom|E]-[title|E] wird zerstört."
  illyrian_kingdom.preview.ttb: "[GetTitleByKey('k_serbia').GetNameNoTier] und [GetTitleByKey('k_croatia').GetNameNoTier] werden zerstört und ihre angestammten Territorien werden [de_jure|E] zu [GetTitleByKey('k_illyria').GetNameNoTier] gehören"
  illyrian_kingdom.preview.ttc: "Falls gehalten, werden [GetTitleByKey('d_istria').GetNameNoTier] und [GetTitleByKey('d_vidin').GetNameNoTier] jeweils [de_jure|E] zu [GetTitleByKey('k_illyria').GetNameNoTier] gehören"
- 
+
  found_kingdom_of_illyria_with_bosnia_decision: "Das Illyrische Königreich gründen"
  found_kingdom_of_illyria_with_bosnia_decision_desc: ""Vor vielen Jahrhunderten siedelten wir in diesen Ländern unter der Herrschaft der Römer.\n\nSeitdem hat sich viel verändert. Als die römische Herrschaft über Illyrien langsam unterging, gründeten wir viele verstreute Stammesverbände wie Raška, Kroatien oder Zachlumia. Doch geteilt sind wir schwach - die Zeit ist gekommen, unser Volk unter einem einzigen illyrischen Banner zu vereinen!"
  found_kingdom_of_illyria_with_bosnia_decision_tooltip: "Illyrien wird ein [de_jure|E] [kingdom|E]"
  found_kingdom_of_illyria_with_bosnia_decision_confirm: "Hurrah!"
- 
+
  illyrian_kingdom_with_bosnia.preview.tta: "Euer alter, primärer [kingdom|E]-[title|E] wird zerstört."
  illyrian_kingdom_with_bosnia.preview.ttb: "[GetTitleByKey('k_serbia').GetNameNoTier], [GetTitleByKey('k_bosnia').GetNameNoTier] und [GetTitleByKey('k_croatia').GetNameNoTier] werden zerstört und ihre angestammten Territorien werden [de_jure|E] zu [GetTitleByKey('k_illyria').GetNameNoTier] gehören"
  illyrian_kingdom_with_bosnia.preview.ttc: "Falls gehalten, werden [GetTitleByKey('d_istria').GetNameNoTier] und [GetTitleByKey('d_vidin').GetNameNoTier] jeweils [de_jure|E] zu [GetTitleByKey('k_illyria').GetNameNoTier] gehören"
- 
+
  unite_the_illyrians_decision: "Das illyrische Erbe bewahren"
  unite_the_illyrians_decision_tooltip: "Vereinigt die Südslawen Illyriens zu einer gemeinsamen Kultur"
  unite_the_illyrians_decision_desc: "Im Laufe der Zeit gewöhnen sich die vielen unterschiedlichen Stämme Illyriens immer mehr aneinander, vor allem angesichts der fremden Reiche, die sie bei jeder sich bietenden Gelegenheit zu unterwerfen trachten.\n\nMit den richtigen Impulsen können wir diese Stimmung fördern und unser Volk nicht nur politisch, sondern auch kulturell wirklich einen."
  unite_the_illyrians.preview.tt: "Die Südslawen Illyriens werden zu einer gemeinsamen Kultur vereinigt."
  unite_the_illyrians_confirm: "Slava Iliriji!"
- 
+
  illyrian_slav.preview.tta: "Erschafft eine neue illyrische Kultur"
  illyrian_slav.preview.ttb: "Alle südslawischen [counties|E] in [GetGeographicalRegion('ce_custom_serbo_croatia').GetName], mit Ausnahme von Bulgarisch, haben eine 40%-ige Chance, zur neuen Kultur zu wechseln"
  illyrian_slav.preview.ttc: "Illyrisch wird sich dynamisch in den südslawischen Gebieten innerhalb von [GetGeographicalRegion('ce_custom_illyria').GetName] ausbreiten"
- 
+
  ce_custom_serbo_croatia: "Dinarien"
  ce_custom_illyria: "Illyrien"
- 
- 
+
+
  #Pannonian Decisions
  consolidate_danubian_frontier_decision: "Die Donaugrenze konsolidieren"
  consolidate_danubian_frontier_decision_desc: "An den Ufern der Donau liegen zahlreiche antike Festungen. Von den Römern vor Hunderten von Jahren als natürliche Verteidigungslinie genutzt, markiert der Fluss heute die Grenze zwischen den Bulgaren und den Franken. \n\nMit den richtigen Investitionen können wir diese Festungen wieder besetzen und darüber hinaus einen neuen Vorstoß zur Konsolidierung der Donaugrenze starten."
  consolidate_danubian_frontier_decision_tooltip: "Die alte römische Grenze wiederherstellen"
  consolidate_danubian_frontier_decision_confirm: "Versammelt das Reich"
- 
+
  danubian_frontier_duchy.preview.tta: "Erschafft das [duchy|E] von [GetTitleByKey('d_szekesfehervar').GetNameNoTier]"
  danubian_frontier_duchy.preview.ttb: "Die [counties|E] von [GetTitleByKey('c_szekesfehervar').GetNameNoTier], [GetTitleByKey('c_esztergom').GetNameNoTier], [GetTitleByKey('c_komarom').GetNameNoTier] und [GetTitleByKey('c_veszprem').GetNameNoTier] werden [de_jure|E]-Teil von [GetTitleByKey('d_szekesfehervar').GetNameNoTier]"
  danubian_frontier_duchy.preview.ttc: "Das [duchy|E] von [GetTitleByKey('d_szekesfehervar').GetNameNoTier] wird aufgelöst, wenn der [title|E] zerstört oder von einem Herrscher übernommen wird, der weder slawisch noch romanisch ist und der zudem das [duchy|E] von [GetTitleByKey('d_visegrad').GetNameNoTier] hält"
- 
+
  ce_custom_transdanubia: "Transdanubien"
  ce_custom_roman_pannonia: "Slawisch Pannonien"
- 
+
  restore_roman_pannonia_decision: "Pannonien vereinen"
  restore_roman_pannonia_decision_desc: "Die Fürstentümer Blatno und Savia waren in der Antike unter einer einzigen Provinzverwaltung vereint. Nach den hunnischen Invasionen wurde Pannonien jedoch dauerhaft geteilt, als Goten, Langobarden und Awaren die Gebiete um den Blatno-See besetzten, während die savischen Gebiete zu einer verwilderten Grenze zwischen den Römern und eben diesen Besatzern wurden. \n\nDoch mit dem Untergang der Awaren und der allmählichen Schwächung der fränkischen Dominanz im Großraum Pannonien ist die Zeit gekommen, dieses Unrecht zu korrigieren. Von den Alpen bis zur Donau wird Pannonien wieder triumphieren!"
  restore_roman_pannonia_decision_tooltip: "Das Pannonische Königreich gründen"
  restore_roman_pannonia_decision_confirm: "Versammelt das Reich"
- 
+
  restore_roman_pannonia.preview.tta: "Verhindert, dass das [duchy|E] von [GetTitleByKey('d_szekesfehervar').GetNameNoTier] aufgelöst wird"
  restore_roman_pannonia.preview.ttb: "Falls im Besitz, wird [GetTitleByKey('d_syrmia').GetNameNoTier] die [de_jure|E]-Hauptstadt von [GetTitleByKey('k_balaton').GetNameNoTier]"
  restore_roman_pannonia.preview.ttc: "Eine neue slawische Kultur wird entstehen"
@@ -107,3 +107,11 @@
  restore_hen_ogledd_decision.preview.ttb: "Ihr erhaltet [GetTitleByKey('d_cumbria').GetName]"
  restore_hen_ogledd_decision.preview.ttc: "[GetTitleByKey('d_cumbria').GetNameNoTier] and [GetTitleByKey('d_galloway').GetNameNoTier] wird [de_jure|E] zu [GetTitleByKey('k_cumbria').GetNameNoTier] gehören"
  restore_hen_ogledd_decision.preview.ttd: "Wenn gehalten, werden die [titles|E] von [GetTitleByKey('d_lothian').GetNameNoTier], [GetTitleByKey('d_lancaster').GetNameNoTier], [GetTitleByKey('d_northumberland').GetNameNoTier] und [GetTitleByKey('d_york').GetNameNoTier] [de_jure|E] zu [GetTitleByKey('k_cumbria').GetNameNoTier] gehören"
+
+ restore_pengwern_decision_title: "Die Grenzen von Powys wiederherstellen"
+ restore_pengwern_decision_desc: "Das Königreich von Pengwern war ein mächtiges nachrömisches und frühmittelalterliches Königreich der Britonen in den West Midlands. \n\nEinst eine regionale Großmacht in Britannien, wurde Pengwern schon vor langer Zeit von Merzien einverleibt, und seine letzten Überreste entwickelten sich zu den Relikten von Powys sowie dem inzwischen untergegangenen Königreich Ergyng. \n\nDie Wiederherstellung dieses Königreichs könnte der erste Schritt zur Rückeroberung ganz Britanniens aus den Händen der sächsischen Invasoren sein."
+ restore_pengwern_decision_tooltip: "Stellt die Grenzen von Pengwern wieder her"
+ restore_pengwern_decision_confirm: "Ein großes Reich neugeschmiedet"
+
+ restore_pengwern_decision.preview.tta: "Ihr erhaltet [GetTitleByKey('d_ergyng').GetName]"
+ restore_pengwern_decision.preview.ttb: "Die Grenzen von [GetTitleByKey('d_powys').GetNameNoTier] und [GetTitleByKey('k_wales').GetNameNoTier] werden bis an den Fluss Severn ausgedehnt"
