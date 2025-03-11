@@ -6,13 +6,13 @@
   DE_decision_event.0001.a: "Endlich!"
 
   # Restore the Kingdom of Old Saxony
-  DE_decision_event.0002.t: "Die alten Sachsen"
+  DE_decision_event.0002.t: "Die Alten Sachsen"
   DE_decision_event.0002.desc: "Das sächsische Volk war einst eine mächtige Kraft, die sich den Mächten Karls des Großen widersetzte, bis wir uns nicht mehr beugen konnten. Seit dieser schicksalhaften Zeit waren die Sachsen der Herrschaft anderer unterworfen und nicht in der Lage, ihr eigenes Schicksal zu bestimmen. Nun, da meine Feinde besiegt sind und die Unabhängigkeit erreicht wurde, ist es an der Zeit, das Königreich Sachsen wiederherzustellen! Als [founder.GetTitleAsNameNoTooltip] werde ich mein Volk in eine glorreiche Zukunft führen!"
-  DE_decision_event.0002.a: "Wieder einmal aufgerichtet!"
+  DE_decision_event.0002.a: "Mür sin' z'rügg!"
 
   #Form the Grand Duchy of Saxony
   DE_decision_event.0003.t: "Das Großherzogtum Sachsen"
-  DE_decision_event.0003.desc: "Dank meiner glanzvollen Leistungen bei der Konsolidierung der sächsischen Kernlande und des enormen Einflusses, den meine Dynastie im Heiligen Römischen Reich erlangt hat, hat [scoped_emperor.GetTitledFirstName] endlich die traditionelle Vormachtstellung Sachsens über die vielen kleinen Herzöge Deutschlands anerkannt.\n\nVon diesem Tag an werden alle meine Nachfolger den angesehenen Titel #EMP-Großherzog#! tragen, der jedem König gleichgestellt ist, um sich von den weniger bedeutenden Fürsten des Reiches abzusetzen."
+  DE_decision_event.0003.desc: "Dank meiner glanzvollen Leistungen bei der Konsolidierung der sächsischen Kernlande und des enormen Einflusses, den meine Dynastie im Heiligen Römischen Reich erlangt hat, hat [scoped_emperor.GetTitledFirstName] endlich die traditionelle Vormachtstellung Sachsens über die vielen kleinen Fürsten Deutschlands anerkannt.\n\nVon diesem Tag an werden alle meine Nachfolger den angesehenen Titel #EMP-Großherzog#! tragen, der jedem König gleichgestellt ist, um sich von den weniger bedeutenden Fürsten des Reiches abzusetzen."
   DE_decision_event.0003.a: "Saxonia erit in orbe ultima!"
 
   # Form the Grand Duchy of Franconia
@@ -22,61 +22,61 @@
 
   # Form the Grand Duchy of Swabia
   DE_decision_event.0005.t: "Das Großherzogtum Alemannien"
-  DE_decision_event.0005.desc: "Dank meiner glanzvollen Leistungen bei der Konsolidierung der badischen und schwäbischen Kernlande und des enormen Einflusses, den meine Dynastie im Heiligen Römischen Reich erlangt hat, hat [scoped_emperor.GetTitledFirstName] die traditionellen Ländereien Alemanniens endlich als über den vielen kleinen Herzögen Deutschlands stehend anerkannt.\n\nVon diesem Tag an werden alle meine Nachfolger den angesehenen Titel #EMP-Großherzog#! tragen, der jedem König ebenbürtig ist, um sich von den geringeren Fürsten des Reiches abzusetzen."
+  DE_decision_event.0005.desc: "Dank meiner ruhmreichen Verdienste bei der Konsolidierung der badischen und schwäbischen Kernlande und des enormen Einflusses, den meine Dynastie im Heiligen Römischen Reich erlangt hat, hat [scoped_emperor.GetTitledFirstName] die traditionellen Ländereien Alemanniens endlich als über den vielen kleinen Herzögen Deutschlands stehend anerkannt.\n\nVon diesem Tag an werden alle meine Nachfolger den angesehenen Titel #EMP Großherzog#! tragen, der jedem König ebenbürtig ist, um sich von den geringeren Fürsten des Reiches abzuheben.\n\n\n\n #italic Im Badnerland schallt es vom Neckar bis zum Bodensee:\n\nDas schönste Land in Deutschlands Gau’n,\ndas ist mein Badnerland.\nEs ist so herrlich anzuschaun\nund ruht in Gottes Hand.\n\nDrum grüß ich dich mein Badnerland,\ndu edle Perl’ im deutschen Land, deutschen Land.\nFrisch auf, frisch auf, frisch auf, frisch auf,\nfrisch auf, frisch auf mein Badnerland.#!\n\n\n\nUnd auch im Schwabenland singen die Menschen stimmen die Menschen, stolz auf ihren Großherzog, ihre Hymne an:\n\n #italic Eberhard, der mit dem Barte,\nWürttembergs geliebter Herr,\nSprach: „Mein Land hat kleine Städte,\nTrägt nicht Berge silberschwer;\n\nDoch ein Kleinod hält’s verborgen:\nDaß in Wäldern, noch so groß,\nIch mein Haupt kann kühnlich legen\nJedem Untertan in Schoß.“\n\nUnd es rief der Herr von Sachsen,\nDer von Bayern, der vom Rhein:\n„Graf im Bart! Ihr seid der Reichste!\nEuer Land trägt Edelstein!“#!"
   DE_decision_event.0005.a: "Alemannia erit in orbe ultima!"
 
   # Forming Bulgarian Empire
   DE_decision_event.0006.t: "Ein neues Rom erhebt sich"
   DE_decision_event.0006.desc: "Seit der Zeit von Asparuh hat unser Volk versucht, die Vormachtstellung des Oströmischen Reiches herauszufordern. Durch unsere Macht haben die Griechen ihren Einfluss auf dem Balkan verloren, und unser Reich ist an ihre Stelle getreten. Jetzt wagen wir es sogar in ganz Europa, uns mit dem alten Römischen Reich zu vergleichen, während der oströmische Kaiser und der Patriarch von Konstantinopel vor unserer Macht nur in Ehrfurcht niederknien können. Meine Familie und ich sind zur unangefochtenen Hegemonie auf der Balkanhalbinsel aufgestiegen.\n\nDie Zeit ist reif, dass ich mich als Zar der Bulgaren und als wahrer Basileus der Römer ausrufen lasse, mit all der damit verbundenen Würde und Macht. Unsere Hauptstadt wird als das Dritte Rom bekannt sein, und unser Reich wird als das wahre Römische Reich bekannt sein - ein Reich über Bulgaren und Römer!"
-  DE_decision_event.0006.a: "Ich erhebe mich nunmehr als Imperator über Bulgaren und Römer."
+  DE_decision_event.0006.a: "Ich erhebe mich nunmehr als Imperator über die Bulgaren und die Römer."
 
-  # Reform the Avar Khaganate 
+  # Reform the Avar Khaganate
   DE_decision_event.0007.t: "Das Khaganat der Awaren"
   DE_decision_event.0007.desc: "Die Awaren herrschten einst über ein riesiges Reich, das sich von der pontischen Steppe bis zu den Grenzen der Germanen erstreckte. Unfähig, den boshaften Kräften der Franken zu widerstehen, zerfiel unser Reich vor unseren Augen. Unser Kampf ums Überleben war ein harter Weg, doch heute kämpfen wir nicht mehr. Das Awaren-Khaganat ist nun wiederhergestellt und bereit, unseren Völkern eine Ära des Ruhmes und des Gedeihens zu bringen!"
   DE_decision_event.0007.a: "Auf das neue Khaganat!"
 
   # Integrate Aquitaine
-  DE_decision_event.0008.t: "Verbunden als Eins"
-  DE_decision_event.0008.desc: "dSeit der Eroberung Aquitaniens durch die Karolinger im Jahr 769 waren die Ländereien Aquitaniens das Zentrum von Streitigkeiten und Konflikten zwischen dem Adel und seinen Herrschern. Das Königreich Aquitanien hat nur dazu gedient, unser Volk zu spalten, aber damit ist jetzt Schluss. Von nun an sollen alle diesseits des Rheins lebenden Franken unter der Krone des Westfrankenreichs regiert werden."
+  DE_decision_event.0008.t: "Einig Eins"
+  DE_decision_event.0008.desc: "Seit der Eroberung Aquitaniens durch die Karolinger im Jahr 769 waren die Ländereien Aquitaniens das Zentrum von Streitigkeiten und Konflikten zwischen dem Adel und seinen Herrschern. Das Königreich Aquitanien hat nur dazu gedient, unser Volk zu spalten, aber damit ist jetzt Schluss. Von nun an sollen alle diesseits des Rheins lebenden Franken unter der Krone des Westfrankenreichs regiert werden."
   DE_decision_event.0008.a: "Lasst uns nie wieder gespalten sein."
 
   # Restore the Kingdom of Aquitaine
-  DE_decision_event.0009.t: "Nicht mehr unterwürfig"
-  DE_decision_event.0009.desc: "Zu lange war das Volk Aquitaniens der Herrschaft der abwesenden Könige im Norden Franziens unterworfen. Die jahrhundertelange Fremdbestimmung hat dazu geführt, dass die Idee eines unabhängigen Reiches wie ein ferner Traum erscheint. Doch damit ist jetzt Schluss. Unter meiner Führung ist ein freies und unabhängiges Aquitanien nicht länger ein Traum! Unser Volk ist nun frei und bereit, sein Schicksal inmitten der anderen Großmächte Europas zu suchen!"
+  DE_decision_event.0009.t: "Unser eigener Herr"
+  DE_decision_event.0009.desc: "Zu lange war das Volk Aquitaniens der Herrschaft der fernen Könige im Norden Franziens unterworfen. Die jahrhundertelange Fremdbestimmung hat dazu geführt, dass die Idee eines unabhängigen Reiches wie ein ferner Traum erscheint. Doch damit ist jetzt Schluss. Unter meiner Führung ist ein freies und unabhängiges Aquitanien nicht länger ein Traum! Unser Volk ist nun frei und bereit, sein Schicksal inmitten der anderen Großmächte Europas zu suchen!"
   DE_decision_event.0009.a: "Wir allein bestimmen unser Schicksal."
 
   # Reform Samo's Empire
-  DE_decision_event.0010.t: "Samos Reich"
+  DE_decision_event.0010.t: "Reich des Samo"
   DE_decision_event.0010.desc: "Unser Volk war einst unter der Führung von Samo vereint, der ein Reich besaß, das viele der Westslawen verband. Mit Stolz und Freude kann ich verkünden, dass Samos Reich, der "Berg der Wenden", wiedergeboren wurde! Unser Reich wird das alte Imperium übertreffen und uns in eine glorreiche Zukunft führen!"
-  DE_decision_event.0010.a: "Wir werden uns wieder vereinen"
+  DE_decision_event.0010.a: "Wir werden uns wieder Eins sein"
 
   # Restore the Frisian Kingdom
-  DE_decision_event.0011.t: "Ein wiedergeborenes Königreich"
+  DE_decision_event.0011.t: "Ein Königreich wird neu geboren"
   DE_decision_event.0011.desc: "Den Friesen gelang es in der Vergangenheit, ihre Unabhängigkeit vom fränkischen Joch zu bewahren, bis sie es nicht mehr aushielten. Jahrhunderte der Fremdherrschaft haben die Idee eines unabhängigen Reiches wie einen fernen Traum erscheinen lassen. Unter meiner Führung ist das Reich Friesland kein Traum mehr! Unser Volk ist nun frei und bereit, sein Schicksal inmitten der anderen Großmächte Europas zu suchen!"
   DE_decision_event.0011.a: "Wir sind Herr unseres Schicksals."
-  
+
   # Unifying Italy, by Flavio Verna (From Base Game)
-  DE_decision_event.0012.t: "Das Italienische Reich"
-  DE_decision_event.0012.desc: "Seit dem Untergang des Weströmischen Reiches ist die italienische Halbinsel zwischen rebellischen Stadtstaaten, gierigen Bischöfen und barbarischen Eroberern zersplittert. Doch unter der Herrschaft meiner Dynastie hat Italien die kleinlichen Machtkämpfe hinter sich gelassen, sich wieder zusammengerauft und ist zu einer dominierenden Macht im Westen aufgestiegen. Wir werden nicht länger eine Beute sein, um die sich Franken und Griechen streiten, oder die von Piraten und barbarischen Heuchlern brutalisiert wird. Von diesem Tag an nehmen wir unseren Platz als wahre Erben des Römischen Reiches wieder ein!"
-  DE_decision_event.0012.a: "Labor omnia vincit!"
-  
-  # Reforming the Carolingian Empire, by Flavio Verna (From Base Game)
-  DE_decision_event.0013.t: "Der Traum Karls des Großen"
-  DE_decision_event.0013.desc: "Europa ist wieder eins. Alle Nachkommen der Franken wurden unter ein einziges Banner gebracht und stehen vereint gegen die Ungläubigen im Westen und die Heiden im Osten. Durch die Gnade von [scoped_ruler.GetFaith.HighGodName] wurde meiner Familie das Privileg zuteil, die Krone dieses wiederhergestellten Karolingerreiches zu tragen. Und im Gegensatz zu denen, die vor uns kamen, werden wir nicht zulassen, dass dynastische Zwistigkeiten dieses große Reich auseinanderreißen."
-  DE_decision_event.0013.a: "Gelobt sei [scoped_ruler.GetFaith.HighGodName]!"
-  DE_decision_event.0014.desc: "[scoped_ruler.GetTitledFirstName] und [scoped_ruler.GetHerHis]e Armee von Franken hat so viele Länder Europas erobert, dass [scoped_ruler.GetSheHe] zu behaupten begonnen hat, dass [scoped_ruler.GetSheHe] der wahre Erbe Karls des Großen und des Weströmischen Reiches ist.\n\nDa alle ursprünglichen Provinzen und ein großer Teil Westeuropas unter seiner Kontrolle stehen, ist es für jeden schwierig geworden, diesen Anspruch zu bestreiten."
-  DE_decision_event.0014.a: "Wie kann [scoped_ruler.GetSheHe] es wagen!"
-  DE_decision_event.0014.b: "Wird dieses Reich länger bestehen, frage ich mich?"
+  DE_decision_event.0012.t: "Das italienische Reich"
+  DE_decision_event.0012.desc: "Seit dem Fall Westroms war die italienische Halbinsel aufgeteilt unter aufständischen Stadtstaaten, gierigen Bischöfen und barbarischen Eroberern.\n\nDoch unter der Herrschaft meiner Dynastie hat Italien es geschafft, die eitlen Streitereien beizulegen und wieder als Ganzes aufzuerstehen, als dominante Macht im Westen. Wir sind nicht länger Beute, die sich die Franken und Griechen aufteilen oder über die Piraten oder barbarische Thronräuber herfallen können. Von diesem Tag an werden wir uns unseren Platz als Erben des Römischen Reichs zurückholen!"
+  DE_decision_event.0012.a:0 "Labor omnia vincit!"
 
-  # Establish the Kingdom of Wallachia
-  DE_decision_event.0015.t: "Das Königreich der Walachei"
-  DE_decision_event.0015.desc: "Das Volk der Walachen hat jahrhundertelang kein Reich für sein eigenes Volk gehabt, während die Magyaren im Norden und die Bulgaren im Süden unsere Länder einem fremden Einfluss, unerwünschten Anführern und grundloser Zerstörung ausgesetzt haben. Unsere Stimmen wurden an ihren ausländischen Höfen missachtet und ungehört, doch damit ist jetzt Schluss.\n\nMit meinem Volk im Rücken und meiner Krönung zum [founder.GetTitleAsNameNoTooltip] werde ich ein goldenes Zeitalter des Wohlstands für alle Walachen innerhalb unseres Reiches einleiten."
-  DE_decision_event.0015.a: "Wir allein bestimmen unser Schicksal."
+ # Restore Zoroastrianism
+  DE_decision_event.0017.t: Eine Rückbessinung auf die alte Religion"
+  DE_decision_event.0017.desc.intro: "Es ist kein Geheimnis, dass ich... Zweifel hinsichtlich meines [old_faith.GetAdjektiv]en Glaubens hatte."
+  DE_decision_event.0017.desc.excommunicated: "Die Exkommunikation war für mich schmerzhaft, hat meine Seele auf unbillige Weise belastet und zu endlosem Zwist mit den anderen [old_faith.GetAdherentNamePluralNoTooltip] um mich herum geführt."
+  DE_decision_event.0017.desc.rivalry_with_hof: "Ständige Streitereien mit [old_faith.GetReligiousHead.GetTitledFirstName], ein kleinlicher irdischer Disput, dem [old_faith.GetReligiousHead.GetSheHe] #EMP eigentlich#! erhaben sein sollte, haben mich verzweifeln lassen."
+  DE_decision_event.0017.desc.negative_piety_level: "Meine Taten haben mich als Sünder gebrandmarkt, als jemanden, der seinen Glauben hinter sich gelassen hat, und es ist nicht zu leugnen, wie vereinsamend das war."
+  DE_decision_event.0017.desc.lorgar: "Obwohl das Feuer meines Glaubens so heiß brennt wie die Sonne, werde ich das Gefühl nicht los, dass es im Universum mehr als nur [old_faith.HighGodName] geben muss. Eine weitere Urwahrheit."
+  DE_decision_event.0017.desc.sinful_traits: "Es fühlt sich an, als wäre alles, was ich in meinem Leben tue, als von Natur aus sündhaft gebrandmarkt."
+  DE_decision_event.0017.desc.virtuous_basque_pagan_traits: "Bisweilen frage ich mich, wie ich all das überhaupt lieben konnte, wo doch meine ganze Persönlichkeit für etwas anderes #EMP geschaffen# zu sein scheint!"
+  DE_decision_event.0017.desc.naked_cynicism: "Es ist mir völlig einerlei, und schlimmer noch, ich bin völlig fasziniert von Mächten, über die ich wenig bis gar keine Kontrolle habe."
+  DE_decision_event.0017.desc.outro: "\n\nEndlich, so glaube ich, finde ich Trost bei [mazdayasna.GetName]. Diese Anhänger des alten Glaubens des alten Eran verurteilen mich nicht, sondern hoffen und sehnen sich nur nach der Wiederkehr einer Zeit, wie der des Sassanidenreichs."
+  DE_decision_event.0017.a: "[mazdayasna.GetNameNoTooltip] soll nicht länger verfolgt werden!"
 
-  # Establish the Kingdom of Moldavia
-  DE_decision_event.0016.t: "Das Königreich Moldawien"
-  DE_decision_event.0016.desc: "Das Volk der Walachen hat jahrhundertelang kein Reich für sein eigenes Volk gehabt, während die Steppenstämme im Osten und die Magyaren im Westen unsere Länder fremdem Einfluss, unerwünschten Herrschern und unprovozierten Plünderungen ausgesetzt haben. Doch damit ist jetzt Schluss.\n\nMit meinem Volk im Rücken und meiner Krönung zum [founder.GetTitleAsNameNoTooltip] werde ich ein goldenes Zeitalter des Wohlstands für alle Walachen in unserem Reich einläuten."
-  DE_decision_event.0016.a: "Wir allein bestimmen unser Schicksal."
+  # Fufill the Hadith
+  DE_decision_event.0018.t: "Die Eroberung von Konstantinopel"
+  DE_decision_event.0018.desc: "Unzählige Heere haben versucht, Konstantinopel einzunehmen, und sind gescheitert. Unsere eigenen Vorfahren sind an diesen Mauern verzweifelt, ebenso wie viele andere, die es versucht haben, diese große Stadt zu erobern. Heute haben wir Rache für sie genommen. Allah hat es so gewollt. \n\nDer Prophet sagte: „Wahrlich, Konstantinopel wird erobert! Der erobernde Kommandant, was für ein herrlicher, wunderschöner Kommandant. Die erobernde Armee, was für eine herrliche, wunderschöne Armee.“ Wir haben nun unser Schicksal erfüllt.\n\nJetzt müssen wir mit unseren Händen und unserem Verstand aus der Asche ein neues Zeitalter formen. Der Rote Apfel wurde den Gläubigen geschenkt."
+  DE_decision_event.0018.a: "Allahu Akbar!"
 
   # Establish Cairo
   DE_decision_event.0020.t: "Die Gründung von Kairo"
