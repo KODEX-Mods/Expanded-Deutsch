@@ -13,8 +13,10 @@
  game_concept_anglo_saxon: "Angelsachsen"
  game_concept_anglo_saxon_desc: "Die Angelsachsen waren eine Gruppe von Ænglisċ sprechenden Völkern, die seit der vorrömischen Zeit ab dem 5. Jahrhundert Britannien bevölkerten. \n\nDa sie von den assimilierten [romano_briton|E] und verschiedenen germanischen [mercenaries|E]-Gruppen abstammten, waren sie nie eine wirklich geeinte Kraft. Dank der Bemühungen von Schreibern wie Bede entwickelten die Ænglisċ sprechenden Bewohner der vielen germanischen [kingdoms|E] jedoch allmählich eine gemeinsame angelsächsische Identität, die sich von den Franken auf dem Festland und den britonisch sprechenden [romano_briton|E] von Wales und Cornwall unterschied."
 
+ game_concept_rus: "Rus"
  game_concept_eastslavic: "Ostslawisch"
  game_concept_east_slavs: "Ostslawen"
+ game_concept_eastslavs: "Ostslawen"
  game_concept_east_slavs_desc: "Die Ostslawen, auch bekannt als Rus oder Ruthenen, sind die Nachkommen der [old_slavs|E], die wahrscheinlich aus ihrer angestammten Heimat Podlachien gen Osten gewandert sind.\n\nDiese Ostslawen, die sich in der pontischen Steppe und den ehemals baltischen und finno-ugrischen Gebieten im Norden niederließen, gerieten allmählich unter den Einfluss der nordgermanischen Waräger und der Byzantiner, die sich vom Schwarzen Meer her allmählich nach Norden ausbreiteten. Im 9. Jahrhundert waren die Ostslawen in verschiedene Stämme aufgeteilt, die in unterschiedlicher Weise von ihren zahlreichen Nachbarn beeinflusst wurden, bevor schließlich die Kiewer Rus entstand.\n\nGeprägt von der byzantinisch und nordgermanisch beeinflussten [culture|E] und ihrem ostslawischen [heritage|E], bilden die Ostslawen das Bindeglied zwischen den [west_slavs|E] und [south_slavs|E]."
 
  game_concept_westslavic: "Westslawisch"
@@ -33,9 +35,15 @@
  game_concept_old_slavs: "Slawen"
  game_concept_old_slavs_desc: "Die Slawen sind die Vorfahren der vielen slawischen Völker, die ab dem 6. Jahrhundert n. Chr. einen Großteil Osteuropas besiedelten.\n\nWährend die genaue Herkunft und Ethnogenese der Slawen bis heute ein Rätsel bleibt, liegt die wahrscheinlichste Heimat dieser Altslawen in der Region Podlachien zwischen der Ukraine und Weißrussland, von wo aus sie nach Osten, Süden und Westen nach Ruthenien, Polen, Ostdeutschland, Pannonien und auf den Balkan zogen. Obwohl es sehr wahrscheinlich ist, dass viele slawische Völker ihren Ursprung in bereits bestehenden Völkern haben, die im Zuge dieser slawischen Wanderungen assimiliert wurden, betrachteten sie sich selbst und ihre Nachbarn bis in die frühe Neuzeit hinein mehr oder weniger als ein einziges Volk.\n\nIn diesem Spiel sind die Slawen die angestammte Kultur der verschiedenen ost-, west-, süd- und pannonischen Slawen."
 
+ game_concept_egyptian: "Ägyptisch"
+ game_concept_egyptians: "Ägypter"
+ game_concept_coptic: "Koptisch"
+ game_concept_egyptians_desc: "Die Ägypter waren die antiken Bewohner des Niltals, das sich von Aswad bis zum Nildelta erstreckt. Obgleich sie nie ganz verschwunden sind, haben die Ägypter seit dem Entstehen der ersten Dynastien im 4. Jahrtausend v. Chr. mehrere Wandlungsphasen durchlaufen. \n\nDie Eroberung Ägyptens durch Alexander den Großen hat den Weg für die allmähliche Hellenisierung der einheimischen Ägypter geebnet, welche das griechische Alphabet für ihre eigene Sprache übernahmen und sich ab dem 1. Jahrhundert n. Chr. unter römischer Herrschaft zum Christentum wandten und sich schrittweise zu den frühen Kopten entwickelten. In der jüngeren Geschichte geriet Ägypten unter die Kontrolle der islamischen Kalifate, was den Beginn der sukzessiven Arabisierung und Islamisierung der koptischen Bevölkerung vor Ort bedeutete. \n\nDie Nachkommen der alten Ägypter, die sich durch ihr ägyptisches [heritage|E] und ihre koptische [language|E] definieren, bevölkern weiterhin die Länder entlang des Nils, trotz der allmählichen sprachlichen und religiösen Umwälzung, die seit dem 7. Jahrhundert stattfindet."
+
  game_concept_iranian: "Ērānisch"
  game_concept_iranians: "Ērānier"
  game_concept_iranianized: "Ērānianisiert"
+ game_concept_daylamite: "Dailamitisch"
  game_concept_iranians_desc: "Die Ērānier, umgangssprachlich auch als Sassaniden oder bisweilen vereinfacht und irrtümlich als "Perser" bezeichnet, waren die Bevölkerung des Sassanidenreiches, dessen Eigenbezeichnung Eranschahr lautete, das den Iran vom 3. bis zum 7. Jahrhundert beherrschte.\n\nDas Haus von Sāsān, die Dynastie der Sāsāniden, stammte aus der historischen Provinz Pars und stürzte im 3. Jahrhundert n. Chr. die arsakidischen Parther, die den Iran bis dahin beherrscht hatten, und begründete damit das Sassanidenreich, das in den nächsten vier Jahrhunderten die Hochebene beherrschen sollte. Das Sassanidenreich, das sich selbst als wiederhergestelltes Achämenidenreich, das Altpersische Reich, darstellte und während des letzten sassanidisch-byzantinischen Krieges sogar beinahe die historischen Grenzen wiederhergestellt hätte, war nach jahrzehntelangem Krieg letztlich geschwächt und wurde so zu einem leichten Ziel für das junge Islamische Kalifat.\n\nNach der islamischen Eroberung des Irans begannen die vielen Völker des ehemaligen Reiches allmählich zur neuen Religion zu konvertieren, wodurch neue einheimische iranische Dynastien wie die Saffāriden oder Sāmāniden während des iranischen Intermezzos entstanden. Diese Dynastien waren nicht nur die treibende Kraft hinter der Integration von Choresmien und Sogdien in die Ērānische Sphäre, sondern auch Förderer der Kultur und der Künste, aus denen die islamisch-persische kulturelle Fusion hervorging.\n\nGeprägt durch ihr iranisches [heritage|E] und verschiedene iranische [languages|E] wie Persisch, Choresmisch oder Kaspisch, bilden die vielen Nachfahren der Ērānier immer noch die dominierende Gruppe auf der iranischen Hochebene und in Zentralasien."
 
  game_concept_scytho_sarmatian: "Ostiranisch"
@@ -46,11 +54,12 @@
  game_concept_sarmatians: "Sarmaten"
  game_concept_chorasmian: "Choresmisch"
  game_concept_chorasmians: "Chorasmier"
- game_concept_pactyran: "Pactyanisch" 
- game_concept_pactyrans: "Pactyans" #scheint laut https://de.wikipedia.org/wiki/Paschtunen die richtige Übersetzung zu sein
+ game_concept_pactyran: "Pactyanisch"
+ game_concept_pactyrans: "Pactyaner" #https://de.wikipedia.org/wiki/Paschtunen
  game_concept_saka: "Sakisch"
  game_concept_sakas: "Saken"
- game_concept_parni: "Parni"
+ game_concept_parni: "Parnisch"
+ game_concept_cadusi: "Kadusisch"
  game_concept_scytho_sarmatians_desc: "Die Ostiraner, auch bekannt als Skythen, Sarmaten oder Saken, sind ein antikes Volk, das einst die Steppen Eurasiens besiedelte und im Westen bis nach Pannonien und im Osten bis nach Schetissu, dem Siebenstromland, vordrang. Während der Zeit der Völkerwanderung zogen viele Stämme wie die Taifalen oder Alanen in das Römische Reich ein und gründeten gemeinsam mit germanischen Stämmen wie den Vandalen in Nordafrika ihre eigenen Königreiche.\n\nIn der Folge dieser Migrationen assimilierten sich die verbliebenen Ostiraner allmählich in neu entstehenden Gruppen wie den verschiedenen Turk- oder [Concept('oldslavic', 'Altslawischen')|E] Völkern, auch wenn einige wie die Alanen des Kaukasus oder die Saken des Tarimbeckens übrig blieben.\n\nGeprägt durch ihr serindisches und sarmatisches [heritage|E] sowie ihre verschiedenen iranischen [languages|E] wie Alanisch, Sogdisch oder Sakisch, sind die Ostiraner vor allem in Alanien, Kashgar, Khotan sowie in verschiedenen Regionen Indiens zu finden."
 
  game_concept_aramean: "Aramäisch"
@@ -62,3 +71,49 @@
  game_concept_aryan: "Arisch"
  game_concept_aryans: "Arier"
  game_concept_sakans: "Saken"
+
+ game_concept_germans: "Deutschen"
+ game_concept_german: "Deutsch"
+ game_concept_east_frankish: "Ostfränkisch"
+ game_concept_germans_desc: "Die Deutschen sind die Nachfahren diverser altgermanischer Stämme, die in den östlichen Gebieten des Frankenreichs lebten, wie dem Rheinland, Sachsen oder Franken.\n\nObwohl sie ursprünglich zwischen ihren einzelnen Stämmen wie den Franken, Sachsen, Alemannen und Baiern aufgeteilt waren, sprachen diese Stämme eine Reihe ähnlicher germanischer Mundarten innerhalb eines Dialektkonitnuums, die sie von den zunehmend romanisierten Franken im Westen unterschieden. Diese gemeinsame Sprache, das „Diutsch“, sollte später die Grundlage für eine gemeinsame Identität bilden, die diese Völker Mitteleuropas von ihren romanischen und slawischen Nachbarn unterschied, wenngleich sich erst in der Neuzeit ein echtes Gefühl einer gemeinsamen nationalen Identität herausbilden sollte. Dennoch wurden die Diutsch-Sprecher in Mitteleuropa, trotz sich verändernder und weiterentwickelnder Stammesidentitäten, als mehr oder weniger zusammenhängendes Volk angesehen und spielten über Jahrhunderte hinweg eine entscheidende Rolle in den europäischen dynastischen und politischen Entwicklungen.\n\nDie Deutschen, die sich durch ihre fränkisch geprägte [culture|E] und ihr zentralgermanisches [heritage|E] auszeichnen, leben hauptsächlich in Mitteleuropa in jenen Gebieten, die Ostfrankenreich bildeten."
+
+ game_concept_arabs: "Araber"
+ game_concept_arab: "Arabisch"
+ game_concept_arabic: "Arabisch"
+ game_concept_arabicized: "Arabisiert"
+ game_concept_bedouins: "Beduinen"
+ game_concept_bedouin: "Beduinisch"
+ game_concept_arabs_desc: "Die Araber sind die Nachkommen diverser proto-arabischer, semitisch-sprachigen Völker, die in jüngerer Zeit unter dem Banner des Islam zusammengeführt wurden.\n\nWährend sie den Großteil ihrer Geschichte über uneins waren, ermöglichte ihnen ihre unlängst im 7. Jahrhundert unter dem Banner des Kalifats der Rashidun erreichte Vereinigung, einen beträchtlichen Teil der damals bekannten Welt zu erobern. Innerhalb eines Jahrhunderts gelang es den Arabern, ihre Herrschaft über Gebiete auszuweiten, die sich von Hispanien im Westen bis nach Khorasan im Osten erstreckten. Mit der Verbreitung der neuen Religion begannen sich die arabische Sprache und Kultur, verstärkt durch Migration und Assimilation, in den riesigen islamischen Reichen auszubreiten und zu verzweigen, was schließlich zur Entstehung zahlreicher neuer Kulturen führte.\n\nDie Araber, die sich durch ihre arabische [language|E] und ihr arabisches [heritage|E] auszeichnen, leben hauptsächlich auf der Arabischen Halbinsel, finden sich aber auch in großer Zahl in Mesopotamien, der Levante und dem Maghreb."
+
+ game_concept_visigoths: "Goten"
+ game_concept_visigoth: "Gotisch"
+ game_concept_visigothic: "Gotisch"
+ game_concept_visigoths_desc: "Die Goten sind ein ostgermanisches Volk, das ursprünglich von den nördlichen Ufern des Schwarzen Meeres stammt. Sie wurden traditionell in zwei Hauptgruppen unterteilt: die Tervingi, später bekannt als die Westgoten, und die Greuthungi, die den Kern der Ostgoten bildeten. Eine kleinere gotische Gemeinschaft, die Krimgoten, hielt sich jahrhundertelang auf der Krim. Ihre Ursprünge lassen sich zwar bis in die Weichselregion und möglicherweise sogar bis nach Skandinavien zurückverfolgen, doch die ersten gesicherten Belege für eine klar definierte gotische Identität stammen aus dem 3. und 4. Jahrhundert n. Chr., als die Tervingi und die Greuthungi mit Rom und später mit den Hunnen in Konflikt gerieten. Nach diesen Umwälzungen errichteten die Westgoten ein Königreich in Gallien und später auf der Iberischen Halbinsel, während die Ostgoten in Italien ein Reich schufen. Die Krimgoten, wenngleich politisch weniger bedeutend, bewahrten ihre Sprache und Traditionen bis weit ins Mittelalter hinein. Obwohl sich die Goten schließlich in die romanischen und lokalen Kulturen integrierten, blieb ihr Erbe erhalten, insbesondere durch das westgotische Recht auf der Iberischen Halbinsel und sprachliche Überreste auf der Krim. \n\nDie Goten, die sich durch ihre ostgermanische [language|E] und ihr ostgermanisches [heritage|E] auszeichneten, sind als eigenständiges Volk längst verschwunden, doch ihr Einfluss lässt sich noch immer in historischen und rechtlichen Traditionen nachvollziehen."
+
+ game_concept_norse: "Nordisch"
+ game_concept_norsemen: "Nordmänner" #fraglich...
+ game_concept_norseman: "Nordmann"
+ game_concept_scandinavian: "Skandinavisch"
+ game_concept_scandinavians: "Skandinavier"
+ game_concept_north_germanic: "Nordgermanisch"
+ game_concept_north_germanics: "Nordgermanen"
+ game_concept_norse_desc: "Nordischen" #fraglich
+
+ game_concept_berbers: "Imazighen" # Imazighen ist der Plural von Amazigh
+ game_concept_berber: "Berberisch"
+ game_concept_amazigh: "Amazigh"
+ game_concept_amazighs: "Berber"
+ game_concept_berbers_desc: "Berber"
+
+ game_concept_celtiberians: "Keltiberer"
+ game_concept_celtiberian: "Keltiberisch"
+ game_concept_old_galician: "Gallaekisch"
+ game_concept_old_asturian: "Asturische"
+ game_concept_old_cantabrian: "Kantabrisch"
+ game_concept_celtiberians_desc: "Die Keltiberer waren die Ureinwohner der nördlichen und westlichen Regionen der Iberischen Halbinsel. Während die meisten von ihnen mit der Zeit unterworfen und assimiliert wurden, gelang es den alten Gallaekern, Asturern und Kantabrern, sich den Römern bis in die Augustuszeit zu widersetzen, und sie wurden erst gegen Ende des 1. Jahrhunderts v. Chr. erobert. Dennoch gelang es ihnen, ihre Sprache und Kultur bis weit ins frühe Mittelalter hinein zu bewahren, und sie konnten ihre Unabhängigkeit kurzzeitig wiedererlangen.\n\nObwohl sie schließlich von den Westgoten endgültig in die Knie gezwungen und [romanized|E] wurden, spielten sie in der Zukunft Iberiens noch eine entscheidende Rolle: Nach der muslimischen Landnahme auf der Halbinsel flohen Teile des westgotischen Adels in die Bergregionen, wo sie sich mit den Einheimischen verbündeten, um das Königreich Asturien zu errichten, das Vorgänger späterer Königreiche wie León, Kastilien und Galicien war."
+
+ game_concept_romans: "Römer"
+ game_concept_roman: "Römisch"
+ game_concept_romanized: "Romanisiert"
+ game_concept_romance: "Romanisch"
+ game_concept_romans_desc: "Die Römer waren zunächst ein lateinisches Volk, das in der Stadt Rom lebte, dessen Name und Identität jedoch im Laufe der Geschichte des Römischen Reiches von weiten Teilen der Mittelmeerwelt übernommen wurden.\n\nWährend der Begriff „Römer“ ursprünglich im engeren Sinne einen Einwohner der Stadt Rom oder einen Nachkommen eines römischen Bürgers bezeichnete, wurde die eigentliche Vorstellung davon, was es bedeutete, Römer zu sein, immer allgemeiner, bis um 212 n. Chr. schließlich allen Einwohnern des Reiches die römische Staatsbürgerschaft verliehen wurde. Der Begriff beschrieb im Laufe der Geschichte Roms immer mehr einen kulturellen Lebensstil und einen rechtlichen Status und weniger eine tatsächliche ethnische Identität, auch wenn er in den meisten Fällen auch so verstanden wurde.\n\nDie Nachfolger der Römer, die sich durch ihre griechisch- oder lateinischstämmigen [languages|E] sowie ihr latinisches, fränkisches, iberisches, walachisches, rätisches oder (ost-)römisches [heritage|E] auszeichnen, stellen in weiten Teilen des Mittelmeerraums weiterhin die Bevölkerungsmehrheit dar."
