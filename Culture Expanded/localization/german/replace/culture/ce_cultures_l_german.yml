@@ -952,3 +952,13 @@ name_list_norwegian_ce: "Norwegisch"
 
  # Languages
  language_meitei_name: "Meiteilonisch"
+
+#Eingefügt von Tannenzäpfle
+
+ swabian: "Alemannisch"
+ swabian_prefix: "Alemanno"
+ swabian_collective_noun: "Alemannen"
+
+ bavarian: "Bairisch"
+ bavarian_prefix: "Bairo"
+ bavarian_collective_noun: "Baiern"
