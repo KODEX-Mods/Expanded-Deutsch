@@ -32,7 +32,7 @@
  game_concept_language_group_desc: "Sprachgruppen sind Gruppierungen von verwandten [languages|E]. Eine gemeinsame Sprachgruppe erhöht die [cultural_acceptance|E]-Grundlage, und es ist einfacher, eine Sprache zu lernen, die zur gleichen Gruppe gehört wie die eigene [culture|E]."
 
  game_concept_language_branch: "Sprachzweig"
- game_concept_language_branches: "LSprachzweige"
+ game_concept_language_branches: "Sprachzweige"
  game_concept_language_branch_desc: "Sprachzweige sind Gruppierungen von verwandten [languages|E]. Eine gemeinsamer Sprachzweig erhöht die [cultural_acceptance|E]-Grundlage, und es ist einfacher, eine Sprache zu lernen, die zum gleichen Zweig gehört wie die eigene [culture|E]."
 
  game_concept_language_family: "Sprachfamilie"
@@ -87,10 +87,10 @@
  acceptance_change_divorce: "Scheidung von [primary_spouse.GetTitledFirstName] und [spouse.GetTitledFirstName]"
 
  # Debug Messages
- ccu_debug_culture_heritage_group: "CCU-Warnung" 
+ ccu_debug_culture_heritage_group: "CCU-Warnung"
  ccu_debug_culture_heritage_group_desc: "[problem_culture.GetAdjective]e [culture|E] hat keine [heritage_group|E]!"
 
- ccu_debug_culture_heritage_family: "CCU-Warnung" 
+ ccu_debug_culture_heritage_family: "CCU-Warnung"
  ccu_debug_culture_heritage_family_desc: "[problem_culture.GetAdjective]e [culture|E] hat keine [heritage_family|E]!"
 
  ccu_debug_culture_language_group: "CCU-Warnung"

@@ -32,11 +32,11 @@
  culture_parameter_heritage_group_sahelian: "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die die sahelische [heritage_group|E] teilen"
  culture_parameter_heritage_group_siberian: "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die die siberische [heritage_group|E] teilen"
  culture_parameter_heritage_group_tibeto_qiangic: "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die die tibetisch-qiangisch [heritage_group|E] teilen"
- culture_parameter_heritage_group_tocharian: "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die die tocharisch [heritage_group|E] teilen" 
+ culture_parameter_heritage_group_tocharian: "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die die tocharisch [heritage_group|E] teilen"
  culture_parameter_heritage_group_turkic: "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die die türkische [heritage_group|E] teilen"
  culture_parameter_heritage_group_ugro_permian: "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die die ugro-permische [heritage_group|E] teilen"
  culture_parameter_heritage_group_volga_finnic: "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die die wolga-finnische [heritage_group|E] teilen"
- culture_parameter_heritage_group_west_african: "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die die westafrikanische [heritage_group|E] teilen" 
+ culture_parameter_heritage_group_west_african: "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die die westafrikanische [heritage_group|E] teilen"
  culture_parameter_heritage_group_northeast_native_american: "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die die nordostindianische [heritage_group|E] teilen"
  culture_parameter_heritage_group_arctic_native_american: "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die die Thule-[heritage_group|E] teilen"
  culture_parameter_heritage_group_fennoscandian: "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die die fennoskandinavische [heritage_group|E] teilen"
@@ -47,6 +47,16 @@
  culture_parameter_heritage_group_central_european: "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die die mitteleuopäische [heritage_group|E] teilen"
  culture_parameter_heritage_group_eastern_european: "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die die osteuropäische [heritage_group|E] teilen"
  culture_parameter_heritage_group_north_asian: "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die die nordasiatische [heritage_group|E] teilen"
+
+ culture_parameter_heritage_group_mon_khmer: "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die die the Mon-Khmer-[heritage_group|E] teilen"
+ culture_parameter_heritage_group_kra_dai: "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die die the Tai-Kadai-[heritage_group|E] teilen"
+ culture_parameter_heritage_group_loloish: "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die die the Lolo-[heritage_group|E] teilen"
+ culture_parameter_heritage_group_austronesian: "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die die the austronesische [heritage_group|E] teilen"
+ culture_parameter_heritage_group_japanese: "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die die the japanische [heritage_group|E] teilen"
+ culture_parameter_heritage_group_korean: "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die die the koreanische [heritage_group|E] teilen"
+ culture_parameter_heritage_group_central_african: "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die die the zentralafrikanische [heritage_group|E] teilen"
+ culture_parameter_heritage_group_south_african: "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die die the südafrikanische [heritage_group|E] teilen"
+
  #Languages
  ##Language Families
  culture_parameter_language_family_afro_asiatic: "#P +[EmptyScope.ScriptValue('same_language_family_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die die afro-asiatische [language_family|E] teilen"
@@ -75,6 +85,13 @@
  culture_parameter_language_family_beothuk_family: "#P +[EmptyScope.ScriptValue('same_language_family_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die die beothukische [language_family|E] teilen"
  culture_parameter_language_family_elamite_family: "#P +[EmptyScope.ScriptValue('same_language_family_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die die elamitische [language_family|E] teilen"
  culture_parameter_language_family_austroasiatic: "#P +[EmptyScope.ScriptValue('same_language_family_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die die austroasiatische [language_family|E]teilen"
+
+ culture_parameter_language_family_kra_dai: "#P +[EmptyScope.ScriptValue('same_language_family_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die die Tai-Kadai-[language_family|E] teilen"
+#  culture_parameter_language_family_malayo_polynesian: "#P +[EmptyScope.ScriptValue('same_language_family_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die die malayo-polynesische [language_family|E] teilen"
+ culture_parameter_language_family_koreanic: "#P +[EmptyScope.ScriptValue('same_language_family_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die die koreanoide [language_family|E] teilen"
+ culture_parameter_language_family_japonic: "#P +[EmptyScope.ScriptValue('same_language_family_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die die Japanisch-Ryūkyū-[language_family|E] teilen"
+ culture_parameter_language_family_atlantic_congo: "#P +[EmptyScope.ScriptValue('same_language_family_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die diee Atlantik-Kongo-[language_family|E] teilen"
+
  ## Language Branches
  culture_parameter_language_branch_armenian: "#P +[EmptyScope.ScriptValue('same_language_branch_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die den armenisch [language_branch|E] teilen"
  culture_parameter_language_branch_avar_andic: "#P +[EmptyScope.ScriptValue('same_language_branch_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die den avar-andischen [language_branch|E] teilen"
@@ -105,6 +122,7 @@
  culture_parameter_language_branch_romance: "#P +[EmptyScope.ScriptValue('same_language_branch_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die den romanischen [language_branch|E] teilen"
  culture_parameter_language_branch_savannas: "#P +[EmptyScope.ScriptValue('same_language_branch_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die den gur–adamawischen [language_branch|E] teilen"
  culture_parameter_language_branch_semitic: "#P +[EmptyScope.ScriptValue('same_language_branch_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die den semitischen [language_branch|E] teilen"
+ culture_parameter_language_branch_egyptian: "#P +[EmptyScope.ScriptValue('same_language_branch_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die den ägyptischen [language_branch|E] teilen"
  culture_parameter_language_branch_senegabrian: "#P +[EmptyScope.ScriptValue('same_language_branch_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die den senegalesischen [language_branch|E] teilen"
  culture_parameter_language_branch_shaz_turkic: "#P +[EmptyScope.ScriptValue('same_language_branch_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die den shaz-türkischen [language_branch|E] teilen"
  culture_parameter_language_branch_sinitic: "#P +[EmptyScope.ScriptValue('same_language_branch_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die den sinitischen [language_branch|E] teilen"
@@ -132,6 +150,18 @@
  culture_parameter_language_branch_samoyedic: "#P +[EmptyScope.ScriptValue('same_language_branch_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die den samojedischen [language_branch|E] teilen"
  culture_parameter_language_branch_italic: "#P +[EmptyScope.ScriptValue('same_language_branch_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die den italischen [language_branch|E] teilen"
  culture_parameter_language_branch_albanian: "#P +[EmptyScope.ScriptValue('same_language_branch_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die den albanischen [language_branch|E] teilen"
+
+#  culture_parameter_language_branch_eastern_austroasiatic: "#P +[EmptyScope.ScriptValue('same_language_branch_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die den Eastern Austroasiatic [language_branch|E] teilen"
+#  culture_parameter_language_branch_southern_austroasiatic: "#P +[EmptyScope.ScriptValue('same_language_branch_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die den Southern Austroasiatic [language_branch|E] teilen"
+ culture_parameter_language_branch_tai: "#P +[EmptyScope.ScriptValue('same_language_branch_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die den Tai-[language_branch|E] teilen"
+#  culture_parameter_language_branch_malay: "#P +[EmptyScope.ScriptValue('same_language_branch_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die den Malay [language_branch|E] teilen"
+ culture_parameter_language_branch_philippine: "#P +[EmptyScope.ScriptValue('same_language_branch_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die den phillipinischen [language_branch|E] teilen"
+ culture_parameter_language_branch_japanese: "#P +[EmptyScope.ScriptValue('same_language_branch_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die den japanischen [language_branch|E] teilen"
+ culture_parameter_language_branch_korean: "#P +[EmptyScope.ScriptValue('same_language_branch_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die den koreanischen [language_branch|E] teilen"
+ culture_parameter_language_branch_baipho: "#P +[EmptyScope.ScriptValue('same_language_branch_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die den Bai-[language_branch|E] teilen"
+ culture_parameter_language_branch_bantu: "#P +[EmptyScope.ScriptValue('same_language_branch_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die den Bantu-[language_branch|E] teilen"
+ culture_parameter_language_branch_svan: "#P +[EmptyScope.ScriptValue('same_language_branch_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die den swanischen [language_branch|E] teilen" #fraglich, https://de.wikipedia.org/wiki/Swanische_Sprache
+
  ## Language Groups
  culture_parameter_language_group_latino_faliscan: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die die lateinische [language_group|E] teilen"
  culture_parameter_language_group_iranic: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] mit Kulturen, die die iranische [language_group|E] teilen"
