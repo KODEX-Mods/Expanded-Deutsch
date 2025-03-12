@@ -14,13 +14,15 @@
  language_east_slavic_name: "Altostslawisch"
  heritage_tocharian_name: "Serindisch"
 
+heritage_magyar_name: "Jugorisch" #fraglich, https://en.wikipedia.org/wiki/Yugra
+
  #=======
  language_east_slavic_name: "Ostslawisch"
  language_israelite_name: "Hebräisch"
  language_brythonic_name: "Britannisch"
 
  #Heritages
- heritage_brythonic_name: "Britonisch"
+ heritage_brythonic_name:0 "Britonisch"
 
  assyrian: "Assyrisch"
  assyrian_prefix: "Assyro"
@@ -29,26 +31,26 @@
  #"Khanty"
  khanty: "Chantisch"
  khanty_prefix: "Chanti"
- khanty_collective_noun:1 "Chanten"
+ khanty_collective_noun: "Chanten"
 
  #Russian (Rus)
- russian: "Rus'"
+ russian: "Altrussisch" #fraglich, es gibt kein Adjektiv für die Rus. Russisch bezieht sich auf das moderne Volk, Altrussisch ist umstritten und hat einer Mindermeinung nach eine etwas andere Bedeutung, https://de.wikipedia.org/wiki/Altrussisches_Volk
  russian_prefix: "Russo"
- russian_collective_noun:1 "Rus'"
+ russian_collective_noun:1 "Rus"
 
  #Greek to Romaioi
- greek: "Rhomäisch"
- greek_prefix: "Rhomäo"
- greek_collective_noun:1 "Rhomäer"
+ ce_greek: "Rhomäisch"
+ ce_greek_prefix: "Rhomäo"
+ ce_greek_collective_noun: "Rhomäer"
 
  tajik: "Khorasanisch"
  tajik_prefix: "Khorasani"
- tajik_collective_noun:1 "Khorasani"
+ tajik_collective_noun: "Khorasani"
 
  #Alans to Alani
  alan: "Alanisch"
  alan_prefix: "Alano"
- alan_collective_noun:1 "Alanen"
+ alan_collective_noun: "Alanen"
 
  #Old Saxon to Seaxon
  old_saxon: "Altsächsisch"
@@ -67,7 +69,7 @@
 
  #(MOVED TO REPLACE FOLDER FOR ERROR LOG REASONS)
  #Mercian
- mercian: "Merzisch" 
+ mercian: "Merzisch"
  mercian_prefix: "Marco"
  mercian_collective_noun: "Merzen"
 
@@ -89,3 +91,11 @@
 
  # BULGARIAN HISTORY
  bulgarian_history_loc: "Gebildet aus [CULTURE.GetName] und [southslavic|E] um das Jahr [DATE.GetYear]"
+
+
+ bactrian: "Baktrisch"
+ bactrian_prefix: "Baktro"
+ bactrian_collective_noun: "Baktrer"
+
+ # LOMBARD HISTORY
+ ce_lombard_history_loc: "Entstanden aus [CULTURE.GetName] und der [CULTURE.GetName]en Eroberung Norditaliens durch die Franken im Jahr [DATE.GetYear]" #fraglich, keine Ahnung was gemeint ist

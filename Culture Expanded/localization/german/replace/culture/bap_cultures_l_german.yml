@@ -65,7 +65,7 @@
  #kanuri: "Kanúrisch"
  #kanuri_prefix: "Kanúri"
  #kanuri_collective_noun: "Kanúriwa"
- 
+
  #Ugro-Permian
  samoyed: "Samojedisch"
  samoyed_prefix: "Samojedi"
@@ -78,12 +78,12 @@
 
  innovation_lost_wax_casting: "Wachsausschmelzverfahren"
  innovation_lost_wax_casting_desc: "Inspiriert von den Meistern der Igbo-Ukwu beherrschen unsere Kunsthandwerker eine ausgefeilte Technik des Metallgusses, um schöne und kunstvolle Werke herzustellen. Unsere Bronzearbeiten werden für alle Zeiten bekannt sein!"
- 
+
  #innovation_griots: "Griots"
  #innovation_griots_desc: "[griots|E] sind in ganz Westafrika unter verschiedenen Namen bekannt, darunter Jeli in den nördlichen Mande-Gebieten, Jali in den südlichen Mande-Gebieten, Guewel in Wolof, Gawlo in Pulaar, Arokin in Yorùbá und Gesere in Soninke. In der Regel gehören die Griots einer niedrigeren Kaste an und sind in der westafrikanischen Gesellschaft als Historiker, Geschichtenerzähler, Lobliedsänger, Dichter oder Musiker tätig."
  #unlock_griot_interaction: "[characters|E] können einen [unlanded|E] [courtier|E] als ihren königlichen [griot|E] ernennen."
  #unlock_griot_epic: "[rulers|E] mit einem königlichen [griot|E] können die [commission_epic|E]-[decision|E] nutzen."
- 
+
  #BAP cultures
  zarma: "Zarmanisch"
  zarma_prefix: "Zarma"
@@ -112,7 +112,7 @@
  oromo: "Oromonisch"
  oromo_prefix: "Oromo"
  oromo_collective_noun: "Oromos"
- 
+
  #BAP name lists
  name_list_jukun: "Jukun"
  name_list_serer: "Serer"

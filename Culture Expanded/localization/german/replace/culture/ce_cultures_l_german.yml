@@ -700,36 +700,36 @@ name_list_norwegian_ce: "Norwegisch"
 
  #Iberian Custom Loc
 
- castilian_history_loc: "Evolved from the [CULTURE.GetName] [culture|E] of Bardulia"
+ castilian_history_loc: "Entstanden aus der [CULTURE.GetName]en [culture|E] von Bardulien"
 
- leonese_history_loc: "Formed from [old_asturian|E] under [CULTURE.GetName] influence around the year [DATE.GetYear]"
+ leonese_history_loc: "Entstanden aus [old_asturian|E] unter [CULTURE.GetName]em Einfluss um das Jahr [DATE.GetYear]"
 
- galician_history_loc: "Formed from [old_galician|E] under [CULTURE.GetName] influence around the year [DATE.GetYear]"
+ galician_history_loc: "Entstanden aus [old_galician|E] unter [CULTURE.GetName] Einfluss um das Jahr [DATE.GetYear]"
 
- andalusian_history_loc: "Diverged from [arabic|E] around the year [DATE.GetYear]"
+ andalusian_history_loc: "Abgezweigt von [arabic|E] um das Jahr [DATE.GetYear]"
 
- mozarab_history_loc: "The [arabicized|E] [CULTURE.GetName] [culture|E] of [GetTitleByKey('e_spain').GetNameNoTier]"
+ mozarab_history_loc: "Das [arabicized|E]e [CULTURE.GetName] [culture|E] von [GetTitleByKey('e_spain').GetNameNoTier]"
 
- catalan_history_loc: "Evolved from the [CULTURE.GetName] [culture|E] of the Spanish March"
+ catalan_history_loc: "Entstanden aus der [CULTURE.GetName]en [culture|E] der Spanischen Mark"
 
- visigothic_history_loc: "The [romanized|E] Hispanian [visigoths|E]"
+ visigothic_history_loc: "Die [romanized|E]en [visigoths|E] Hispaniens"
 
- ostrogothic_history_loc: "The [romanized|E] Italian [visigoths|E]"
+ ostrogothic_history_loc: "Die [romanized|E]en [visigoths|E] Italiens"
 
- crimean_gothic_history_loc: "The [romanized|E] Crimean [visigoths|E]"
+ crimean_gothic_history_loc: "Die [romanized|E]en [visigoths|E] der Krim"
 
  #Arabic Custom Loc
 
- levantine_history_loc: "Formed from [bedouin|E] and [athoraya|E] around the year [DATE.GetYear]"
+ levantine_history_loc: "Entstanden aus [bedouin|E] and [athoraya|E] um das Jahr [DATE.GetYear]"
 
  #Byzantine Custom Loc
  arberian_history_loc: "Entstanden aus einer Kultur unbekannter Herkunft um das Jahr [DATE.GetYear]"
 
  romaioi_history_loc: "Entstanden aus [CULTURE.GetName] und der hellenischen Kultur um das Jahr [DATE.GetYear]"
 
-  #Huno-Iranian Custom Loc
+ #Huno-Iranian Custom Loc
 
-	huna_history_loc: "Entstanden aus [CULTURE.GetName] und verschiedenen indoarischen Kulturen um das Jahr [DATE.GetYear]"
+ huna_history_loc: "Entstanden aus [CULTURE.GetName] und verschiedenen indoarischen Kulturen um das Jahr [DATE.GetYear]"
 
  #Latin Custom Loc
 
@@ -763,13 +763,13 @@ name_list_norwegian_ce: "Norwegisch"
 
  #East German Custom Loc
 
- lausitzian_history_loc: "Entstanden aus $german$ und [CULTURE.GetName] in [GetTitleByKey('d_lausitz').GetNameNoTier] im Jahr [DATE.GetYear]"
+ lusatian_german_history_loc: "Entstanden aus [german|E] und [CULTURE.GetName] in [GetTitleByKey('d_lausitz').GetNameNoTier] im Jahr [DATE.GetYear]"
 
- pomeranian_history_loc: "Entstanden aus $german$ und [CULTURE.GetName] in [GetTitleByKey('d_nordmark').GetNameNoTier] und [GetTitleByKey('d_pommerania').GetNameNoTier] im Jahr [DATE.GetYear]"
+ pomeranian_german_history_loc: "Entstanden aus [german|E] und [CULTURE.GetName] in [GetTitleByKey('d_nordmark').GetNameNoTier] und [GetTitleByKey('d_pommerania').GetNameNoTier] im Jahr [DATE.GetYear]"
 
- markish_history_loc: "Entstanden aus $german$ und [CULTURE.GetName] in [GetTitleByKey('d_ostmark').GetNameNoTier] im Jahr [DATE.GetYear]"
+ margravian_history_loc: "Entstanden aus [german|E] und [CULTURE.GetName] in [GetTitleByKey('d_ostmark').GetNameNoTier] im Jahr [DATE.GetYear]"
 
- meissener_history_loc: "Entstanden aus $german$ und [CULTURE.GetName] in [GetTitleByKey('d_thuringia').GetNameNoTier] und [GetTitleByKey('d_meissen').GetNameNoTier] im Jahr [DATE.GetYear]"
+ milcenian_german_history_loc: "Entstanden aus [german|E] und [CULTURE.GetName] in [GetTitleByKey('d_thuringia').GetNameNoTier] und [GetTitleByKey('d_meissen').GetNameNoTier] im Jahr [DATE.GetYear]"
 
  #British Custom Loc
 
@@ -789,7 +789,7 @@ name_list_norwegian_ce: "Norwegisch"
 
  deiran_history_loc: "Entstanden aus [romanobrit|E] und [CULTURE.GetName] um das Jahr [DATE.GetYear]"
 
- bernician_history_loc: "Begründet von den [CULTURE.GetName] raiders after the death of Ida um das Jahr [DATE.GetYear]"
+ bernician_history_loc: "Begründet von den [CULTURE.GetName] Räubern nach dem Tod von Ida um das Jahr [DATE.GetYear]"
 
  middle_anglian_history_loc: "Entstanden unter [CULTURE.GetName] Siedlern in [GetTitleByKey('c_leicestershire').GetNameNoTier] um das Jahr [DATE.GetYear]"
 
@@ -801,7 +801,7 @@ name_list_norwegian_ce: "Norwegisch"
 
  new_breton_history_loc: "Abgeleitet aus dem [romanobrit|E]en um das Jahr [DATE.GetYear]"
 
- cornish_history_loc: "Abgeleitet aus dem [CULTURE.GetName]en after the fall of [GetTitleByKey('c_devon').GetNameNoTier] um das Jahr [DATE.GetYear]"
+ cornish_history_loc: "Abgeleitet aus dem [CULTURE.GetName]en nach dem Fall von [GetTitleByKey('c_devon').GetNameNoTier] um das Jahr [DATE.GetYear]"
 
  dumnonian_history_loc: "Abgeleitet aus dem [briton|E]en um das Jahr [DATE.GetYear]"
 
@@ -817,7 +817,7 @@ name_list_norwegian_ce: "Norwegisch"
 
  assyrian_history_loc: "Abgeleitet aus dem [athoraya|E]en unter [CULTURE.GetName]em Einfluss um das Jahr [DATE.GetYear]"
 
- syriac_history_loc: "Entstanden aus [aramean|E] under [CULTURE.GetName] influence um das Jahr [DATE.GetYear]"
+ syriac_history_loc: "Entstanden aus [aramean|E] unter [CULTURE.GetName]em Einfluss um das Jahr [DATE.GetYear]"
 
  mandaic_history_loc: "Abgezweigt von [chaldean|E] um das Jahr [DATE.GetYear]"
 
@@ -962,3 +962,6 @@ name_list_norwegian_ce: "Norwegisch"
  bavarian: "Bairisch"
  bavarian_prefix: "Bairo"
  bavarian_collective_noun: "Baiern"
+
+ name_list_bavarian: "Bairisch"
+ name_list_swabian: "Alemannisch"
