@@ -965,3 +965,678 @@ name_list_norwegian_ce: "Norwegisch"
 
  name_list_bavarian: "Bairisch"
  name_list_swabian: "Alemannisch"
+
+
+ #Übertragen aus ce_character_names_l_german.Yalmand
+
+
+########################
+#       FRANKISH       #
+########################
+ arpitan_ce: "Arpitan"
+ arpitan_ce_prefix: "Arpitan"
+ arpitan_ce_collective_noun:1 "Arpitans"
+
+ # Languages
+ language_arpetan_name: "Arpetan"
+ name_list_arpetan: "Arpitan"
+
+ #Namelist
+ name_list_breton1: "Breton"
+
+ ########################
+#   BYZANTINE GROUP    #
+########################
+
+ circassian: "Adygeisch"
+ circassian_prefix: "Adyge"
+ circassian_collective_noun: "Adyghener"
+
+ abkhaz: "Abchasisch"
+ abkhaz_prefix: "Abchaso"
+ abkhaz_collective_noun: "Abchasen"
+
+ lazi: "Lasisch"
+ lazi_prefix: "Laso"
+ lazi_collective_noun: "Lasen"
+
+ gothic: "Gotisch"
+ gothic_prefix: "Gotisch"
+ gothic_collective_noun:1 "Goten"
+
+ arberian: "Arberisch"
+ arberian_prefix: "Arberi"
+ arberian_collective_noun: "Arberer"
+
+ udi: "Udinisch"
+ udi_prefix: "Udi"
+ udi_collective_noun: "Udinen"
+
+ dagestani: "Dagestanisch"
+ dagestani_prefix: "Dagestani"
+ dagestani_collective_noun: "Dagestanis"
+
+ syriac: "Syrisch" #fraglich, Mod vermischt evtl Syrer und Assyrer
+ syriac_prefix: "Syro"
+ syriac_collective_noun: "Syrer"
+
+ mandaic: "Mandäisch"
+ mandaic_prefix: "Mandäo"
+ mandaic_collective_noun: "Mandäer"
+
+ bactrian: "Baktrisch"
+ bactrian_prefix: "Baktro"
+ bactrian_collective_noun: "Baktrer"
+
+ tokhari: "Tokhari"
+ tokhari_prefix: "Tokharo"
+ tokhari_collective_noun: "Tokharis"
+
+ alani: "Alanisch"
+ alani_prefix: "Alani"
+ alani_collective_noun: "Alanen"
+
+ ########################
+ #     BRITISH GROUP    #
+ ########################
+
+ dumnonian: "Dumnonisch"
+ dumnonian_prefix: "Dumnono"
+ dumnonian_collective_noun: "Dumnonier"
+
+ old_brythonic: "Pritanisch"
+ old_brythonic_prefix: "Pritano"
+ old_brythonic_collective_noun: "Pritanians"
+
+ ### Culture Hybrid/Divergence Unique Text ###
+
+ #Byzantine Custom Loc
+ arberian_history_loc: "Entstanden aus einer Kultur unbekannter Herkunft um das Jahr [DATE.GetYear]"
+
+ romaioi_history_loc: "Entstanden aus [CULTURE.GetName] und der hellenischen Kultur um das Jahr [DATE.GetYear]"
+
+  #Huno-Iranian Custom Loc
+
+	huna_history_loc: "Entstanden aus [CULTURE.GetName] und verschiedenen indoarischen Kulturen um das Jahr [DATE.GetYear]"
+
+ #Latin Custom Loc
+
+ afri_history_loc: "Entstanden aus [CULTURE.GetName] und verschiedenen berberischen Einflüssen um das Jahr [DATE.GetYear]"
+
+ #Slavic Custom Loc
+
+ blatno_slavic_history_loc: "Entstanden aus [CULTURE.GetName] und [pannonianslavic|E] um das Jahr [DATE.GetYear]"
+
+ illyrian_slavic_history_loc: "Entstanden aus verschiedenen [southslavic|E] [cultures|E] um das Jahr [DATE.GetYear]"
+
+ dudlebian_history_loc: "Entstanden aus [GetTitleByKey('c_doudleby').GetNameNoTier]-Slawisch um das Jahr [DATE.GetYear]"
+
+ pannonian_history_loc: "Entstanden aus [CULTURE.GetName] um das Jahr [DATE.GetYear]"
+
+ blatnohrader_history_loc: "Entstanden aus [CULTURE.GetName] und Slawisch nach der Gründung von [GetTitleByKey('b_somogyvar').GetNameNoTier] im Jahr [DATE.GetYear]"
+
+ bulgarian_history_loc: "Entstanden aus [CULTURE.GetName] und [southslavic|E] um das Jahr [DATE.GetYear]"
+
+ slovien_history_loc: "Begründet von den [pannonian_slavs|E] von [GetTitleByKey('d_moravia').GetNameNoTier] um das Jahr [DATE.GetYear]"
+
+ nitravan_history_loc: "Begründet von den [pannonian_slavs|E] von [GetTitleByKey('c_nyitra').GetNameNoTier] um das Jahr [DATE.GetYear]"
+
+ volyn_history_loc: "Begründet von den Fürsten der [rus|E] in [GetTitleByKey('d_volhynia').GetNameNoTier] und [GetTitleByKey('d_halych').GetNameNoTier] um das Jahr [DATE.GetYear]"
+
+ chernigovan_history_loc: "Entstanden als Folge der politischen Entfremdung von [GetTitleByKey('d_kiev').GetNameNoTier] um das Jahr [DATE.GetYear]"
+
+ byelorusian_history_loc: "Entstanden als Folge der politischen Entfremdung von [GetTitleByKey('d_kiev').GetNameNoTier] um das Jahr [DATE.GetYear]"
+
+ ruthenian_history_loc: "Entstanden als Folge der Dezentralisierung der Kiewer Macht"
+
+ novgorodian_history_loc: "Entstanden als Folge der politischen Entfremdung von [GetTitleByKey('d_kiev').GetNameNoTier] um das Jahr [DATE.GetYear]"
+
+ vladimirian_history_loc: "Entstanden als Folge der politischen Entfremdung von [GetTitleByKey('d_kiev').GetNameNoTier] um das Jahrr [DATE.GetYear]"
+
+ ryazanian_history_loc: "Entstanden als Folge der politischen Entfremdung von [GetTitleByKey('d_opolye').GetNameNoTier] um das Jahr [DATE.GetYear]"
+
+
+ #East German Custom Loc
+
+ lausitzian_history_loc: "Entstanden aus $german$ und [CULTURE.GetName] in [GetTitleByKey('d_lausitz').GetNameNoTier] im Jahr [DATE.GetYear]"
+
+ pomeranian_history_loc: "Entstanden aus $german$ und [CULTURE.GetName] in [GetTitleByKey('d_nordmark').GetNameNoTier] und [GetTitleByKey('d_pommerania').GetNameNoTier] im Jahr [DATE.GetYear]"
+
+ markish_history_loc: "Entstanden aus $german$ und [CULTURE.GetName] in [GetTitleByKey('d_ostmark').GetNameNoTier] im Jahr [DATE.GetYear]"
+
+ meissener_history_loc: "Entstanden aus $german$ und [CULTURE.GetName] in [GetTitleByKey('d_thuringia').GetNameNoTier] und [GetTitleByKey('d_meissen').GetNameNoTier] im Jahr [DATE.GetYear]"
+
+ #British Custom Loc
+
+ west_saxon_history_loc: "Entstanden aus [romanobrit|E] und [CULTURE.GetName] um das Jahr [DATE.GetYear]"
+
+ east_saxon_history_loc: "Entstanden aus [romanobrit|E] und [CULTURE.GetName] um das Jahr [DATE.GetYear]"
+
+ hwiccian_history_loc: "Entstanden aus [romanobrit|E] und [CULTURE.GetName] um das Jahr [DATE.GetYear]"
+
+ kentish_history_loc: "Entstanden aus [romanobrit|E] und [CULTURE.GetName] um das Jahr [DATE.GetYear]"
+
+ east_anglian_history_loc: "Begründet von den [CULTURE.GetName] [mercenaries|E] in [GetTitleByKey('d_norfolk').GetNameNoTier] um das Jahr [DATE.GetYear]"
+
+ gewisse_history_loc: "Begründet von den [CULTURE.GetName] [mercenaries|E] in [GetTitleByKey('d_gloucester').GetNameNoTier] um das Jahr [DATE.GetYear]"
+
+ mercian_history_loc: "Entstanden unter [CULTURE.GetName]en Siedlern in [GetTitleByKey('d_hereford').GetNameNoTier] um das Jahr [DATE.GetYear]"
+
+ deiran_history_loc: "Entstanden aus [romanobrit|E] und [CULTURE.GetName] um das Jahr [DATE.GetYear]"
+
+ bernician_history_loc: "Begründet von den [CULTURE.GetName] raiders after the death of Ida um das Jahr [DATE.GetYear]"
+
+ middle_anglian_history_loc: "Entstanden unter [CULTURE.GetName] Siedlern in [GetTitleByKey('c_leicestershire').GetNameNoTier] um das Jahr [DATE.GetYear]"
+
+ south_saxon_history_loc: "Entstanden aus [romanobrit|E] und [CULTURE.GetName] um das Jahr [DATE.GetYear]"
+
+ welsh_history_loc: "Abgeleitet aus dem [romanobrit|E]en um das Jahr [DATE.GetYear]"
+
+ breton_history_loc: "Entstanden aus [briton|E] und [CULTURE.GetName] um das Jahr [DATE.GetYear]"
+
+ cornish_history_loc: "Abgeleitet aus dem [CULTURE.GetName]en after the fall of [GetTitleByKey('c_devon').GetNameNoTier] um das Jahr [DATE.GetYear]"
+
+ dumnonian_history_loc: "Abgeleitet aus dem [briton|E]en um das Jahr [DATE.GetYear]"
+
+ cumbrian_history_loc: "Abgeleitet aus dem [briton|E]en um das Jahr [DATE.GetYear]"
+
+ pictish_history_loc: "Begründet von den nicht eroberten [oldbrit|E] um das Jahr [DATE.GetYear]"
+
+ anglo_saxon_history_loc: "Entstanden aus various [anglosaxon|E] cultures um das Jahr [DATE.GetYear]"
+
+ scottish_history_loc: "Entstanden aus [CULTURE.GetName] [anglosaxon|E] um das Jahr [DATE.GetYear]"
+
+ #Aramaics Custom Loc
+
+ assyrian_history_loc: "Abgeleitet aus dem [athoraya|E]en unter [CULTURE.GetName]em Einfluss um das Jahr [DATE.GetYear]"
+
+ syriac_history_loc: "Entstanden aus [aramean|E] under [CULTURE.GetName] influence um das Jahr [DATE.GetYear]"
+
+ mandaic_history_loc: "Abgezweigt von [chaldean|E] um das Jahr [DATE.GetYear]"
+
+ #Iranians Custom Loc
+
+ khotanese_history_loc: "Entstanden aus [saka|E] und [CULTURE.GetName] um das Jahr [DATE.GetYear]"
+
+ old_persian_history_loc: "Die ursprünglichen [iranian|E]en Perser des Iran"
+
+ persian_history_loc: "Abgeleitet aus dem West-[iranian|E]en um das Jahr [DATE.GetYear]"
+
+ tajik_history_loc: "Abgeleitet aus dem Ost-[iranian|E]en um das Jahr [DATE.GetYear]"
+
+ adhari_history_loc: "Abgeleitet aus dem Kaspisch-[iranian|E]en um das Jahr [DATE.GetYear]"
+
+ daylamite_history_loc: "The [iranian|E]en Bewohner der gebirgigen Gegenden von [GetTitleByKey('d_daylam').GetNameNoTier]"
+
+ parthian_history_loc: "Entstanden aus [parni|E] um das Jahr 200 v. Chr"
+
+ gilak_history_loc: "Die Nachfahren der [iranians|E] in [GetTitleByKey('c_gilan').GetNameNoTier]"
+
+ mazanderani_history_loc: "Die Nachfahren der [iranians|E] in [GetTitleByKey('c_mazandaran').GetNameNoTier]"
+
+ khwarazmian_history_loc: "Die [iranianized|E]en [chorasmians|E] von Choresmien"
+
+ sogdian_history_loc: "Die [scytho_sarmatian|E]en Bewohner von Sogdien"
+
+ afghan_history_loc: "Die [iranianized|E]en [pactyrans|E] von Ariana"
+
+ baloch_history_loc: "Abgeleitet aus dem Gedrosisch-[iranian|E]en um das Jahr [DATE.GetYear]"
+
+ tokhari_history_loc: "Die [iranianized|E]e [CULTURE.GetName]e Kultur von Balch"
+
+ pamiri_history_loc: "Die [iranianized|E]e [scytho_sarmatians|E] von des Pamir"
+
+ bactrian_history_loc: "Die [scytho_sarmatian|E]en Bewohner von Bactria"
+
+ alan_history_loc: "Abgezweigt von [sarmatian|E] um das Jahr [DATE.GetYear]"
+
+ kurdish_history_loc: "Abgeleitet aus dem Zagros-[iranian|E]en um das Jahr [DATE.GetYear]"
+
+ #Heritage
+ heritage_armenian_name: "Armenisch"
+ heritage_armenian_collective_noun: "Armenier"
+
+ #Heritage
+ heritage_aramean_name: "Aramäisch"
+ heritage_aramean_collective_noun: "Aramäer"
+
+ #Heritage
+ heritage_arberian_name: "Arberisch"
+ heritage_arberian_collective_noun: "Arberier"
+
+
+ # Languages
+ language_circassian_name: "Adygeisch"
+ language_abazgi_name: "Abazgisch"
+ language_laz_name: "Lasisch"
+ language_arberian_name: "Arberisch"
+ language_gothic_name: "Gotisch"
+ language_lezgic_name: "Lesgisch"
+ language_avaric_name: "Awarisch"
+ language_udi_name: "Udinisch"
+
+
+ #Namelists
+ name_list_circassian: "Abchasisch-Adygheisch"
+ name_list_arberian: "Arberisch"
+ name_list_gothic: "Gotisch"
+
+ romaioi: "Rhomäisch"
+ romaioi_prefix: "Rhomäo"
+ romaioi_collective_noun:1 "Rhomäer"
+
+ #Heritage
+ heritage_caucasian_name: "Kaukasisch"
+ heritage_caucasian_collective_noun: "Kaukassen"
+
+ # Namelists
+ name_list_serbian1: "Serbisch"
+
+ name_list_assyrian_ce: "Assyrisch"
+
+ name_list_basque1: "Baskisch"
+
+ name_list_pashtun: "Paschtunisch"
+
+ name_list_balochi: "Belutschisch"
+
+ name_list_mazanderani: "Masanderanisch"
+
+ ########################
+#     West Slavic      #
+########################
+
+ n_wendish_noun: "Wendisch"
+ n_wendish_prefix: "Wenden"
+ n_wendish_c_noun: "Wenden"
+
+ n_slovien_noun: "Karantanisch"
+ n_slovien_prefix: "karanto"
+ n_slovien_c_noun: "Karantanen"
+
+ moravian_noun: "Mährisch"
+ moravian_prefix: "Morawo"
+ moravian_c_noun: "Mährer"
+
+ nitravan: "Nitrawisch"
+ nitravan_prefix: "Nitrawo"
+ nitravan_collective_noun: "Nitrawen"
+
+ n_polan_noun: "Polnisch"
+ n_polan_prefix: "Polano"
+ n_polan_c_noun: "Polen"
+
+ n_vislan_noun: "Wislanisch"
+ n_vislan_prefix: "Wislano"
+ n_vislan_c_noun: "Wislanen"
+
+ n_lendish_noun: "Lendisch" #fraglich, kein Plan was das wieder ist, Lendizisch ist weiter unten
+ n_lendish_prefix: "Lendo"
+ n_lendish_c_noun: "Lenden"
+
+ n_mazurian_noun: "Masurisch"
+ n_mazurian_prefix: "Masuro"
+ n_mazurian_c_noun: "Masuren"
+
+ lutician_noun: "Lutizisch"
+ lutician_prefix: "Lutizo"
+ lutician_collective_noun: "Lutizen"
+
+ dravehnian: "Drevenisch"
+ dravehnian_prefix: "Dreveno"
+ dravehnian_collective_noun: "Drevener"
+
+ veletian_noun: "Veletabisch"
+ veletian_prefix: "Veletabo"
+ veletian_collective_noun: "Veletabier"
+
+ obotrite: "Obotritisch"
+ obotrite_prefix: "Obotrito"
+ obotrite_collective_noun: "Obotriten"
+
+ pomorian_noun: "Pomorisch"
+ pomorian_prefix: "Pomoro"
+ pomorian_collective_noun: "Pomorier"
+
+ ranian: "Ranisch"
+ ranian_prefix: "Rano"
+ ranian_collective_noun: "Ranen"
+
+ sorbian: "Sorbisch"
+ sorbian_prefix: "Sorbo"
+ sorbian_collective_noun: "Sorben"
+
+ slovak: "Slowakisch"
+ slovak_prefix: "Slowako"
+ slovak_collective_noun: "Slowaken"
+
+ slovene: "Slowenisch"
+ slovene_prefix: "Sloweno"
+ slovene_collective_noun: "Slowenen"
+
+ silesian: "Schlesisch"
+ silesian_prefix: "Sileso"
+ silesian_collective_noun: "Schlesier"
+
+ silesian_slavic_noun: "Schlonsakisch"
+ silesian_slavic_prefix: "Schlonsako"
+ silesian_slavic_collective_noun: "Schlonsaken"
+
+ opolan: "Opolanisch"
+ opolan_prefix: "Opolano"
+ opolan_collective_noun: "Opolanen"
+
+ golensizi: "Golensizisch"
+ golensizi_prefix: "Golenzo"
+ golensizi_collective_noun: "Golensizen"
+
+ vistulan: "Vistulanisch"
+ vistulan_prefix: "Vistulo"
+ vistulan_collective_noun: "Vistulanen"
+
+ lendian: "Lendizisch"
+ lendian_prefix: "Lendizo"
+ lendian_collective_noun: "Lendizen"
+
+ masovian: "Masowisch"
+ masovian_prefix: "Masowo"
+ masovian_collective_noun: "Masowier"
+
+ polan: "Polanisch"
+ polan_prefix: "Polano"
+ polan_collective_noun: "Polanen"
+
+ # Languages
+ language_czecho_slovak_name: "Tschechoslowakisch"
+ language_sorbian_name: "Sorbisch"
+
+########################
+#       Berber         #
+########################
+
+ tuareg: "Tuaregisch"
+ tuareg_collective_noun: "Tuaregs"
+ tuareg_prefix: "Tuareg"
+
+########################
+#        Guric         #
+########################
+
+ konkomba: "Konkombanisch"
+ konkomba_prefix: "Konkombo"
+ konkomba_collective_noun: "Konkombas"
+ lilse: "Lilsénisch"
+ lilse_prefix: "Lilséo"
+ lilse_collective_noun: "Lilsé"
+ kurumba: "Kurumbatisch"
+ kurumba_prefix: "Kurumbo"
+ kurumba_collective_noun: "Kurumbas"
+ senufo: "Senufonisch"
+ senufo_prefix: "Senufo"
+ senufo_collective_noun: "Senufos"
+ kulango: "Lobisch"
+ kulango_prefix: "Lobio"
+ kulango_collective_noun: "Lobi"
+
+########################
+#      Lower Niger     #
+########################
+
+ baatonu: "Baribaisch"
+ baatonu_prefix: "Baribo"
+ baatonu_collective_noun: "Bariban"
+ ijaw: "Ijotisch"
+ ijaw_prefix: "Ijo"
+ ijaw_collective_noun: "Ijos"
+
+########################
+#   Central Sahelian   #
+########################
+
+ jukun: "Jukunisch"
+ jukun_prefix: "Jukun"
+ jukun_collective_noun: "Jukuni"
+
+########################
+#     Guinea Plateu    #
+########################
+
+ kibsi: "Kibsinisch"
+ kibsi_prefix: "Kibsi"
+ kibsi_collective_noun: "Kibsi"
+
+########################
+#     South Slavic     #
+########################
+
+ #Umbrella for the Blatno Slavs
+ blatno_slavic: "Blatnoslawisch"
+ blatno_slavic_prefix: "Blatnoslawo"
+ blatno_slavic_collective_noun: "Blatnoslawen"
+
+ #Pannonian Dudlebes
+ dudlebian: "Dulebisch"
+ dudlebian_prefix: "Dulebo"
+ dudlebian_collective_noun: "Dudleben"
+
+ n_dudlebian_noun: "Dulebowisch"
+ n_dudlebian_prefix: "Dulebo"
+ n_dudlebian_collective_noun: "Dulebowen"
+
+ #Mosaburg/Blatnograd Slavs
+ blatnohrader: "Mosaburgisch"
+ blatnohrader_prefix: "Mosaburgo"
+ blatnohrader_collective_noun: "Mosaburger"
+
+ n_blatnohrader_noun: "Blatnograd-Slawonisch"
+ n_blatnohrader_prefix: "Blatnograd-Slavono"
+ n_blatnohrader_collective_noun: "Blatnograd-Slawen"
+
+ #Sava Slavs + Slavonians
+ slavonian: "Savisch"
+ slavonian_prefix: "Savo"
+ slavonian_collective_noun: "Savier"
+
+ n_slavonian_noun: "Slawonisch"
+ n_slavonian_prefix: "Slawono"
+ n_slavonian_collective_noun: "Slawonier"
+
+ #Pagani/Neretljani
+ neretljanian: "Narentanisch"
+ neretljanian_prefix: "Narentano"
+ neretljanian_collective_noun: "Narentanisch"
+
+ #Branices
+ branichian: "Branizisch"
+ branichian_prefix: "Branizo"
+ branichian_collective_noun: "Branizen"
+
+ #Obotrites in the Balkans
+ abotrite: "Abotritisch"
+ abotrite_prefix: "Abotrito"
+ abotrite_collective_noun: "Abotriten"
+
+ #Dukljans
+ doclean: "Dukleanisch"
+ doclean_prefix: "Dukleano"
+ doclean_collective_noun: "Dukleaner"
+
+ #Hum Slavs
+ zachlumian: "Zachlumisch"
+ zachlumian_prefix: "Zachlumo"
+ zachlumian_collective_noun: "Zachlumer"
+
+ #Trebljanians
+ travunian: "Travunisch"
+ travunian_prefix: "Travuno"
+ travunian_collective_noun: "Travunier"
+
+ #Ohrid Slavs
+ berzite: "Berzitisch"
+ berzite_prefix: "Berzito"
+ berzite_collective_noun: "Berziten"
+
+ #Union Culture of Dudlebian, Blatnoslavic, Slavonian und Abotrite
+ pannonian: "Dunavisch"
+ pannonian_prefix: "Dunavo"
+ pannonian_collective_noun: "Danuvier"
+
+ n_pannonian_noun: "Pannonisch"
+ n_pannonian_prefix: "Pannono"
+ n_pannonian_collective_noun: "Pannonier"
+
+ #Pannonian Romans
+ n_pannonian_romance_noun: "Casteisisch"
+ n_pannonian_romance_prefix: "Casteiso"
+ n_pannonian_romance_collective_noun: "Casteisier"
+
+ #Union Culture for the Slovenes, Serbs und Croats und everything in between
+ illyrian_slavic: "Illyrisch"
+ illyrian_slavic_prefix: "Illyro"
+ illyrian_slavic_collective_noun: "Illyrer"
+
+ #Union Culture of all the South Slavs
+ yugoslavian: "Jugoslawisch"
+ yugoslavian_prefix: "Jugoslawo"
+ yugoslavian_collective_noun: "Jugoslawen"
+
+########################
+#       BALTIC         #
+########################
+galindian: "Galindisch"
+ galindian_collective_noun: "Galinder"
+ galindian_prefix: "Galindo"
+ goliad: "Goljadisch"
+ goliad_collective_noun: "Goljad"
+ goliad_prefix: "Goljado"
+ zemgalian: "Semgallisch"
+ zemgalian_collective_noun: "Semgallen"
+ zemgalian_prefix: "Semgallo"
+ sudovian: "Jatwingisch"
+ sudovian_collective_noun: "Jatwinger"
+ sudovian_prefix: "Sudo"
+ selonian: "Selonisch"
+ selonian_collective_noun: "Selonen"
+ selonian_prefix: "Selono"
+ curonian: "Kurisch"
+ curonian_collective_noun: "Kuren"
+ curonian_prefix: "Kurono"
+ pruthenian: "Pruzzisch"
+ pruthenian_collective_noun: "Pruzzen"
+ pruthenian_prefix: "Pruzzo"
+
+ #Languages
+ language_pruthenic_baltic_name: "Prutenisch"
+ language_dniepr_baltic_name: "Dnjeprisch"
+
+########################
+#     BALTO-FINNIC     #
+########################
+ livonian: "Livisch"
+ livonian_collective_noun: "Livonen"
+ livonian_prefix: "Livono"
+
+ ingrian: "Ingermanisch"
+ ingrian_collective_noun: "Ingermanländer"
+ ingrian_prefix: "Ingermano"
+
+ tavastian: "Tavastianisch"
+ tavastian_collective_noun: "Tavastianer"
+ tavastian_prefix: "Tavast"
+
+ # Languages
+ language_finnish_name: "Finnisch"
+ language_estonian_name: "Estnisch"
+ language_ingrian_name: "Ischorisch"
+ language_livonian_name: "Livisch"
+ language_vepsian_name: "Wepsisch"
+ language_karelian_name: "Karelisch"
+
+
+########################
+#     BRITTONIC        #
+########################
+
+ cambrian: "Kambrisch"
+ cambrian_prefix: "Kambro"
+ cambrian_collective_noun:1 "Kambrier"
+
+ # Languages
+ language_kymraeg_name: "Kymrisch"
+ language_brythonek_name: "Britannisch"
+ language_cumbrian_name: "Kumbrisch"
+ language_cymraeg_name: "Cymrisch"
+ language_cornish_name: "Kornisch"
+ language_breton_name: "Bretonisch"
+ language_pictish_name: "Prydenisch"
+
+########################
+#       FRENCH         #
+########################
+
+ #French
+
+ name_list_french_ce: "Französisch"
+
+ name_list_occitan_ce: "Okzitanisch"
+
+ #Namelist
+ name_list_cisalpine_ce: "Cisalpinisch"
+
+ name_list_norman1: "Normannisch"
+
+ evenk: "Ewenkisch"
+ evenk_prefix: "Ewenkisch"
+ evenk_collective_noun:1 "Ewenkisch"
+
+ ###############################
+#         UGRO-PERMIC         #
+###############################
+
+ khanty: "Chantisch"
+ khanty_prefix: "Chanti"
+ khanty_collective_noun:1 "Chanten"
+
+ mansi: "Mansisch"
+ mansi_prefix: "Mansi"
+ mansi_collective_noun:1 "Mansen"
+
+ samoyed: "Samojedisch"
+ samoyed_prefix: "Samojedo"
+ samoyed_collective_noun:1 "Samojeden"
+
+ yeniseian: "Jenisseisch"
+ yeniseian_prefix: "Jenisseio"
+ yeniseian_collective_noun:1 "Jenisseier"
+
+ #Languages
+ language_samoyed_name: "Samojedisch"
+ language_yeniseian_name: "Jenisseisch"
+ language_mansi_name: "Mansisch"
+ language_khanty_name: "Chantisch"
+ language_komi_name: "Komi-Permisch"
+ language_udmurt_name: "Udmurtisch"
+
+ #Heritage
+ heritage_aramaic_name: "Aramäisch"
+ heritage_aramaic_collective_noun: "Aramäer"
+
+################################
+#         VOLGA FINNIC         #
+################################
+
+ #Languages
+ language_merya_name: "Merjanisch"
+ language_mari_name: "Tscheremissisch"
+ language_mordvin_name: "Mordwinisch"
+ language_muroma_name: "Muromisch"
+ language_meshchera_name: "Meschtscherisch"
+
+##################
+#   MAGYAR       #
+##################
+
+ #Namelistloc
+ name_list_mogyer_ce: "Mogyerisch"
+
+ name_list_hungarian_ce: "Ungarisch"
