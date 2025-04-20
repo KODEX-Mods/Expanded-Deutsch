@@ -482,13 +482,14 @@
  arpitan_ce_prefix: "Arpitan"
  arpitan_ce_collective_noun:1 "Arpitans"
 
- outremer: "Outremer"
- outremer_prefix: "Outremer"
- outremer_collective_noun: "Outremers"
+ outremer: "Oltremare"
+ outremer_prefix: "Oltremare"
+ outremer_collective_noun: "Oltremares"
+ name_list_outremer: "Oltremare"
 
- gascon: "Gascogn"
- gascon_prefix: "Gascognian"
- gascon_collective_noun: "Gascognians"
+ gascon: "Gascon"
+ gascon_prefix: "Gasconian"
+ gascon_collective_noun: "Gasconians"
 
  # Languages
  language_arpetan_name: "Arpetan"
@@ -876,8 +877,8 @@
  heritage_armenian_collective_noun: "Armenians"
 
  #Heritage
- heritage_aramean_name: "Aramean"
- heritage_aramean_collective_noun: "Aramean"
+ heritage_aramean_name: "Old Aramean"
+ heritage_aramean_collective_noun: " Old Arameans"
 
  #Heritage
  heritage_arberian_name: "Arberian"

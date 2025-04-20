@@ -271,3 +271,9 @@
 
  not_of_relevant_islamic_heritage_desc: "The [culture|E] is not of Arabic or Iranian [heritage|E]"
  culture_on_western_frontier_desc: "The [culture|E] does not have #V 20%#! of its [counties|E] in [GetGeographicalRegion('ghw_region_anatolia').GetName], [GetGeographicalRegion('ghw_region_near_east').GetName] or [GetGeographicalRegion('ghw_region_caucasus').GetName]"
+
+#####################################
+#REPLACE
+#####################################
+ heritage_syriac_name: "Aramean"
+ heritage_syriac_collective_noun: "Arameans"
