@@ -26,3 +26,5 @@
  no_special_succ: "Does not already hold a elective title"
 
  coking_ai_restrictions: "Checking if the Dev is AI... Please Wait"
+
+ tooltip_is_co_king_mod: "[candidate.GetSheHe|U] is Co-King: $VALUE|=+0$"
