@@ -1,10 +1,8 @@
 ﻿l_german:
  succ_exp_co_emperor_court_position:0 "Mitkaiser"
  succ_exp_co_emperor_court_position_desc:0 "Das Amt des Mitkaisers gewährt dem Träger alle Rechte und Privilegien des Oberkaisers, einschließlich der Fähigkeit, purpurgeborene Erben zu zeugen. Diese Position ist das prestigeträchtigste Amt, das eine Person innehaben kann, und verleiht dem Träger große Ehren."
- court_position_eunuch_trait:0 "[GetTrait('eunuch').GetName( ROOT.Char )]"
  court_position_born_in_the_purple_trait:0 "[GetTrait('born_in_the_purple').GetName( ROOT.Char )]"
  court_position_august_trait:0 "[GetTrait('august').GetName( ROOT.Char )]"
- court_position_strategist_trait:0 "[GetTrait('strategist').GetName( ROOT.Char )]"
 #  court_position_diplomat_trait:0 "[GetTrait('diplomat').GetName( ROOT.Char )]"
 #  court_position_administrator_trait:0 "[GetTrait('administrator').GetName( ROOT.Char )]"
 #  court_position_just_trait:0 "[GetTrait('just').GetName( ROOT.Char )]"
@@ -21,5 +19,5 @@
  court_position_parent_relation:0 "Elternteil"
  court_position_grandparent_relation:0 "Großelternteil"
  court_position_great_grandparent_relation:0 "Urgroßelternteil"
- court_position_close_family_relation:0 "Enge Familie"
- court_position_extended_family_relation:0 "Erweiterte Familie"
+ court_position_close_family_relation:0 "Naher Verwandter"
+ court_position_extended_family_relation:0 "Entfernter Verwandter"

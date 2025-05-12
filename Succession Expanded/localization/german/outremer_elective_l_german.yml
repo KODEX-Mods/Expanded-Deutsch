@@ -11,5 +11,5 @@
 
  tradition_crusader_states: "Kreuzfahrer-Herkunft"
  tradition_crusader_states_name: "Kreuzfahrer-Herkunft"
- tradition_crusader_states_desc: "Wir sind Fremde, die gekommen sind, um unseren Glauben zu bringen, wenn nötig mit Gewalt."
- culture_parameter_outremer_elective_successionn_enabled: "Schaltet #TOOLTIP:GAME_CONCEPT,succession_law Outremer-Wahl#!frei."
+ tradition_crusader_states_desc: "Wir sind Fremde, die gekommen sind, um unseren Glauben zu verbreiten, notfalls mit Gewalt."
+ culture_parameter_outremer_elective_successionn_enabled: "Schaltet #TOOLTIP:GAME_CONCEPT,succession_law Outremer-Wahl#! frei."
