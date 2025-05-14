@@ -157,8 +157,8 @@
  PORTRAIT_MODIFIER_custom_cloaks_male_west_sagum_04a_byzantine_duke: "@epe_icon_byzantine_gold! Byzantine Duke Sagum 5"
  PORTRAIT_MODIFIER_custom_cloaks_m_cloaks_sec_ep3_georgian_era2_roy_01_loros: "@epe_icon_georgian_gold! Georgia Royal Loros"   
 
- PORTRAIT_MODIFIER_custom_cloaks_m_cloaks_sec_ep3_byzantine_era2_roy_01_loros: "@roadstopower_icon! Byzantine Royal Loros"   
- PORTRAIT_MODIFIER_custom_cloaks_m_cloaks_sec_ep3_byzantine_era2_imp_01_loros: "@roadstopower_icon! Byzantine Imperial Loros"    
+ #PORTRAIT_MODIFIER_custom_cloaks_m_cloaks_sec_ep3_byzantine_era2_roy_01_loros: "@roadstopower_icon! Byzantine Royal Loros"   
+ #PORTRAIT_MODIFIER_custom_cloaks_m_cloaks_sec_ep3_byzantine_era2_imp_01_loros: "@roadstopower_icon! Byzantine Imperial Loros"    
 
  #EP2 Cloaks
  PORTRAIT_MODIFIER_custom_cloaks_m_cloaks_sec_ep2_byz_era1_nob_01_hi: "@epe_icon_byzantine_gold! Byzantine Duke Sagum 6"
@@ -200,7 +200,7 @@
  # BULGARIAN LANDS
  ################
 
- PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_ep3_byzantine_era2_roy_01: "@epe_icon_byzantine_gold! Byzantine EP3 Royal Clothes 1"
+ #PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_ep3_byzantine_era2_roy_01: "@epe_icon_byzantine_gold! Byzantine EP3 Royal Clothes 1"
  PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_ep3_georgian_era2_roy_01: "@epe_icon_georgian_gold! Georgian EP3 Era 2 Royal 1"
  PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_ep3_armenian_era2_roy_01: "@epe_icon_armenian_gold! Armenian EP3 Era 2 Royal 1"
  PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_ep3_bulgarian_era2_roy_01: "@epe_icon_bulgarian_gold! Bulgaria EP3 Era 2 Royal 1"
@@ -210,7 +210,7 @@
  PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_ep3_bulgarian_era1_imp_01: "@epe_icon_bulgarian_gold! Bulgarian EP3 Era 1 Imperial 1"
  PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_ep3_south_slav_era1_imp_01: "@epe_icon_south_slavs_gold! South Slav EP3 Era 1 Imperial 1"
 
- PORTRAIT_MODIFIER_custom_clothes_f_clothes_sec_ep3_byzantine_era2_roy_01: "@epe_icon_byzantine_gold! Byzantine EP3 Royal Clothes 1"
+ #PORTRAIT_MODIFIER_custom_clothes_f_clothes_sec_ep3_byzantine_era2_roy_01: "@epe_icon_byzantine_gold! Byzantine EP3 Royal Clothes 1"
  PORTRAIT_MODIFIER_custom_clothes_f_clothes_sec_ep3_georgian_era2_roy_01: "@epe_icon_georgian_gold! Georgian EP3 Era 2 Royal 1"
  PORTRAIT_MODIFIER_custom_clothes_f_clothes_sec_ep3_armenian_era2_roy_01: "@epe_icon_armenian_gold! Armenian EP3 Era 2 Royal 1"
  PORTRAIT_MODIFIER_custom_clothes_f_clothes_sec_ep3_bulgarian_era2_roy_01: "@epe_icon_bulgarian_gold! Bulgaria EP3 Era 2 Royal 1"
@@ -252,14 +252,16 @@
  PORTRAIT_MODIFIER_custom_clothes_f_clothes_sec_ep3_bulgarian_era2_nob_02_hi: "@epe_icon_bulgarian_gold! Bulgarian EP3 Era 2 High Nobility 2"
  PORTRAIT_MODIFIER_custom_clothes_f_clothes_sec_ep3_bulgarian_era2_nob_03_hi: "@epe_icon_bulgarian_gold! Bulgarian EP3 Era 2 High Nobility 3"
  
-
-
+ PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_pol_bulgarian_common_01: "@epe_icon_bulgarian_common! Bulgarian POL Common 1"
+ PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_pol_bulgarian_low_nob_01: "@epe_icon_bulgarian_bronze! Bulgarian POL Low Nobility 1"
+ PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_pol_bulgarian_high_nob_01: "@epe_icon_bulgarian_gold! Bulgarian POL High Nobility 1"
+ PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_pol_bulgarian_imperial_01: "@epe_icon_bulgarian_gold! Bulgarian POL Imperial 1"
 
 
 ###############
 ### South Slavs
 ###############
-  PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_ep3_south_slav_era1_com_01: "@epe_icon_south_slavs_gold! South Slav EP3 Era 1 Common 1"  
+ PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_ep3_south_slav_era1_com_01: "@epe_icon_south_slavs_gold! South Slav EP3 Era 1 Common 1"  
  PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_ep3_south_slav_era1_nob_01_lo: "@epe_icon_south_slavs_silver! South Slav EP3 Era 1 Low Nobility 1"  
  PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_ep3_south_slav_era1_nob_02_lo: "@epe_icon_south_slavs_silver! South Slav EP3 Era 1 Low Nobility 2"  
  PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_ep3_south_slav_era1_nob_03_lo: "@epe_icon_south_slavs_silver! South Slav EP3 Era 1 Low Nobility 3"  
@@ -323,6 +325,12 @@
 ###############
 ### High medieval Iranian ###
 ###############
+
+ PORTRAIT_MODIFIER_custom_cloaks_m_cloak_persian_spy_master_01: "@epe_icon_non_islamic_iranian_silver! Persian Spymaster Cloak 1"
+ PORTRAIT_MODIFIER_custom_cloaks_f_cloak_persian_spy_master_01: "@epe_icon_non_islamic_iranian_silver! Persian Spymaster Cloak 1"
+ PORTRAIT_MODIFIER_custom_clothes_m_clothes_epe_persian_spymaster_01: "@epe_icon_non_islamic_iranian_silver! Persian Spymaster Clothes 1"
+ PORTRAIT_MODIFIER_custom_clothes_f_clothes_epe_persian_spymaster_01: "@epe_icon_non_islamic_iranian_silver! Persian Spymaster Clothes 1"
+
 
 ### Male ###
 #Commoner#
@@ -1500,17 +1508,28 @@
 
  PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_western_western_spymaster_01: "@epe_icon_western_generic_silver! Western Spy Master Clothes 1" 
  PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_western_western_spymaster_01: "@epe_icon_western_generic_silver! Western Spy Master Clothes 1"
- PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_mena_western_spymaster_01: "@epe_icon_mena_western_bronze! MENA Western Spymaster Clothing 1" 
- PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_mena_western_spymaster_01: "@epe_icon_mena_western! MENA Western Spymaster 1" 
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_mena_western_spymaster_01: "@epe_icon_mena_generic_bronze! MENA Spymaster Clothing 1" 
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_mena_western_spymaster_01: "@epe_icon_mena_generic_bronze! MENA Spymaster Clothing 1" 
+ PORTRAIT_MODIFIER_custom_cloaks_male_cloak_mena_spy_master_01: "@epe_icon_mena_generic_bronze! MENA Spymaster Cloak 1" 
+ PORTRAIT_MODIFIER_custom_cloaks_female_cloak_mena_spy_master_01: "@epe_icon_mena_generic_bronze! MENA Spymaster Cloak 1" 
 
-
-
-
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_northern_spymaster_01: "@epe_icon_norse_bronze! Northern Spy Master Hood" 
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_northern_spymaster_01: "@epe_icon_norse_bronze! Northern Spy Master Hood" 
+ PORTRAIT_MODIFIER_custom_cloaks_male_furs_epe_northern_spymaster: "@epe_icon_norse_bronze! Northern Spy Master cloak"
+ PORTRAIT_MODIFIER_custom_cloaks_female_furs_epe_northern_spymaster: "@epe_icon_norse_bronze! Northern Spy Master cloak" 
  PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_western_nudity_01: "No clothes"
  PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_western_nudity_01: "$PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_western_nudity_01$"
  
+ PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_saladin_war_imp_01: "@epe_icon_mena_generic_gold! Saladin War Armor"
+ PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_jerusalem_war_roy_01: "@epe_icon_western_generic_gold! Jerusalem Royal War Armor"
+ PORTRAIT_MODIFIER_custom_clothes_m_epe_late_western_nobility_hi_01_baldwin_white: "@epe_icon_western_generic_gold! Baldwin White clothes"
+ PORTRAIT_MODIFIER_custom_clothes_f_clothes_sec_ep3_byzantine_era1_com_01_hi: "@roadstopower_icon! Commoner's Stikharion High"
+  
+ PORTRAIT_MODIFIER_custom_cloaks_m_cloaks_west_sagum_03a_epe_baldwin_white: "@epe_icon_western_generic_gold! Baldwin White Cloak"  
+ PORTRAIT_MODIFIER_custom_special_masks_m_headgear_baldwin_mask_war_01: "@epe_icon_western_generic_gold! Baldwin War Mask"  
+ PORTRAIT_MODIFIER_custom_special_masks_m_headgear_baldwin_mask_clean_01: "@epe_icon_western_generic_gold! Baldwin Clean Mask"  
  
- 
+  
 ###############
 ### Georgian ###
 ###############
@@ -1772,6 +1791,74 @@
 ##War armor 
 
  
+ ################
+ # Norman-Sicily
+ ################
+ PORTRAIT_MODIFIER_custom_cloaks_m_cloaks_sec_ep3_norman_sicilian_roy_01_loros: "@epe_icon_sicily_gold! Norman-Sicilian Royal Loros" 
+ PORTRAIT_MODIFIER_custom_cloaks_f_cloaks_sec_sp2_norman_sicilian_imp_01: "@epe_icon_sicily_gold! Norman-Sicilian Royal cloak"
+ PORTRAIT_MODIFIER_custom_cloaks_m_cloaks_sec_sp2_norman_sicilian_imp_01: "@epe_icon_sicily_gold! Norman-Sicilian Royal cloak"
+  
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_norman_sicilian_01_high: "@epe_icon_sicily_silver! Norman-Sicilian EP3 Era 2 High Nobility 1"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_epe_norman_sicilian_02_high: "@epe_icon_sicily_silver! Norman-Sicilian EP3 Era 2 High Nobility 2" 
+ PORTRAIT_MODIFIER_custom_clothes_f_clothes_sec_ep3_norman_sicilian_era2_nob_01_hi: "@epe_icon_sicily_gold! Norman-Sicilian EP3 Era 2 High Nobility 3"
+ PORTRAIT_MODIFIER_custom_clothes_f_clothes_sec_ep3_norman_sicilian_era2_nob_02_hi: "@epe_icon_sicily_gold! Norman-Sicilian EP3 Era 2 High Nobility 4"
+ PORTRAIT_MODIFIER_custom_clothes_f_clothes_sec_ep3_norman_sicilian_era2_nob_03_hi: "@epe_icon_sicily_gold! Norman-Sicilian EP3 Era 2 High Nobility 5"
+ PORTRAIT_MODIFIER_custom_clothes_f_clothes_sec_ep3_norman_sicilian_era2_roy_01: "@epe_icon_sicily_gold! Norman-Sicilian EP3 Era 2 Royalty 1"
+
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_norman_sicilian_01_high: "@epe_icon_sicily_silver! Norman-Sicilian EP3 Era 2 High Nobility 1"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_epe_norman_sicilian_02_high: "@epe_icon_sicily_silver! Norman-Sicilian EP3 Era 2 High Nobility 2" 
+ PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_ep3_norman_sicilian_era2_nob_01_hi: "@epe_icon_sicily_gold! Norman-Sicilian EP3 Era 2 High Nobility 3"
+ PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_ep3_norman_sicilian_era2_nob_02_hi: "@epe_icon_sicily_gold! Norman-Sicilian EP3 Era 2 High Nobility 4"
+ PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_ep3_norman_sicilian_era2_nob_03_hi: "@epe_icon_sicily_gold! Norman-Sicilian EP3 Era 2 High Nobility 5"
+ PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_ep3_norman_sicilian_era2_roy_01: "@epe_icon_sicily_gold! Norman-Sicilian EP3 Era 2 Royalty 1" 
+ 
+ 
+ 
+ PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_ep2_western_era1_war_nob_03_lo: "@toursandtournaments_icon! Carolingian Low Nobility Armor 3" 
+ PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_ep2_western_era1_war_nob_03_hi: "@toursandtournaments_icon! Carolingian High Nobility Armor 3" 
+ PORTRAIT_MODIFIER_custom_clothes_f_clothes_sec_ep2_western_era1_war_nob_03_lo: "@toursandtournaments_icon! Carolingian Low Nobility Armor 3" 
+ PORTRAIT_MODIFIER_custom_clothes_f_clothes_sec_ep2_western_era1_war_nob_03_hi: "@toursandtournaments_icon! Carolingian High Nobility Armor 3" 
+  
+ PORTRAIT_MODIFIER_custom_cloaks_male_frankish_era1war_low_sagum_01: "@epe_icon_frankish_bronze!Carolingian Low War Sagum 1"   
+ PORTRAIT_MODIFIER_custom_cloaks_male_frankish_era1war_low_sagum_02: "@epe_icon_frankish_bronze!Carolingian Low War Sagum 2"
+ PORTRAIT_MODIFIER_custom_cloaks_female_frankish_era1war_low_sagum_01: "@epe_icon_frankish_bronze!Carolingian Low War Sagum 1"  
+ 
+ 
+ 
+ PORTRAIT_MODIFIER_custom_legwear_m_legwear_sec_andalusian_nob_01_lo: "@epe_icon_andalusia_bronze! Andalusian Legwear Low" 
+ PORTRAIT_MODIFIER_custom_legwear_m_legwear_sec_andalusian_nob_01_hi: "@epe_icon_andalusia_gold! Andalusian Legwear High"  
+ PORTRAIT_MODIFIER_custom_legwear_f_legwear_sec_andalusian_nob_01_lo: "@epe_icon_andalusia_bronze! Andalusian Legwear Low" 
+ PORTRAIT_MODIFIER_custom_legwear_f_legwear_sec_andalusian_nob_01_hi: "@epe_icon_andalusia_gold! Andalusian Legwear High"   
+ 
+ PORTRAIT_MODIFIER_custom_cloaks_m_cloaks_sec_ep2_western_era1_nob_01_roy: "@epe_icon_frankish_gold! Carolingian Royal Sagum 1"  
+ PORTRAIT_MODIFIER_custom_cloaks_m_cloaks_sec_ep2_western_era1_nob_01_imp: "@epe_icon_frankish_gold! Carolingian Imperial Sagum 1"   
+ PORTRAIT_MODIFIER_custom_cloaks_m_cloaks_sec_ep2_western_era2_nob_01_roy: "@epe_icon_western_generic_gold! Western Royal Sagum 1" 
+ PORTRAIT_MODIFIER_custom_cloaks_f_cloaks_sec_ep2_western_era2_nob_01_roy: "@epe_icon_western_generic_gold! Western Royal Sagum 1"   
+ PORTRAIT_MODIFIER_custom_cloaks_male_west_sagum_02a_imperial: "@epe_icon_frankish_gold! Carolingian Imperial Sagum 2"   
+ PORTRAIT_MODIFIER_custom_cloaks_male_west_sagum_01_visigoth_royalty: "@epe_icon_visigoth_gold! Visigoth Royal Sagum 2"     
+ PORTRAIT_MODIFIER_custom_cloaks_f_cloaks_sec_ep2_western_era1_nob_01_roy: "@epe_icon_frankish_gold! Carolingian Royal Sagum 1"  
+ PORTRAIT_MODIFIER_custom_cloaks_f_cloaks_sec_ep2_western_era1_nob_01_imp: "@epe_icon_frankish_gold! Carolingian Imperial Sagum 1"     
+ PORTRAIT_MODIFIER_custom_cloaks_female_west_sagum_01_visigoth_royalty: "@epe_icon_visigoth_gold! Visigoth Royal Sagum 1"  
+ 
+ 
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_mpo_steppe_nobility_01_common: "@khansofthesteppe_icon! Steppe mongol Commoner Clothing 1" 
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_mpo_steppe_nobility_01_low: "@khansofthesteppe_icon! Steppe mongol Low Nobility Clothing 1" 
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_mpo_steppe_nobility_01_high: "@khansofthesteppe_icon! Steppe mongol High Nobility Clothing 1" 
+  
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_mpo_steppe_nobility_02_common: "@khansofthesteppe_icon! Steppe mongol Commoner Clothing 1" 
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_mpo_steppe_nobility_02_low: "@khansofthesteppe_icon! Steppe mongol Low Nobility Clothing 1" 
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_mpo_steppe_nobility_02_high: "@khansofthesteppe_icon! Steppe mongol High Nobility Clothing 1" 
+ 
+ 
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_mpo_steppe_nobility_01_common: "@khansofthesteppe_icon! Steppe mongol Commoner Clothing 1" 
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_mpo_steppe_nobility_01_low: "@khansofthesteppe_icon! Steppe mongol Low Nobility Clothing 1" 
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_mpo_steppe_nobility_01_high: "@khansofthesteppe_icon! Steppe mongol High Nobility Clothing 1" 
+  
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_mpo_steppe_nobility_02_common: "@khansofthesteppe_icon! Steppe mongol Commoner Clothing 1" 
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_mpo_steppe_nobility_02_low: "@khansofthesteppe_icon! Steppe mongol Low Nobility Clothing 1" 
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_mpo_steppe_nobility_02_high: "@khansofthesteppe_icon! Steppe mongol High Nobility Clothing 1" 
+ 
+  
  
  
  

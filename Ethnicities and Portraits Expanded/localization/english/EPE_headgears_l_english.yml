@@ -29,8 +29,8 @@
 ### Sicilian
 #############
 
- PORTRAIT_MODIFIER_custom_headgear_m_crown_of_roger_II_01: "Crown of Roger II"
- PORTRAIT_MODIFIER_custom_headgear_f_crown_of_roger_II_01: "Crown of Roger II"
+ PORTRAIT_MODIFIER_custom_headgear_m_crown_of_roger_II_01: "@epe_icon_sicily_gold! Crown of Roger II"
+ PORTRAIT_MODIFIER_custom_headgear_f_crown_of_roger_II_01: "@epe_icon_sicily_gold! Crown of Roger II"
 
 # ### Male ###
 #  PORTRAIT_MODIFIER_custom_cloaks_m_cloaks_sec_fp4_western_era3_nob_01: "@legendsofthedead_icon! Cloak of the Bocksten Man"
@@ -44,6 +44,9 @@
 ###############
 ###  Eastern/non islamic Iranians ###
 ###############
+
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_epe_persian_spymaster_01: "@epe_icon_non_islamic_iranian_silver! Persian Spymaster Headgear 1"
+ PORTRAIT_MODIFIER_custom_headgear_female_headgear_epe_persian_spymaster_01: "@epe_icon_non_islamic_iranian_silver! Persian Spymaster Headgear 1"
 
 ### Male ###
  PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_sogdian_cap_01_common: "@epe_icon_non_islamic_iranian_bronze! Sogdian Cap"
@@ -424,8 +427,8 @@
 
  PORTRAIT_MODIFIER_custom_headgear_Female_Khanum_Headress_01_seljuk: "@epe_icon_seljuk_gold! Seljuk Khanum Headdress 1"   
  PORTRAIT_MODIFIER_custom_headgear_Female_Khanum_Headress_02_seljuk: "@epe_icon_seljuk_gold! Seljuk Khanum Headdress 2"   
- PORTRAIT_MODIFIER_custom_headgear_Female_Khanum_Headress_01_cuman: "@epe_icon_cuman_gold! Cuman Khanum Headdress 1"  
- PORTRAIT_MODIFIER_custom_headgear_Female_Khanum_Headress_02_cuman: "@epe_icon_cuman_gold! Cuman Khanum Headdress 2"  
+ PORTRAIT_MODIFIER_custom_headgear_f_Khanum_Headress_01_cuman: "@epe_icon_cuman_gold! Cuman Khanum Headdress 1"  
+ PORTRAIT_MODIFIER_custom_headgear_f_Khanum_Headress_02_cuman: "@epe_icon_cuman_gold! Cuman Khanum Headdress 2"  
  PORTRAIT_MODIFIER_custom_headgear_Female_Khanum_Headress_01_uyghur: "@epe_icon_uyghur_gold! Uyghur Khanum Headdress 1"
  PORTRAIT_MODIFIER_custom_headgear_Female_Khanum_Headress_02_uyghur: "@epe_icon_uyghur_gold! Uyghur Khanum Headdress 2" 
  PORTRAIT_MODIFIER_custom_headgear_male_epe_byz_pannonian_hat_01_high: "@epe_icon_byzantine_gold! High Byzantine Pannonian Cap 1"
@@ -446,8 +449,10 @@
 
  PORTRAIT_MODIFIER_custom_headgear_male_western_great_helm_01: "@epe_icon_western_generic_silver! High Great Helm 1"    
  PORTRAIT_MODIFIER_custom_headgear_male_western_great_helm_02: "@epe_icon_western_generic_silver! High Great Helm 2"    
- PORTRAIT_MODIFIER_custom_headgear_male_norman_fpl_helmet_01: "@epe_icon_italian_silver! Norman Faceplate Helmet 1"    
- PORTRAIT_MODIFIER_custom_headgear_male_norman_fpl_helmet_02: "@epe_icon_italian_silver! Norman Faceplate Helmet 2"    
+ PORTRAIT_MODIFIER_custom_headgear_male_norman_fpl_helmet_01: "@epe_icon_sicily_bronze! Norman Faceplate Helmet 1"    
+ PORTRAIT_MODIFIER_custom_headgear_male_norman_fpl_helmet_02: "@epe_icon_sicily_silver! Norman Faceplate Helmet 2" 
+ PORTRAIT_MODIFIER_custom_headgear_male_norman_fpl_helmet_01b: "@epe_icon_sicily_bronze! Norman Faceplate Helmet 1b"    
+ PORTRAIT_MODIFIER_custom_headgear_male_norman_fpl_helmet_02b: "@epe_icon_sicily_silver! Norman Faceplate Helmet 2b"   
  PORTRAIT_MODIFIER_custom_headgear_male_iron_crown_of_lombardy_01: "@epe_icon_italian_gold! Lombard Iron Crown"    
  PORTRAIT_MODIFIER_custom_headgear_female_iron_crown_of_lombardy_01: "@epe_icon_italian_gold! Lombard Iron Crown"     
  PORTRAIT_MODIFIER_custom_headgear_male_khorasan_helmet_01: "@epe_icon_non_islamic_iranian_bronze! Khorasan Helmet 1"
@@ -676,6 +681,8 @@
  PORTRAIT_MODIFIER_custom_headgear_female_epe_western_spy_master_hood: "@epe_icon_western_generic_silver! Western Spy Master Hood"    
  PORTRAIT_MODIFIER_custom_headgear_male_headgear_epe_mena_spy_master_01: "@epe_icon_mena_generic_silver! Muslim Spy Master Hood"    
  PORTRAIT_MODIFIER_custom_headgear_female_headgear_epe_mena_spy_master_01: "@epe_icon_mena_generic_silver! Muslim Spy Master Hood"    
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_epe_northern_spymaster_headband_01: "@epe_icon_norse_bronze! Northern Spy Master Headband" 
+ PORTRAIT_MODIFIER_custom_headgear_female_headgear_epe_northern_spymaster_headband_01: "@epe_icon_norse_bronze! Northern Spy Master Headband" 
 
  PORTRAIT_MODIFIER_custom_headgear_male_epe_holy_crown_of_hungary_01: "@epe_icon_western_generic_gold! Holy Crown of Hungary (Late)"    
  PORTRAIT_MODIFIER_custom_headgear_female_epe_holy_crown_of_hungary_01: "@epe_icon_western_generic_gold! Holy Crown of Hungary (Late)"  
@@ -845,24 +852,10 @@
  PORTRAIT_MODIFIER_custom_headgear_male_headgear_epe_tuareg_tagelmust_04_high_blue: "@epe_icon_maghreb_silver! Tuareg Taglemust 4 Blue"   
 
 
-
-
-
- 
-##CFP 
- PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_africa_west_cfp_low_nobility_01: "@cfp_icon_yellow! Fulani Tengade With Turban"
- PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_africa_west_cfp_low_nobility_02: "@cfp_icon_yellow! Fulani Tengade" 
- PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_africa_west_cfp_low_nobility_01: "@cfp_icon_yellow! Fulani Turban And Circlet"
- PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_africa_west_cfp_low_nobility_02: "$PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_africa_west_cfp_low_nobility_01$"
- PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_africa_west_cfp_high_nobility_01: "@cfp_icon_yellow! Akan Ducal Coif"
- PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_africa_west_cfp_high_nobility_01: "$PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_africa_west_cfp_high_nobility_01$" 
- PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_sub_saharan_imperial_02: "@cfp_icon_yellow! Imperial Crown without Headwrap"
  PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_sub_saharan_imperial_02: "$PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_sub_saharan_imperial_02$"
  PORTRAIT_MODIFIER_custom_headgear_female_frankish_royal_crown_03: "@epe_icon_merovingian_gold! Frankish Royal Crown 3"   
  PORTRAIT_MODIFIER_custom_headgear_female_frankish_royal_crown_04: "@epe_icon_merovingian_gold! Frankish Royal Crown 4"    
  PORTRAIT_MODIFIER_custom_headgear_female_frankish_royal_crown_05: "@epe_icon_merovingian_gold! Frankish Royal Crown 5"    
- PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_northern_cfp_war_coppergate_01: "@cfp_icon! Anglo-Saxon Helm (Coppergate)"
- PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_northern_cfp_war_coppergate_01: "$PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_northern_cfp_war_coppergate_01$"
  PORTRAIT_MODIFIER_custom_headgear_male_celtic_leather_headband_01: "@epe_icon_celtic_bronze! Gaelic Leather Headband 1" 
  PORTRAIT_MODIFIER_custom_headgear_male_celtic_leather_headband_02: "@epe_icon_celtic_bronze! Gaelic Leather Headband 2"
  PORTRAIT_MODIFIER_custom_headgear_female_celtic_leather_headband_01: "@epe_icon_celtic_bronze! Gaelic Leather Headband 1" 
@@ -907,14 +900,15 @@
  PORTRAIT_MODIFIER_custom_headgear_female_headgear_epe_western_muslim_royal_02: "@epe_icon_mena_generic_gold! Western Muslim Royalty headgear 2"   
  PORTRAIT_MODIFIER_custom_headgear_male_headgear_epe_western_muslim_imperial_01: "@epe_icon_mena_generic_gold! Western Muslim Imperial headgear 1"   
 #  PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_fp2_iberian_muslim_nobility_01:1 "Andalusian Courtier's Turban"
+ PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_epe_byzantine_high_nobility_01:0 "Jeweled Top"
 
-
-
-
-
-
-
-
+ PORTRAIT_MODIFIER_custom_headgear_m_headgear_sec_ep2_western_era1_war_nob_02:0 "@toursandtournaments_icon! Carolingian Helmet 2"
+ PORTRAIT_MODIFIER_custom_headgear_male_iberian_nasalhelm_01b:0 "@epe_icon_western_generic_silver! Iberian Nasalhelm"
+ PORTRAIT_MODIFIER_custom_headgear_m_headgear_epe_crusades_western_war_nob_01:0 "Crusader Open Helm"
+ PORTRAIT_MODIFIER_custom_headgear_m_headgear_epe_crusades_western_war_nob_02:0 "Crusader Spangenhelm Facemask"
+ PORTRAIT_MODIFIER_custom_headgear_m_headgear_sec_dde_hre_war_nob_02_lo:0 "@garments_icon! Germanic Cone Helmet Low With Mail"
+ PORTRAIT_MODIFIER_custom_headgear_m_headgear_sec_dde_hre_war_nob_02_hi:0 "@garments_icon! Germanic Cone Helmet High With Mail"
+ PORTRAIT_MODIFIER_custom_headgear_m_headgear_epe_ep2_western_era1_nob_01_high:0 "@toursandtournaments_icon! Carolingian High Noble headwear 1"
 
 
 
@@ -975,22 +969,16 @@
  
  
  
- 
- 
- ###CFP 
- PORTRAIT_MODIFIER_custom_special_headgear_male_headgear_secular_iberian_cfp_castilian_royalty_01: "@cfp_icon! Castilian Crown"
- PORTRAIT_MODIFIER_custom_special_headgear_female_headgear_secular_iberian_cfp_castilian_royalty_01: "$PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_iberian_cfp_castilian_royalty_01$"
- 
- PORTRAIT_MODIFIER_custom_special_headgear_male_headgear_secular_iberian_cfp_aragonese_royalty_01: "@cfp_icon! Aragonese Dragon Crown"
- PORTRAIT_MODIFIER_custom_special_headgear_female_headgear_secular_iberian_cfp_aragonese_royalty_01: "$PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_iberian_cfp_aragonese_royalty_01$"
- PORTRAIT_MODIFIER_custom_special_headgear_male_headgear_secular_rre_laurelwreath_01: "@cfp_icon! Laurel wreath"
+
  PORTRAIT_MODIFIER_custom_special_headgear_female_headgear_secular_rre_laurelwreath_01: "$PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_rre_laurelwreath_01$"
- PORTRAIT_MODIFIER_custom_special_headgear_male_headgear_secular_rre_laurelwreath_02: "@cfp_icon! Golden laurel wreath"
  PORTRAIT_MODIFIER_custom_special_headgear_female_headgear_secular_rre_laurelwreath_02: "$PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_rre_laurelwreath_02$"
- PORTRAIT_MODIFIER_custom_special_headgear_male_headgear_secular_rre_laurelwreath_03: "@cfp_icon! Classic golden laurel wreath"
  PORTRAIT_MODIFIER_custom_special_headgear_female_headgear_secular_rre_laurelwreath_03: "$PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_rre_laurelwreath_03$" 
   
  
+ 
+ PORTRAIT_MODIFIER_custom_headgear_m_headgear_ayyubid_war_royality_01: "@epe_icon_mena_generic_gold! Ayyubid Royal War Helmet"
+ PORTRAIT_MODIFIER_custom_headgear_m_headgear_secular_baldwin_crown_01: "@epe_icon_western_generic_gold! Baldwin Royal Headpiece"
+
  
  
  
@@ -1003,9 +991,9 @@
 #####################################  
  
 #  PORTRAIT_MODIFIER_custom_special: "Accessories"
- PORTRAIT_MODIFIER_custom_special_male_empty: "No Accessory"
+# PORTRAIT_MODIFIER_custom_special_male_empty: "No Accessory"
 #  PORTRAIT_MODIFIER_custom_special_female_empty: "No Accessory"
- PORTRAIT_MODIFIER_custom_special_boy_empty: "No Accessory"
+# PORTRAIT_MODIFIER_custom_special_boy_empty: "No Accessory"
 #  PORTRAIT_MODIFIER_custom_special_girl_empty: "No Accessory"
  PORTRAIT_MODIFIER_custom_headgear_m_headgear_sec_epe_fp4_western_era3_commoner_04: "@legendsofthedead_icon! Commoner Hooded Cloak Lowered
  PORTRAIT_MODIFIER_custom_headgear_f_headgear_sec_epe_fp4_western_era3_commoner_04: "@legendsofthedead_icon! Commoner Hooded Cloak Lowered
@@ -1023,4 +1011,44 @@
 #  PORTRAIT_MODIFIER_custom_special_female_headgear_special_blindfold_01: "Blindfold"
 
 
- throne_room_one_handed_passive_3: "One-Handed Passive 3"
+# throne_room_one_handed_passive_3: "One-Handed Passive 3"
+ 
+ 
+ 
+ 
+#####################################
+#           Additive Headgear       #
+#####################################
+
+ PORTRAIT_MODIFIER_custom_additive_headgear: "Additive Headgear"    
+ PORTRAIT_MODIFIER_custom_additive_headgear_male_empty: "No Headwear"  
+ PORTRAIT_MODIFIER_custom_additive_headgear_female_empty: "No Headwear"   
+ PORTRAIT_MODIFIER_custom_additive_headgear_boy_empty: "No Headwear"  
+ PORTRAIT_MODIFIER_custom_additive_headgear_girl_empty: "No Headwear"  
+
+  
+ PORTRAIT_MODIFIER_custom_additive_headgear_female_headgear_secular_western_nobility_01:0 "Veil" 
+ PORTRAIT_MODIFIER_custom_additive_headgear_female_headgear_secular_western_nobility_01_2:0 "Veil and Wimple" 
+ PORTRAIT_MODIFIER_custom_additive_headgear_female_headgear_secular_western_nobility_02:0 "Circular Veil" 
+ PORTRAIT_MODIFIER_custom_additive_headgear_female_headgear_secular_western_nobility_03:0 "Gold Trim Veil and Wimple" 
+ PORTRAIT_MODIFIER_custom_additive_headgear_f_headgear_sec_ep2_western_era1_com_01:0 "@toursandtournaments_icon! Frankish Veil"
+ PORTRAIT_MODIFIER_custom_additive_headgear_f_headgear_sec_ep2_western_era1_com_02:0 "@toursandtournaments_icon! Commoner's Headscarf"
+ PORTRAIT_MODIFIER_custom_additive_headgear_f_headgear_sec_ep2_western_era1_nob_01:0 "@toursandtournaments_icon! Frankish Noblewoman's Veil"
+ PORTRAIT_MODIFIER_custom_additive_headgear_f_headgear_sec_ep2_western_era1_nob_02:0 "@toursandtournaments_icon! Noblewoman's Headscarf"
+ PORTRAIT_MODIFIER_custom_additive_headgear_female_headgear_secular_dde_hre_common_01:0 "@garments_icon! Fillet and Barbette with Hairnet" 
+ PORTRAIT_MODIFIER_custom_additive_headgear_female_headgear_secular_dde_hre_common_02:0 "@garments_icon! Fillet and Barbette with Veil" 
+ PORTRAIT_MODIFIER_custom_additive_headgear_f_headgear_sec_sp3_western_hi_nob_01: "@couture_icon! Torque with Barbette"  
+ PORTRAIT_MODIFIER_custom_additive_headgear_f_headgear_sec_fp4_western_nob_01_com: "@legendsofthedead_icon! Wool Toque with Veil"
+ PORTRAIT_MODIFIER_custom_additive_headgear_f_headgear_sec_fp4_western_nob_01_lo: "@legendsofthedead_icon! Silk Toque with Veil"
+ PORTRAIT_MODIFIER_custom_additive_headgear_f_headgear_sec_pol_era3_war_crest_01:0 "$PORTRAIT_MODIFIER_custom_special_m_headgear_sec_pol_era3_war_crest_01$"
+ PORTRAIT_MODIFIER_custom_additive_headgear_f_headgear_sec_pol_era4_war_crown_01:0 "$PORTRAIT_MODIFIER_custom_special_m_headgear_sec_pol_era4_war_crown_01$"
+ PORTRAIT_MODIFIER_custom_additive_headgear_m_headgear_sec_pol_era3_war_crest_01:0 "@westslavic_icon! Slavic Crest"
+ PORTRAIT_MODIFIER_custom_additive_headgear_m_headgear_sec_pol_era4_war_crown_01:0 "@westslavic_icon! Battle Crown" 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
