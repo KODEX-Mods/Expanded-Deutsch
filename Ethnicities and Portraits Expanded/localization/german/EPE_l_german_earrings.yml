@@ -1,6 +1,6 @@
 ﻿l_german:
 
- PORTRAIT_MODIFIER_custom_earrings: "Ohrringe"
+PORTRAIT_MODIFIER_custom_earrings: "Ohrringe"
  PORTRAIT_MODIFIER_custom_earrings_male_empty: "Keine Ohrringe"
  PORTRAIT_MODIFIER_custom_earrings_female_empty: "Keine Ohrringe"
  PORTRAIT_MODIFIER_custom_earrings_boy_empty: "Keine Ohrringe"
@@ -10,10 +10,22 @@
  PORTRAIT_MODIFIER_custom_earrings_female_epe_indian_earing_01: "@epe_icon_south_indian_gold! Indische Ohrringe 1"
  PORTRAIT_MODIFIER_custom_earrings_female_epe_indian_earing_02: "@epe_icon_south_indian_gold! Indische Ohrringe 2"
  PORTRAIT_MODIFIER_custom_earrings_female_epe_indian_earing_03: "@epe_icon_south_indian_gold! Indische Ohrringe 3"
- PORTRAIT_MODIFIER_custom_earrings_female_epe_mena_earing_01: "@epe_icon_abbasid_gold! Mena-Ohrringe 1"
+ PORTRAIT_MODIFIER_custom_earrings_female_epe_mena_earing_01: "@epe_icon_abbasid_gold! MENA-Ohrringe 1"
  PORTRAIT_MODIFIER_custom_earrings_female_epe_steppe_earing_01: "@epe_icon_eastern_turkic_gold! Steppen-Ohrringe 1"
  PORTRAIT_MODIFIER_custom_earrings_female_epe_steppe_earing_02: "@epe_icon_eastern_turkic_gold! Steppen-Ohrringe 2"
 
  PORTRAIT_MODIFIER_custom_earrings_female_epe_andalucia_earing_01: "@epe_icon_andalusia_gold! Andalusische Ohrringe 1"
  PORTRAIT_MODIFIER_custom_earrings_female_epe_andalucia_earing_02: "@epe_icon_andalusia_gold! Andalusische Ohrringe 2"
  PORTRAIT_MODIFIER_custom_earrings_female_epe_andalucia_earing_03: "@epe_icon_andalusia_gold! Andalusische Ohrringe 3"
+
+ PORTRAIT_MODIFIER_custom_earrings_female_fp3_iranian_earing_01: "@epe_icon_non_islamic_iranian_gold! Iranische Ohrringe 1"
+ PORTRAIT_MODIFIER_custom_earrings_female_fp3_iranian_earing_02: "@epe_icon_non_islamic_iranian_gold! Iranische Ohrringe 2"
+ PORTRAIT_MODIFIER_custom_earrings_female_fp3_iranian_earing_03: "@epe_icon_non_islamic_iranian_gold! Iranische Ohrringe 3"
+
+ PORTRAIT_MODIFIER_custom_earrings_female_ep2_western_earing_01: "@epe_icon_frankish_gold! Westliche Ohrringe 1"
+ PORTRAIT_MODIFIER_custom_earrings_female_ep2_western_earing_02: "@epe_icon_frankish_gold! Westliche Ohrringe 2"
+
+ PORTRAIT_MODIFIER_custom_earrings_female_ep3_byzantine_earing_01: "@epe_icon_byzantine_gold! EP3 Byzantinische Ohrringe 1"
+ PORTRAIT_MODIFIER_custom_earrings_female_ep3_byzantine_earing_02: "@epe_icon_byzantine_gold! EP3 Byzantinische Ohrringe 2"
+ PORTRAIT_MODIFIER_custom_earrings_female_ep3_byzantine_earing_03: "@epe_icon_byzantine_gold! EP3 Byzantinische Ohrringe 3"
+ PORTRAIT_MODIFIER_custom_earrings_female_ep3_byzantine_earing_04: "@epe_icon_byzantine_gold! EP3 Byzantinische Ohrringe 4"
