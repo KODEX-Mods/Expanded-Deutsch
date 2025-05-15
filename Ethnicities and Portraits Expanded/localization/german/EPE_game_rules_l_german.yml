@@ -1,20 +1,41 @@
 ﻿l_german:
 
- rule_epe_fullface_helmets: "Ethnicities and Portraits Expanded: Vollständig geschlossene Helme"
- setting_default_epe_fullface_helmets: "Geschlossene Helme Erlaubt (Standard)"
+game_rule_category_expanded_mod_series: "@epe_icon_epe_rule!Expanded Mod Series"
+
+ rule_epe_fullface_helmets: "EPE: Geschlossene Helme"
+ setting_default_epe_fullface_helmets: "Helme aktiviert (Standard)"
  setting_default_epe_fullface_helmets_desc: "Charaktere dürfen Helme tragen, die Kopf und Gesicht vollständig bedecken."
- setting_never_epe_fullface_helmets: "Geschlossene Helme Verboten"
+ setting_never_epe_fullface_helmets: "Helme deaktiviert"
  setting_never_epe_fullface_helmets_desc: "Charaktere tragen keine Helme, die Kopf und Gesicht vollständig bedecken."
 
- rule_epe_makeup_options: "Ethnicities and Portraits Expanded: Schminke"
- setting_default_epe_makeup: "Schminke erlaubt (Standard)"
+ rule_epe_makeup_options: "EPE: Schminke"
+ setting_default_epe_makeup: "Schminke aktiviert (Standard)"
  setting_default_epe_makeup_desc: "Charaktere werden kulturell adäquate Schminke tragen."
- setting_never_epe_makeup: "Schminke verboten"
+ setting_never_epe_makeup: "Schminke deaktiviert"
  setting_never_epe_makeup_desc: "Charaktere werden keine Schminke benutzen."
 
 
- rule_epe_inbred_options: "Ethnicities and Portraits Expanded: Inzuchtoptionen"
- setting_default_epe_inbred: "EPE-Inzuchtoptionen aktiviert (Standard)"
- setting_default_epe_inbred_desc: ""
- setting_disable_epe_inbred: "EPE-Inzuchtoptionen deaktiviert"
- setting_disable_epe_inbred_desc: ""
+ rule_epe_inbred_options: "@epe_icon_epe_rule!EPE: Inzuchtauswirkungen"
+ setting_default_epe_inbred: "Auswirkungen aktiviert (Standard)"
+ setting_default_epe_inbred_desc: "Charaktere mit dem Inzucht-Merkmal werden Gesichtsdeformationen aufweisen. Dies ist rein visuell und nicht in der DNA verankert."
+ setting_disable_epe_inbred: "Auswirkungen deaktiviert"
+ setting_disable_epe_inbred_desc: "Charaktere mit dem Inzucht-Merkmal werden keine Gesichtsdeformationen aufweisen."
+
+
+ rule_epe_clothes_sickness: "@epe_icon_epe_rule!EPE: Krankengewand"
+ setting_default_epe_clothes_sickness: "Krankengewand aktiviert (Standard)"
+ setting_default_epe_clothes_sickness_desc: "Charaktere werden bei Krankheit ein Krankengewand tragen."
+ setting_never_epe_clothes_sickness: "Krankengewand deaktiviert"
+ setting_never_epe_clothes_sickness_desc: "Charaktere werden bei Krankheit kein Krankengewand tragen, sondern ihre titelspezifische Kleidung."
+
+ rule_agot_balding: "@epe_icon_epe_rule!EPE: Haarausfall"
+ setting_agot_vanilla_balding: "Aktiviert (Standard)"
+ setting_agot_vanilla_balding_desc: "Charaktere werden mit der gleichen Rate wie im Vanilla-Spiel kahlköpfig."
+ setting_agot_no_balding: "Deaktiviert"
+ setting_agot_no_balding_desc: "Männliche Charaktere werden, wie im Vanilla-Spiel, niemals kahlköpfig."
+
+ rule_epe_ruler_designer_clothes: "@epe_icon_epe_rule!EPE: Herrscherdesigner-Kleidung"
+ setting_default_epe_ruler_designer_cloth: "Aktiviert (Standard)"
+ setting_default_epe_ruler_designer_cloth_desc: "Charaktere werden im Herrscherdesigner ein Nachthemd tragen."
+ setting_epe_ruler_designer_nude: "Deaktiviert"
+ setting_epe_ruler_designer_nude_desc: "Charaktere werden im Herrscherdesigner unbekleidet sein."

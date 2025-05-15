@@ -89,13 +89,13 @@
 ###Nose
  gene_bs_nose_central_width: "Breite der Nasenmitte"
  vanilla_nose_central_width: "Vanilla"
- nose_central_width_neg: "Breite der Nasenmitte Negative"
- nose_central_width_pos: "Breite der Nasenmitte Positive"
+ nose_central_width_neg: "Breite der Nasenmitte Negativ"
+ nose_central_width_pos: "Breite der Nasenmitte Positiv"
 
  gene_bs_nose_septum_width: "Breite des Nasenseptums"
  vanilla_nose_septum_width: "Vanilla"
- nose_septum_width_neg: "Breite des Nasenseptum Negative"
- nose_septum_width_pos: "Breite des Nasenseptum Positive"
+ nose_septum_width_neg: "Breite des Nasenseptum Negativ"
+ nose_septum_width_pos: "Breite des Nasenseptum Positiv"
 
  ##complexions
  complexion_beauty_1: "Beschaffenheit Schön"
@@ -139,45 +139,45 @@
  complexion_43: "Beschaffenheits-Typ 43"
  complexion_44: "Beschaffenheits-Typ 44"
  complexion_45: "Beschaffenheits-Typ 45"
- complexion_1af: "Beschaffenheit Afrikanisch 1"
- complexion_2af: "Beschaffenheit Afrikanisch 2"
- complexion_3af: "Beschaffenheit Afrikanisch 3"
- complexion_4af: "Beschaffenheit Afrikanisch 4"
- complexion_5af: "Beschaffenheit Afrikanisch 5"
- complexion_6af: "Beschaffenheit Afrikanisch 6"
- complexion_7af: "Beschaffenheit Afrikanisch 7"
- complexion_11a: "Beschaffenheit Asiatisch 11"
- complexion_12a: "Beschaffenheit Asiatisch 12"
- complexion_13a: "Beschaffenheit Asiatisch 13"
- complexion_14a: "Beschaffenheit Asiatisch 14"
- complexion_15a: "Beschaffenheit Asiatisch 15"
- complexion_16a: "Beschaffenheit Asiatisch 16"
+ complexion_1af: "Beschaffenheit Afrika 1"
+ complexion_2af: "Beschaffenheit Afrika 2"
+ complexion_3af: "Beschaffenheit Afrika 3"
+ complexion_4af: "Beschaffenheit Afrika 4"
+ complexion_5af: "Beschaffenheit Afrika 5"
+ complexion_6af: "Beschaffenheit Afrika 6"
+ complexion_7af: "Beschaffenheit Afrika 7"
+ complexion_11a: "Beschaffenheit Asien 11"
+ complexion_12a: "Beschaffenheit Asien 12"
+ complexion_13a: "Beschaffenheit Asien 13"
+ complexion_14a: "Beschaffenheit Asien 14"
+ complexion_15a: "Beschaffenheit Asien 15"
+ complexion_16a: "Beschaffenheit Asien 16"
 
- complexion_29a: "Beschaffenheit Asiatisch 29"
- complexion_30a: "Beschaffenheit Asiatisch 30"
- complexion_31a: "Beschaffenheit Asiatisch 31"
- complexion_32a: "Beschaffenheit Asiatisch 32"
- complexion_33a: "Beschaffenheit Asiatisch 33"
- complexion_34a: "Beschaffenheit Asiatisch 34"
- complexion_35a: "Beschaffenheit Asiatisch 35"
- complexion_36a: "Beschaffenheit Asiatisch 36"
- complexion_37a: "Beschaffenheit Asiatisch 37"
+ complexion_29a: "Beschaffenheit Asien 29"
+ complexion_30a: "Beschaffenheit Asien 30"
+ complexion_31a: "Beschaffenheit Asien 31"
+ complexion_32a: "Beschaffenheit Asien 32"
+ complexion_33a: "Beschaffenheit Asien 33"
+ complexion_34a: "Beschaffenheit Asien 34"
+ complexion_35a: "Beschaffenheit Asien 35"
+ complexion_36a: "Beschaffenheit Asien 36"
+ complexion_37a: "Beschaffenheit Asien 37"
 
 
- complexion_1in: "Beschaffenheit Indisch 1"
- complexion_2in: "Beschaffenheit Indisch 2"
- complexion_3in: "Beschaffenheit Indisch 3"
- complexion_4in: "Beschaffenheit Indisch 4"
- complexion_5in: "Beschaffenheit Indisch 5"
- complexion_6in: "Beschaffenheit Indisch 6"
- complexion_7in: "Beschaffenheit Indisch 7"
- complexion_8in: "Beschaffenheit Indisch 8"
- complexion_9in: "Beschaffenheit Indisch 9"
- complexion_10in: "Beschaffenheit Indisch 10"
- complexion_11in: "Beschaffenheit Indisch 11"
- complexion_12in: "Beschaffenheit Indisch 12"
- complexion_13in: "Beschaffenheit Indisch 13"
- complexion_14in: "Beschaffenheit Indisch 14"
+ complexion_1in: "Beschaffenheit Indien 1"
+ complexion_2in: "Beschaffenheit Indien 2"
+ complexion_3in: "Beschaffenheit Indien 3"
+ complexion_4in: "Beschaffenheit Indien 4"
+ complexion_5in: "Beschaffenheit Indien 5"
+ complexion_6in: "Beschaffenheit Indien 6"
+ complexion_7in: "Beschaffenheit Indien 7"
+ complexion_8in: "Beschaffenheit Indien 8"
+ complexion_9in: "Beschaffenheit Indien 9"
+ complexion_10in: "Beschaffenheit Indien 10"
+ complexion_11in: "Beschaffenheit Indien 11"
+ complexion_12in: "Beschaffenheit Indien 12"
+ complexion_13in: "Beschaffenheit Indien 13"
+ complexion_14in: "Beschaffenheit Indien 14"
 
 
  ##expression_eye_wrinkles
@@ -203,12 +203,12 @@
 
 ##hair
  gene_hair_type: "Genetischer Haartyp"
- hair_straight: "Glattes Haar Gene"
- hair_wavy: "Welliges Haar Gene"
- hair_curly: "Lockiges Haar Gene"
- hair_afro: "Afro-Haar Gene"
- hair_straight_thin_beard: "Glattes, dünnes Barthaar Gene"
- hair_straight_no_beard: "Glattes Haar(kein Bart)"
+ hair_straight: "Glattes Haar (Gen)"
+ hair_wavy: "Welliges Haar (Gen)"
+ hair_curly: "Lockiges Haar (Gen)"
+ hair_afro: "Afro-Haar (Gen)"
+ hair_straight_thin_beard: "Glattes, dünnes Barthaar (Gen)"
+ hair_straight_no_beard: "Glattes Haar (kein Bart)"
  hair_wavy_no_beard: "Welliges Haar (kein Bart)"
  hair_curly_no_beard: "Lockiges Haar (kein Bart)"
  hair_afro_no_beard: "Afro-Haar (kein Bart)"
@@ -242,9 +242,9 @@
 
 ##Blend shape Eyebrow Straight
 
- gene_bs_eyebrow_straight: "Blendshape Augenbraue Gerade"
+ gene_bs_eyebrow_straight: "Blendshape Augenbraue: Gerade"
  vanilla_eyebrow_straight: "Vanilla"
- eyebrow_straight: "Augenbraue Gerade"
+ eyebrow_straight: "Augenbraue: Gerade"
 
 ##Blend shape Head Asymmetry
 
@@ -274,6 +274,16 @@
  gene_bs_head_round_shape: "Runde Kopfform"
  vanilla_head_round_shape: "Vanilla"
  head_round_shape: "Runde Kopfform"
+ head_archetype_shape_01: "Kopfarchetyp 01"
+ head_archetype_shape_02: "Kopfarchetyp 02"
+ head_archetype_shape_03: "Kopfarchetyp 03"
+ head_archetype_shape_04: "Kopfarchetyp 04"
+ head_archetype_shape_05: "Kopfarchetyp 05"
+ head_archetype_shape_06: "Kopfarchetyp 06"
+ head_archetype_shape_07: "Kopfarchetyp 07"
+ head_archetype_shape_08: "Kopfarchetyp 08"
+ head_archetype_shape_09: "Kopfarchetyp 09"
+ head_archetype_shape_10: "Kopfarchetyp 10"
 
 ##Blend shape Nose Septum Height
 
@@ -283,9 +293,11 @@
 
 ##Blend shape Eye fold 2
 
- gene_bs_eye_fold_2: "Epikanthus-Falte 2"
- vanilla_eye_fold_2: "Vanilla"
- eye_fold_2: "Epikanthus-Falte 2"
+ eye_fold_shape_neg_02: "Augenfalte 03"
+ eye_fold_shape_neg: "Augenfalte 01"
+ eye_fold_shape_pos: "Augenfalte 02"
+#  vanilla_eye_fold_2: "Vanilla"
+#  eye_fold_2: "Epikanthus-Falte 2"
 
 ##Blend shape Eye fold 2
 
@@ -338,8 +350,8 @@
 
  face_detail_eye_upper_lid_def: "Definition des oberen Augenlids"
  vanilla_upper_lid_def: "Vanilla"
- upper_lid_def: "Definition Oberen Augenlids 1"
- upper_lid_def_2: "Definition Oberen Augenlids 2"
+ upper_lid_def: "Augenliddefinition oben 1"
+ upper_lid_def_2: "Augenliddefinition oben 2"
 
 ##Blend shape Face Upper Eyelid Definition
 #  eye_socket_color_01: "Socket Darker Type 1"
@@ -348,10 +360,10 @@
 
 ##Eyebrow Inner Width New
 
- gene_eyebrow_inner_width: "Augenbraueninnenseite"
- eyebrow_inner_width_max: "Max. Augenbraueninnenseite "
+ gene_eyebrow_inner_width: "Breite der Augenbraueninnenseite"
+ eyebrow_inner_width_max: "Max. Augenbraueninnenbreite "
  vanilla_eyebrow_inner_width: "Vanilla"
- eyebrow_inner_width_min: "Min. Augenbraueninnenseite"
+ eyebrow_inner_width_min: "Min. Augenbraueninnenbreite"
 
 ##Blend shape Lower Lid Size
 
@@ -363,15 +375,55 @@
 
  gene_bs_eye_shape: "Augenform"
  vanilla_eye_shape: "Vanilla"
- eye_shape_01: "Augenform 01 - Mandel"
+ eye_shape_01: "Augenform 01 - Mandelförmig"
 
  ##Blend shape Nasolabial Rotation
 
  gene_bs_nasolabial_rotation: "Nasolabialrotation"
  vanilla_nasolabial_rotation: "Vanilla"
- nasolabial_rotation: "Nasolabial Rotation"
+ nasolabial_rotation: "Nasolabialrotation"
 
 ##Eye Saturation
 
  eye_color_saturation: "Sättigung der Augenfarbe"
  vanilla_eye_saturation: "Vanilla"
+
+##Face Decals
+ gene_face_dacals: "Gesichtsschmuck"
+ no_face_dacal: "Kein Schmuck"
+ face_dacal_01: "Schmuck 01"
+ face_dacal_02: "Schmuck 02"
+ face_dacal_03: "Schmuck 03"
+ face_dacal_04: "Schmuck 04"
+ face_dacal_05: "Schmuck 05"
+ face_dacal_06: "Schmuck 06"
+ face_dacal_07: "Schmuck 07"
+ face_dacal_08: "Schmuck 08"
+ face_dacal_09: "Schmuck 09"
+ face_dacal_10: "Schmuck 10"
+
+ #Vanilla Additions
+
+ eye_upper_lid_size_pos: "Größe oberes Augenlid Positiv 1"
+ eye_upper_lid_size_pos_02: "Größe oberes Augenlid Positiv 2"
+ eye_upper_lid_size_neg: "Größe oberes Augenlid Negativ 1"
+
+ chin_def_02: "Schmales Kinn"
+
+ #Nose Profile Renames
+ nose_profile_neg: "Gerade 01"
+ nose_profile_pos: "Hakennase 01"
+ nose_profile_hawk: "Adlernase 01"
+ nose_profile_hawk_pos: "Adlernase 02"
+ nose_profile_aquiline_01: "Höckernase 01"
+ nose_profile_aquiline_02: "Höckernase 02"
+ nose_profile_brody_01: "Brody 01"
+
+##Blend shape Eye fold Overhaul
+ eye_fold_shape_neg: "Augenfalte 01"
+ eye_fold_shape_pos: "Augenfalte 02"
+ eye_fold_shape_neg_02: "Augenfalte 03"
+
+ #Nose Tip Def
+ nose_tip_def: "Definition Nasenspitze"
+ nose_tip_def_02: "Definition Nasenspitze 02"
