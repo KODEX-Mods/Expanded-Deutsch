@@ -78,6 +78,7 @@
  custom_outremer:0 "Outremer"
  custom_latvia:0 "Livland"
  custom_lotharingia:0 "Lothringen"
+ custom_bavaria: "Baiern" #Tannenzäpfle changed
  custom_bavaria:0 "Baiern"
  custom_germany:0 "Deutschland"
  custom_northern_italy:0 "Norditalien"
@@ -105,7 +106,7 @@
  custom_carolingian_germany:0 "Karolingisches Deutschland"
  custom_core_switzerland:0 "Alte Schweiz"
  custom_core_austria:0 "Österreich"
- custom_stretch_austria:0 "Oberbayern"
+ custom_stretch_austria:0 "Oberbaiern" #Tannenzäpfle changed
  custom_fennoscandia:0 "Fennoskandinavien"
  ghw_region_britannia:0 "die Britischen Inseln"
  ghw_region_germany:0 "Deutschland"
