@@ -193,7 +193,7 @@ name_list_jute: "Jütisch"
 
 name_list_svear: "Svearisch"
 
-name_list_dane: "Alt-Dänisch"
+name_list_dane: "Ur-Dänisch"
 
 name_list_geatish: "Gautisch"
 
@@ -877,8 +877,8 @@ name_list_norwegian_ce: "Norwegisch"
  heritage_armenian_collective_noun: "Armenier"
 
  #Heritage
- heritage_aramean_name: "Alt-Aramäisch"
- heritage_aramean_collective_noun: "Alt-Aramäer"
+ heritage_aramean_name: "Ur-Aramäisch"
+ heritage_aramean_collective_noun: "Ur-Aramäer"
 
  #Heritage
  heritage_arberian_name: "Arberisch"
@@ -4459,8 +4459,8 @@ name_list_norwegian_ce: "Norwegisch"
  heritage_armenian_collective_noun: "Armenier"
 
  #Heritage
- heritage_aramean_name: "Aramäisch"
- heritage_aramean_collective_noun: "Aramäer"
+ heritage_aramean_name: "Ur-Aramäisch"
+ heritage_aramean_collective_noun: "Ur-Aramäer"
 
  #Heritage
  heritage_arberian_name: "Arberisch"
