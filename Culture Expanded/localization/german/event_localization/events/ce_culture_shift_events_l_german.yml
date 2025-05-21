@@ -1,0 +1,33 @@
+﻿#Taken from WtWSMS-CK3; used with permission
+l_german:
+ #Heritage/Linguistic Drift
+ ## Language Drift
+ ce_bp_heritage_linguistic_drift.0002.t: "Sprache im Wandel der Zeit" #KODEX: 'Sprachliche Drift' ist der fachlichste Begriff, aber würde für die meisten seltsam klingen und Fragen verurachen, daher habe ich 'Sprachwandel' gewählt. Ach vergiss es, ich habe es jetzt 'Sprache im Wandel der Zeit' genannt, wenn schon, denn schon
+ ce_bp_heritage_linguistic_drift.0002.desc: "Mit der Zeit, durch politische Veränderungen und Wanderungsbewegungen, beginnen sich Sprachen zu verändern. Regionale Unterschiede nehmen zu, bis die gesprochene Sprache nicht mehr als dieselbe bezeichnet werden kann. Dies ist in der [shift_culture.GetName]en Kultur geschehen, deren Sprache sich nun deutlich von ihrer alten Form unterscheidet."
+ ce_bp_heritage_linguistic_drift.0002.middle_english.as_english_culture.desc: "Die Vermischung angelsächsischer und fränkischer Völker, die [shift_culture.GetName]e Kultur hervorbrachte, führte zu tiefgreifenden Veränderungen in der gemeinsamen Sprache. Der Einfluss der Kultur des Herrschers verändert nicht nur den Wortschatz, sondern auch die Orthografie und sogar die Grammatik der Alltagssprache rasant!\n\nbwohl es sich noch immer erkennbar um eine germanische Sprache handelt, sprechen die [shift_culture.GetCollectiveNoun] nun etwas grundlegend anderes als zuvor..."
+ ce_bp_heritage_linguistic_drift.0002.middle_english.not_as_english_culture.desc: "Die Eroberung [shift_culture.GetName]er Lande durch fränkische Völker hat zu tiefgreifenden Veränderungen in der gemeinsamen Sprache geführt. Der Einfluss der Kultur des Herrschers verändert nicht nur den Wortschatz, sondern auch die Orthografie und sogar die Grammatik der Alltagssprache rasant!\n\nObwohl es sich noch immer erkennbar um eine germanische Sprache handelt, sprechen die [shift_culture.GetCollectiveNoun] nun etwas grundlegend anderes als vor dieser Entwicklung..."
+ ce_bp_heritage_linguistic_drift.0002.accept: "Mit der Zeit müssen auch wir uns wandeln"
+ ce_bp_heritage_linguistic_drift.0002.accept.tooltip: "Die [language|E] Eurer [culture|E] hat sich zu [shift_culture.GetLanguage.GetName|V] gewandelt"
+ ce_bp_heritage_linguistic_drift.0003.t: "$ce_bp_heritage_linguistic_drift.0002.t$"
+ ce_bp_heritage_linguistic_drift.0003.middle_english.desc: "$ce_bp_heritage_linguistic_drift.0002.middle_english.desc$"
+ ce_bp_heritage_linguistic_drift.0003.middle_english.as_english_culture.desc: "$ce_bp_heritage_linguistic_drift.0002.middle_english.as_english_culture.desc$"
+ ce_bp_heritage_linguistic_drift.0003.middle_english.not_as_english_culture.desc: "$ce_bp_heritage_linguistic_drift.0002.middle_english.not_as_english_culture.desc$"
+ ce_bp_heritage_linguistic_drift.0003.desc: "$ce_bp_heritage_linguistic_drift.0002.desc$"
+ ce_bp_heritage_linguistic_drift.0003.accept_same_culture: "$ce_bp_heritage_linguistic_drift.0002.accept$"
+ ce_bp_heritage_linguistic_drift.0003.accept_same_culture.tooltip: "$ce_bp_heritage_linguistic_drift.0002.accept.tooltip$"
+ ce_bp_heritage_linguistic_drift.0003.accept_different_culture: "Ich verstehe"
+ ce_bp_heritage_linguistic_drift.0003.accept_different_culture.tooltip: "Die [language|E] der [shift_culture.GetName]en [culture|E] hat sich zu [shift_culture.GetLanguage.GetName|V] gewandelt"
+ ## Language Tooltips
+ ## Heritage Drift
+ ce_bp_heritage_linguistic_drift.0102.t: "Bräuchliche Entwicklung"
+ ce_bp_heritage_linguistic_drift.0102.alan.desc: "Einst beherrschten die [shift_culture.GetCollectiveNoun] die Steppen wie ihre skythischen Vorfahren. Generationenübergreifende Vertreibungen und Unterdrückungen haben die [shift_culture.GetCollectiveNoun] immer weiter in Richtung Kaukasus gedrängt, wo sie sich schließlich zahlreich niederließen.\n\nNun haben sie immer mehr die Sitten ihrer neuen Nachbarn übernommen, und die Bräuche des [shift_culture.GetName]en Volkes haben sich so sehr verändert, dass man sie nun als Kaukasen bezeichnet..."
+ ce_bp_heritage_linguistic_drift.0102.desc: "Mit der Zeit beginnen sich Bräuche zu unterscheiden, bis sie für die eigenen Vorfahren nicht mehr wiederzuerkennen sind. Dies ist dem [shift_culture.GetName]en Volk widerfahren, dessen Lebensweise sich klar von der ihrer Ahnen unterscheidet."
+ ce_bp_heritage_linguistic_drift.0102.accept: "Mit der Zeit müssen auch wir uns wandeln"
+ ce_bp_heritage_linguistic_drift.0102.accept.tooltip: "Die [heritage|E] Eurer [culture|E] hat sich zu [shift_culture.GetHeritage.GetName|V] gewandelt"
+ ce_bp_heritage_linguistic_drift.0103.t: "$ce_bp_heritage_linguistic_drift.0102.t$"
+ ce_bp_heritage_linguistic_drift.0103.alan.desc: "$ce_bp_heritage_linguistic_drift.0102.alan.desc$"
+ ce_bp_heritage_linguistic_drift.0103.desc: "$ce_bp_heritage_linguistic_drift.0102.desc$"
+ ce_bp_heritage_linguistic_drift.0103.accept_same_culture: "$ce_bp_heritage_linguistic_drift.0102.accept$"
+ ce_bp_heritage_linguistic_drift.0103.accept_same_culture.tooltip: "$ce_bp_heritage_linguistic_drift.0102.accept.tooltip$"
+ ce_bp_heritage_linguistic_drift.0103.accept_different_culture: "Ich verstehe"
+ ce_bp_heritage_linguistic_drift.0103.accept_different_culture.tooltip: "Die [heritage|E] der [shift_culture.GetName]en [culture|E] hat sich zu [shift_culture.GetHeritage.GetName|V] gewandelt"
