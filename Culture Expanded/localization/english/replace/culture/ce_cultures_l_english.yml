@@ -722,7 +722,19 @@
  #Arabic Custom Loc
  
  levantine_history_loc: "Formed from [bedouin|E] and [athoraya|E] around the year [DATE.GetYear]"
- 
+
+ hedjazi: "Hedjazi"
+
+ hedjazi_prefix: "Hedjazi"
+
+ hedjazi_collective_noun: "Hedjazi"
+
+ madan: "Ma'dān"
+
+ madan_prefix: "Ma'dāni"
+
+ madan_collective_noun: "Ma'dān"
+
  #Byzantine Custom Loc
  arberian_history_loc: "Formed from a culture of unknown origin around the year [DATE.GetYear]"
 
@@ -821,6 +833,11 @@
  syriac_history_loc: "Formed from [aramean|E] under [CULTURE.GetName] influence around the year [DATE.GetYear]"
  
  mandaic_history_loc: "Diverged from [chaldean|E] around the year [DATE.GetYear]"
+
+ nabati: "Nabati"
+ nabati_prefix: "Nabati"
+ nabati_collective_noun: "Nabati"
+ 
  
  #Iranians Custom Loc
  
