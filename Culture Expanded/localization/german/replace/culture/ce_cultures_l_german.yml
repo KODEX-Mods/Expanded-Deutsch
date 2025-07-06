@@ -723,6 +723,18 @@ name_list_norwegian_ce: "Norwegisch"
 
  levantine_history_loc: "Entstanden aus [bedouin|E] and [athoraya|E] um das Jahr [DATE.GetYear]"
 
+ hedjazi: "Hedschasisch"
+
+ hedjazi_prefix: "Hedschas"
+
+ hedjazi_collective_noun: "Hedschasi"
+
+ madan: "Ma'dānisch"
+
+ madan_prefix: "Ma'dāni"
+
+ madan_collective_noun: "Ma'dān"
+
  #Byzantine Custom Loc
  arberian_history_loc: "Entstanden aus einer Kultur unbekannter Herkunft um das Jahr [DATE.GetYear]"
 
@@ -821,6 +833,11 @@ name_list_norwegian_ce: "Norwegisch"
  syriac_history_loc: "Entstanden aus [aramean|E] unter [CULTURE.GetName]em Einfluss um das Jahr [DATE.GetYear]"
 
  mandaic_history_loc: "Abgezweigt von [chaldean|E] um das Jahr [DATE.GetYear]"
+
+ nabati: "Nabatäisch"
+ nabati_prefix: "Nabatäo"
+ nabati_collective_noun: "Nabatäer"
+
 
  #Iranians Custom Loc
 

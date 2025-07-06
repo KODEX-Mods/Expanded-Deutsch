@@ -101,9 +101,9 @@
 
  game_concept_berbers: "Imazighen" # Imazighen ist der Plural von Amazigh
  game_concept_berber: "Berberisch"
- game_concept_amazigh: "Amazigh"
- game_concept_amazighs: "Berber"
- game_concept_berbers_desc: "Berber"
+ game_concept_amazigh: "Amazighisch"
+ game_concept_amazighs: "Berberisch"
+ game_concept_berbers_desc: "Berberisch"
 
  game_concept_celtiberians: "Keltiberer"
  game_concept_celtiberian: "Keltiberisch"
